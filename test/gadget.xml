@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+    <ModulePrefs title="Identify SD Search Results Gadget"
+        description="Sample gadget showing how to identify which Hub search results correspond to ScienceDirect documents"
+        author_email="youremail@your.domain">
+        <Require feature="opensocial-0.9"/>
+        <Require feature="sciverse"/>
+    </ModulePrefs>
+    <Content type="html" view="profile,canvas"><![CDATA[
+    
+      <script type="text/javascript">
+
+        
+        /**
+         * Identify the SD search results. 
+         *
+         * Returns an array containing the indices of the SD search results
+         *
+         */
+        function identifySDResults(resultsDocs) {
+            
+            var sdDocs = new Array();
+            for(var doc in resultsDocs){
+                var srcTypes = resultsDocs[doc].srcType.split(';');
+                for(var srcType in srcTypes){
+                    if (srcTypes[srcType] == "sd") {
+                        sdDocs.push(doc);
+                        break;
+                    }
+                }
+            }
+            
+            return sdDocs;                        
+        }
+        
+        /**
+         * Get all search results
+         *
+         */
+        function getAllResults(){    
+            //Retrieve all the results from the hosting application.
+            gadgets.sciverse.getAllResults(getResultsCallback);
+        }
+
+        /**
+         * Callback to process the JSON object returned from getResults
+         *
+         */
+        function getResultsCallback(resultsDocs){
+            var sdDocs = identifySDResults(resultsDocs);
+            alert("ScienceDirect search results indices = " + sdDocs);
+        }
+
+      </script>
+
+      <div>
+        <p><a href="javascript:void(0);" onclick="getAllResults();">Identify SD Search Results</a></p>
+
+      </div>
+  
+]]></Content>
+</Module>

@@ -1,0 +1,2 @@
+http://localhost:8181/gte/gadgets/SampleGadget.xml
+http://localhost:8181/gte/gadgets/ContentAPIGadget.xml

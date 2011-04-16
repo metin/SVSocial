@@ -1,0 +1,291 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">
+	<title>AFFILIATION Search Results: affil(Jones)</title>
+	<updated>2010-07-07T16:13:21.896Z</updated>
+	<author>
+		<name>Elsevier, Inc.</name>
+	</author>
+	<id>http://l7-appl-dev:8080/content/search/index:AFFILIATION?query=affil(Jones)&amp;count=25&amp;start=0&amp;view=STANDARD</id>
+	<opensearch:totalResults>641</opensearch:totalResults>
+	<opensearch:startIndex>0</opensearch:startIndex>
+	<opensearch:itemsPerPage>25</opensearch:itemsPerPage>
+	<link href="http://l7-appl-dev:8080/content/search/index:AFFILIATION?query=affil(Jones)&amp;start=0&amp;count=25" ref="self" type="application/atom+xml"/>
+	<link href="http://l7-appl-dev:8080/content/search/index:AFFILIATION?query=affil(Jones)&amp;start=0&amp;count=25" ref="first" type="application/atom+xml"/>
+	<link href="http://l7-appl-dev:8080/content/search/index:AFFILIATION?query=affil(Jones)&amp;start=25&amp;count=25" ref="next" type="application/atom+xml"/>
+	<link href="http://l7-appl-dev:8080/content/search/index:AFFILIATION?query=affil(Jones)&amp;start=616&amp;count=25" ref="last" type="application/atom+xml"/>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/AFFILIATION_ID:100719978" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:AFFILIATION?query=afid(100719978)" ref="search"/>
+		<link href="http://api.elsevier.com/content/search/index:AUTHOR?query=afid(100719978)" ref="author-search"/>
+		<link href="http://www.scopus.com/affilid/detail.url?afid=100719978" ref="scopus-affiliation"/>
+		<affiliation-name>Jones Microbiology Institute | Jones Microbiology Institute ^ Jones Microbiology Institute Laboratories</affiliation-name>
+		<name-variant>Jones Microbiology Institute | Jones Microbiology Institute Laboratories</name-variant>
+		<document-count>6</document-count>
+		<city>North Liberty</city>
+		<country>United States</country>
+		<dc:identifier>100719978</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/AFFILIATION_ID:104236349" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:AFFILIATION?query=afid(104236349)" ref="search"/>
+		<link href="http://api.elsevier.com/content/search/index:AUTHOR?query=afid(104236349)" ref="author-search"/>
+		<link href="http://www.scopus.com/affilid/detail.url?afid=104236349" ref="scopus-affiliation"/>
+		<affiliation-name>The Robert Jones and Agnes Hunt Orthopaedic and District Hospital NHS Trust</affiliation-name>
+		<document-count>3</document-count>
+		<dc:identifier>104236349</dc:identifier>
+		<parent-affiliation-id>60024568</parent-affiliation-id>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/AFFILIATION_ID:102714902" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:AFFILIATION?query=afid(102714902)" ref="search"/>
+		<link href="http://api.elsevier.com/content/search/index:AUTHOR?query=afid(102714902)" ref="author-search"/>
+		<link href="http://www.scopus.com/affilid/detail.url?afid=102714902" ref="scopus-affiliation"/>
+		<affiliation-name>Washington Off. of Jones Day R.</affiliation-name>
+		<document-count>1</document-count>
+		<dc:identifier>102714902</dc:identifier>
+		<parent-affiliation-id>100852059</parent-affiliation-id>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/AFFILIATION_ID:106430566" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:AFFILIATION?query=afid(106430566)" ref="search"/>
+		<link href="http://api.elsevier.com/content/search/index:AUTHOR?query=afid(106430566)" ref="author-search"/>
+		<link href="http://www.scopus.com/affilid/detail.url?afid=106430566" ref="scopus-affiliation"/>
+		<affiliation-name>J. Jones Consulting | J. Jones Consulting</affiliation-name>
+		<name-variant>J. Jones Consulting</name-variant>
+		<document-count>1</document-count>
+		<city>Denver</city>
+		<country>United States</country>
+		<dc:identifier>106430566</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/AFFILIATION_ID:102940707" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:AFFILIATION?query=afid(102940707)" ref="search"/>
+		<link href="http://api.elsevier.com/content/search/index:AUTHOR?query=afid(102940707)" ref="author-search"/>
+		<link href="http://www.scopus.com/affilid/detail.url?afid=102940707" ref="scopus-affiliation"/>
+		<affiliation-name>Larry Jones Professor of Corporate Governance</affiliation-name>
+		<document-count>1</document-count>
+		<dc:identifier>102940707</dc:identifier>
+		<parent-affiliation-id>101703102</parent-affiliation-id>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/AFFILIATION_ID:100783978" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:AFFILIATION?query=afid(100783978)" ref="search"/>
+		<link href="http://api.elsevier.com/content/search/index:AUTHOR?query=afid(100783978)" ref="author-search"/>
+		<link href="http://www.scopus.com/affilid/detail.url?afid=100783978" ref="scopus-affiliation"/>
+		<affiliation-name>Jones Day | Jones Day</affiliation-name>
+		<name-variant>Jones Day</name-variant>
+		<document-count>3</document-count>
+		<city>New York</city>
+		<country>United States</country>
+		<dc:identifier>100783978</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/AFFILIATION_ID:108330928" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:AFFILIATION?query=afid(108330928)" ref="search"/>
+		<link href="http://api.elsevier.com/content/search/index:AUTHOR?query=afid(108330928)" ref="author-search"/>
+		<link href="http://www.scopus.com/affilid/detail.url?afid=108330928" ref="scopus-affiliation"/>
+		<affiliation-name>Robert Jones and Agnes Hunt (RJAH) Orthopaedic and District Hospital NHS Trust | Robert Jones and Agnes Hunt (RJAH) Orthopaedic and District Hospital NHS Trust</affiliation-name>
+		<name-variant>Robert Jones and Agnes Hunt (RJAH) Orthopaedic and District Hospital NHS Trust</name-variant>
+		<document-count>1</document-count>
+		<country>United Kingdom</country>
+		<dc:identifier>108330928</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/AFFILIATION_ID:104236331" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:AFFILIATION?query=afid(104236331)" ref="search"/>
+		<link href="http://api.elsevier.com/content/search/index:AUTHOR?query=afid(104236331)" ref="author-search"/>
+		<link href="http://www.scopus.com/affilid/detail.url?afid=104236331" ref="scopus-affiliation"/>
+		<affiliation-name>The Robert Jones and Agnes Hunt Orthopaedic and District Hospital NHS Trust</affiliation-name>
+		<document-count>6</document-count>
+		<dc:identifier>104236331</dc:identifier>
+		<parent-affiliation-id>60024568</parent-affiliation-id>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/AFFILIATION_ID:104236358" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:AFFILIATION?query=afid(104236358)" ref="search"/>
+		<link href="http://api.elsevier.com/content/search/index:AUTHOR?query=afid(104236358)" ref="author-search"/>
+		<link href="http://www.scopus.com/affilid/detail.url?afid=104236358" ref="scopus-affiliation"/>
+		<affiliation-name>The Robert Jones and Agnes Hunt Orthopaedic and District Hospital NHS Trust</affiliation-name>
+		<document-count>1</document-count>
+		<dc:identifier>104236358</dc:identifier>
+		<parent-affiliation-id>60024568</parent-affiliation-id>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/AFFILIATION_ID:100726598" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:AFFILIATION?query=afid(100726598)" ref="search"/>
+		<link href="http://api.elsevier.com/content/search/index:AUTHOR?query=afid(100726598)" ref="author-search"/>
+		<link href="http://www.scopus.com/affilid/detail.url?afid=100726598" ref="scopus-affiliation"/>
+		<affiliation-name>Jones &amp; Shipman plc | Jones &amp; Shipman Plc ^ Jones &amp; Shipman plc</affiliation-name>
+		<name-variant>Jones &amp; Shipman Plc | Jones &amp; Shipman plc</name-variant>
+		<document-count>2</document-count>
+		<city>Leicester</city>
+		<country>United Kingdom</country>
+		<dc:identifier>100726598</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/AFFILIATION_ID:101672097" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:AFFILIATION?query=afid(101672097)" ref="search"/>
+		<link href="http://api.elsevier.com/content/search/index:AUTHOR?query=afid(101672097)" ref="author-search"/>
+		<link href="http://www.scopus.com/affilid/detail.url?afid=101672097" ref="scopus-affiliation"/>
+		<affiliation-name>Robert Jones Agnes Hunt Orthoped. D. | Robert Jones Agnes Hunt Orthoped. D.</affiliation-name>
+		<name-variant>Robert Jones Agnes Hunt Orthoped. D.</name-variant>
+		<document-count>1</document-count>
+		<city>Newport, Gwent</city>
+		<country>United Kingdom</country>
+		<dc:identifier>101672097</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/AFFILIATION_ID:101341275" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:AFFILIATION?query=afid(101341275)" ref="search"/>
+		<link href="http://api.elsevier.com/content/search/index:AUTHOR?query=afid(101341275)" ref="author-search"/>
+		<link href="http://www.scopus.com/affilid/detail.url?afid=101341275" ref="scopus-affiliation"/>
+		<affiliation-name>Clayton Jones Referrals | Clayton Jones Referrals</affiliation-name>
+		<name-variant>Clayton Jones Referrals</name-variant>
+		<document-count>1</document-count>
+		<city>Tenterden</city>
+		<country>United Kingdom</country>
+		<dc:identifier>101341275</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/AFFILIATION_ID:105854086" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:AFFILIATION?query=afid(105854086)" ref="search"/>
+		<link href="http://api.elsevier.com/content/search/index:AUTHOR?query=afid(105854086)" ref="author-search"/>
+		<link href="http://www.scopus.com/affilid/detail.url?afid=105854086" ref="scopus-affiliation"/>
+		<affiliation-name>Robert Jones and Agnes Hunt Orthopaedic Hospital | Robert Jones and Agnes Hunt Orthopaedic Hospital</affiliation-name>
+		<name-variant>Robert Jones and Agnes Hunt Orthopaedic Hospital</name-variant>
+		<document-count>0</document-count>
+		<country>United States</country>
+		<dc:identifier>105854086</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/AFFILIATION_ID:107133116" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:AFFILIATION?query=afid(107133116)" ref="search"/>
+		<link href="http://api.elsevier.com/content/search/index:AUTHOR?query=afid(107133116)" ref="author-search"/>
+		<link href="http://www.scopus.com/affilid/detail.url?afid=107133116" ref="scopus-affiliation"/>
+		<affiliation-name>Capers Jones and Associates LLC | Capers Jones and Associates LLC</affiliation-name>
+		<name-variant>Capers Jones and Associates LLC</name-variant>
+		<document-count>1</document-count>
+		<dc:identifier>107133116</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/AFFILIATION_ID:101498381" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:AFFILIATION?query=afid(101498381)" ref="search"/>
+		<link href="http://api.elsevier.com/content/search/index:AUTHOR?query=afid(101498381)" ref="author-search"/>
+		<link href="http://www.scopus.com/affilid/detail.url?afid=101498381" ref="scopus-affiliation"/>
+		<affiliation-name>Trevor Jones Tetraplegic Trust | Trevor Jones Tetraplegic Trust</affiliation-name>
+		<name-variant>Trevor Jones Tetraplegic Trust</name-variant>
+		<document-count>1</document-count>
+		<city>London</city>
+		<country>United Kingdom</country>
+		<dc:identifier>101498381</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/AFFILIATION_ID:106635840" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:AFFILIATION?query=afid(106635840)" ref="search"/>
+		<link href="http://api.elsevier.com/content/search/index:AUTHOR?query=afid(106635840)" ref="author-search"/>
+		<link href="http://www.scopus.com/affilid/detail.url?afid=106635840" ref="scopus-affiliation"/>
+		<affiliation-name>Bob Jones University</affiliation-name>
+		<document-count>1</document-count>
+		<dc:identifier>106635840</dc:identifier>
+		<parent-affiliation-id>60002545</parent-affiliation-id>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/AFFILIATION_ID:101282309" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:AFFILIATION?query=afid(101282309)" ref="search"/>
+		<link href="http://api.elsevier.com/content/search/index:AUTHOR?query=afid(101282309)" ref="author-search"/>
+		<link href="http://www.scopus.com/affilid/detail.url?afid=101282309" ref="scopus-affiliation"/>
+		<affiliation-name>Llewellyn Jones 1530 Depto.201 | Llewellyn Jones 1530 Depto.201</affiliation-name>
+		<name-variant>Llewellyn Jones 1530 Depto.201</name-variant>
+		<document-count>1</document-count>
+		<city>Santiago</city>
+		<country>Chile</country>
+		<dc:identifier>101282309</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/AFFILIATION_ID:20868709" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:AFFILIATION?query=afid(20868709)" ref="search"/>
+		<link href="http://api.elsevier.com/content/search/index:AUTHOR?query=afid(20868709)" ref="author-search"/>
+		<link href="http://www.scopus.com/affilid/detail.url?afid=20868709" ref="scopus-affiliation"/>
+		<affiliation-name>The Howard and Georgeanna Jones Institute for Reproductive Medicine</affiliation-name>
+		<document-count>0</document-count>
+		<dc:identifier>20868709</dc:identifier>
+		<parent-affiliation-id>19750962</parent-affiliation-id>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/AFFILIATION_ID:101002721" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:AFFILIATION?query=afid(101002721)" ref="search"/>
+		<link href="http://api.elsevier.com/content/search/index:AUTHOR?query=afid(101002721)" ref="author-search"/>
+		<link href="http://www.scopus.com/affilid/detail.url?afid=101002721" ref="scopus-affiliation"/>
+		<affiliation-name>J. A. Jones Construction Services Co | J. A. Jones Construction Services Co</affiliation-name>
+		<name-variant>J. A. Jones Construction Services Co</name-variant>
+		<document-count>1</document-count>
+		<city>Richland</city>
+		<country>United States</country>
+		<dc:identifier>101002721</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/AFFILIATION_ID:101418380" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:AFFILIATION?query=afid(101418380)" ref="search"/>
+		<link href="http://api.elsevier.com/content/search/index:AUTHOR?query=afid(101418380)" ref="author-search"/>
+		<link href="http://www.scopus.com/affilid/detail.url?afid=101418380" ref="scopus-affiliation"/>
+		<affiliation-name>Jones Environmental Laboratory | Jones Environmental Laboratory</affiliation-name>
+		<name-variant>Jones Environmental Laboratory</name-variant>
+		<document-count>1</document-count>
+		<city>Fullerton</city>
+		<country>United States</country>
+		<dc:identifier>101418380</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/AFFILIATION_ID:106128872" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:AFFILIATION?query=afid(106128872)" ref="search"/>
+		<link href="http://api.elsevier.com/content/search/index:AUTHOR?query=afid(106128872)" ref="author-search"/>
+		<link href="http://www.scopus.com/affilid/detail.url?afid=106128872" ref="scopus-affiliation"/>
+		<affiliation-name>Sir Alfred Lewis Jones Research Laboratory | Sir Alfred Lewis Jones Research Laboratory</affiliation-name>
+		<name-variant>Sir Alfred Lewis Jones Research Laboratory</name-variant>
+		<document-count>1</document-count>
+		<country>Sierra Leone</country>
+		<dc:identifier>106128872</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/AFFILIATION_ID:100556460" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:AFFILIATION?query=afid(100556460)" ref="search"/>
+		<link href="http://api.elsevier.com/content/search/index:AUTHOR?query=afid(100556460)" ref="author-search"/>
+		<link href="http://www.scopus.com/affilid/detail.url?afid=100556460" ref="scopus-affiliation"/>
+		<affiliation-name>Jones and Wagener (Pty) Ltd | Jones and Wagener (Pty) Ltd</affiliation-name>
+		<name-variant>Jones and Wagener (Pty) Ltd</name-variant>
+		<document-count>3</document-count>
+		<dc:identifier>100556460</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/AFFILIATION_ID:100969920" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:AFFILIATION?query=afid(100969920)" ref="search"/>
+		<link href="http://api.elsevier.com/content/search/index:AUTHOR?query=afid(100969920)" ref="author-search"/>
+		<link href="http://www.scopus.com/affilid/detail.url?afid=100969920" ref="scopus-affiliation"/>
+		<affiliation-name>Mclean Jones McCarthy Ltd | Mclean Jones McCarthy Ltd</affiliation-name>
+		<name-variant>Mclean Jones McCarthy Ltd</name-variant>
+		<document-count>1</document-count>
+		<dc:identifier>100969920</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/AFFILIATION_ID:21208822" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:AFFILIATION?query=afid(21208822)" ref="search"/>
+		<link href="http://api.elsevier.com/content/search/index:AUTHOR?query=afid(21208822)" ref="author-search"/>
+		<link href="http://www.scopus.com/affilid/detail.url?afid=21208822" ref="scopus-affiliation"/>
+		<affiliation-name>Robert Jones and Agnes Hunt Orthop. Hosp</affiliation-name>
+		<document-count>0</document-count>
+		<dc:identifier>21208822</dc:identifier>
+		<parent-affiliation-id>19565060</parent-affiliation-id>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/AFFILIATION_ID:60079700" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:AFFILIATION?query=afid(60079700)" ref="search"/>
+		<link href="http://api.elsevier.com/content/search/index:AUTHOR?query=afid(60079700)" ref="author-search"/>
+		<link href="http://www.scopus.com/affilid/detail.url?afid=60079700" ref="scopus-affiliation"/>
+		<affiliation-name>Dow Jones &amp; Company, Inc. | Dow Jones &amp; Co, Inc ^ Dow Jones &amp; Co Inc ^ Dow Jones and Co.</affiliation-name>
+		<name-variant>Dow Jones &amp; Co, Inc | Dow Jones &amp; Co Inc | Dow Jones and Co.</name-variant>
+		<document-count>11</document-count>
+		<city>New York</city>
+		<country>United States</country>
+		<dc:identifier>60079700</dc:identifier>
+	</entry>
+</feed>

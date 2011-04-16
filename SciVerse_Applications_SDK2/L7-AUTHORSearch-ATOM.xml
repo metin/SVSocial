@@ -1,0 +1,516 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">
+	<title>AUTHOR Search Results: authlast(jones)</title>
+	<updated>2010-07-07T16:10:47.165Z</updated>
+	<author>
+		<name>Elsevier, Inc.</name>
+	</author>
+	<id>http://l7-appl-dev:8080/content/search/index:AUTHOR?query=authlast(jones)&amp;count=25&amp;start=0&amp;view=STANDARD</id>
+	<opensearch:totalResults>65866</opensearch:totalResults>
+	<opensearch:startIndex>0</opensearch:startIndex>
+	<opensearch:itemsPerPage>25</opensearch:itemsPerPage>
+	<link href="http://l7-appl-dev:8080/content/search/index:AUTHOR?query=authlast(jones)&amp;start=0&amp;count=25" ref="self" type="application/atom+xml"/>
+	<link href="http://l7-appl-dev:8080/content/search/index:AUTHOR?query=authlast(jones)&amp;start=0&amp;count=25" ref="first" type="application/atom+xml"/>
+	<link href="http://l7-appl-dev:8080/content/search/index:AUTHOR?query=authlast(jones)&amp;start=25&amp;count=25" ref="next" type="application/atom+xml"/>
+	<link href="http://l7-appl-dev:8080/content/search/index:AUTHOR?query=authlast(jones)&amp;start=65841&amp;count=25" ref="last" type="application/atom+xml"/>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/author_id:34975080900" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:author?auid(34975080900)" ref="search"/>
+		<link href="http://www.scopus.com/author/citedby.url?origin=bkapi&amp;citedAuthorId=34975080900" ref="scopus-citedby"/>
+		<link href="http://www.scopus.com/authid/detail.url?authorId=34975080900" ref="scopus-author"/>
+		<preferred-name>
+			<surname>Jones, Jones, Jones, Jones, Snow Jones, Jones, Jones, Jones, Jones, Jones, Jones, Jones, Jones, Jones, Jones, Jones, Jones</surname>
+			<given-name>Alison Snow, A.S., A., A. M., A. Lesley, Alison, Alison Graves, A. L., Alison Linda, A. C., Alison S., A. S., Alison M., Alison, Alison L., Alan L., Alison Louise, Alison A., A., A.M., A.L., A., A.G., A.L., A.L., A.C., A.S., A.S., A.M., A., A.L., A.L., A.L., A.A.</given-name>
+		</preferred-name>
+		<document-count>254</document-count>
+		<subject-area>267 MEDI | 4 ENGI | 97 BIOC</subject-area>
+		<name-variant>A. Jones | A. M. Jones | A. Lesley Jones</name-variant>
+		<affiliation-current>
+			<affiliation-name>UCL</affiliation-name>
+			<affiliation-id>60022148</affiliation-id>
+			<affiliation-city>London</affiliation-city>
+			<affiliation-country>United Kingdom</affiliation-country>
+		</affiliation-current>
+		<dc:identifier>34975080900</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/author_id:26324667200" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:author?auid(26324667200)" ref="search"/>
+		<link href="http://www.scopus.com/author/citedby.url?origin=bkapi&amp;citedAuthorId=26324667200" ref="scopus-citedby"/>
+		<link href="http://www.scopus.com/authid/detail.url?authorId=26324667200" ref="scopus-author"/>
+		<preferred-name>
+			<surname>Jones, Jones, Jones, Jones, Eric Jones, Jones, Jones, Jones, Jones, Jones, Jones, Jones, Jones</surname>
+			<given-name>John Griffith, J.G., J. E., John T., John, J., John Eric, John E., J. T., J., J. E. L., J. Eric, J. G., John G., J.E., J.T., J., J., J.E., J.E., J.T., J., J.E.L., J.E., J.G., J.G.</given-name>
+		</preferred-name>
+		<document-count>113</document-count>
+		<subject-area>26 MEDI | 3 COMP | 5 SOCI</subject-area>
+		<name-variant>J. E. Jones | John T. Jones | John Jones</name-variant>
+		<affiliation-current>
+			<affiliation-name>Washington State University Pullman</affiliation-name>
+			<affiliation-id>60018208</affiliation-id>
+			<affiliation-city>Pullman</affiliation-city>
+			<affiliation-country>United States</affiliation-country>
+		</affiliation-current>
+		<dc:identifier>26324667200</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/author_id:25823788800" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:author?auid(25823788800)" ref="search"/>
+		<link href="http://www.scopus.com/author/citedby.url?origin=bkapi&amp;citedAuthorId=25823788800" ref="scopus-citedby"/>
+		<link href="http://www.scopus.com/authid/detail.url?authorId=25823788800" ref="scopus-author"/>
+		<preferred-name>
+			<surname>Jones, Jones, Jones, Jones, Jones, Jones, Jones, Jones, Jones, Jones, Jones</surname>
+			<given-name>Robert J S, R.J.S., Robert L., Robert J., Robert E., Robert K., Robert A., Robert, R. E., R. L., R., R. J., R.L., R.J., R.E., R.K., R.A., R., R.E., R.L., R., R.J.</given-name>
+		</preferred-name>
+		<document-count>174</document-count>
+		<subject-area>5 NURS | 89 MEDI | 7 MATE</subject-area>
+		<name-variant>Robert L. Jones | Robert J. Jones | Robert E. Jones</name-variant>
+		<affiliation-current>
+			<affiliation-name>Case Western Reserve University</affiliation-name>
+			<affiliation-id>60000305</affiliation-id>
+			<affiliation-city>Cleveland</affiliation-city>
+			<affiliation-country>United States</affiliation-country>
+		</affiliation-current>
+		<dc:identifier>25823788800</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/author_id:26643061300" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:author?auid(26643061300)" ref="search"/>
+		<link href="http://www.scopus.com/author/citedby.url?origin=bkapi&amp;citedAuthorId=26643061300" ref="scopus-citedby"/>
+		<link href="http://www.scopus.com/authid/detail.url?authorId=26643061300" ref="scopus-author"/>
+		<preferred-name>
+			<surname>Jones, Kim, Kim, Jones, Kim, Jones, Jones, Jones, Jones, Kim, Kim, Jones, Jones, Jones, Jones</surname>
+			<given-name>Timothy Jin, T.J., H. J., H., Timothy William, Hong Jin, T. W., Terry W., Tim W., Timothy W., Hong, Hong J., Tim, T., Timothy, Tudor W., H.J., H., T.W., H.J., T.W., T.W., T.W., T.W., H., H.J., T., T., T., T.W.</given-name>
+		</preferred-name>
+		<document-count>363</document-count>
+		<subject-area>7 PHAR | 72 IMMU | 16 ENVI</subject-area>
+		<name-variant>H. J. Kim | H. Kim | Timothy William Jones</name-variant>
+		<affiliation-current>
+			<affiliation-name>Chungnam National University</affiliation-name>
+			<affiliation-id>60022417</affiliation-id>
+			<affiliation-city>Daejeon</affiliation-city>
+			<affiliation-country>South Korea</affiliation-country>
+		</affiliation-current>
+		<dc:identifier>26643061300</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/author_id:25625068200" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:author?auid(25625068200)" ref="search"/>
+		<link href="http://www.scopus.com/author/citedby.url?origin=bkapi&amp;citedAuthorId=25625068200" ref="scopus-citedby"/>
+		<link href="http://www.scopus.com/authid/detail.url?authorId=25625068200" ref="scopus-author"/>
+		<preferred-name>
+			<surname>Jones, Jones, Jones, Jones, Jones, Jones, Jones, Jones, Jones, Jones</surname>
+			<given-name>Lynne J G, L.J.G., L., Leonie, Lynne C., L. C., L. M. H., Lauren S., L. Tapper, L. S., Linda S., L., L., L.C., L.C., L.M.H., L.S., L.T., L.S., L.S.</given-name>
+		</preferred-name>
+		<document-count>133</document-count>
+		<subject-area>9 NURS | 170 MEDI | 6 HEAL</subject-area>
+		<name-variant>L. Jones | Leonie Jones | Lynne C. Jones</name-variant>
+		<affiliation-current>
+			<affiliation-name>St Bartholomew's Hospital</affiliation-name>
+			<affiliation-id>60004093</affiliation-id>
+			<affiliation-city>London</affiliation-city>
+			<affiliation-country>United Kingdom</affiliation-country>
+		</affiliation-current>
+		<dc:identifier>25625068200</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/author_id:22985436200" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:author?auid(22985436200)" ref="search"/>
+		<link href="http://www.scopus.com/author/citedby.url?origin=bkapi&amp;citedAuthorId=22985436200" ref="scopus-citedby"/>
+		<link href="http://www.scopus.com/authid/detail.url?authorId=22985436200" ref="scopus-author"/>
+		<preferred-name>
+			<surname>Jones, Jones, Jones, Jones, Jones, Jones, Jones, Jones, Jones, Jones</surname>
+			<given-name>Derek Kenton, D.K., D., D. W., Derek K., Derek W., D. H. P., Derek, D. C., D. K., Derek C., D., D.W., D.K., D.W., D.H.P., D., D.C., D.K., D.C.</given-name>
+		</preferred-name>
+		<document-count>187</document-count>
+		<subject-area>4 PSYC | 70 MEDI | 9 ENGI</subject-area>
+		<name-variant>D. Jones | D. W. Jones | Derek K. Jones</name-variant>
+		<affiliation-current>
+			<affiliation-name>Dalhousie University</affiliation-name>
+			<affiliation-id>60015913</affiliation-id>
+			<affiliation-city>Halifax</affiliation-city>
+			<affiliation-country>Canada</affiliation-country>
+		</affiliation-current>
+		<dc:identifier>22985436200</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/author_id:7102104770" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:author?auid(7102104770)" ref="search"/>
+		<link href="http://www.scopus.com/author/citedby.url?origin=bkapi&amp;citedAuthorId=7102104770" ref="scopus-citedby"/>
+		<link href="http://www.scopus.com/authid/detail.url?authorId=7102104770" ref="scopus-author"/>
+		<preferred-name>
+			<surname>LENNARD-JONES, Lennard-Jones, Lennard-Jones, Lennard -Jones, Lennard-Jones, Lennard Jones, Lennard Jones, Lennard-Jones, LENNARD-JONES, Lennard-jones</surname>
+			<given-name>John E., J.E., John E., John, J. E., J. E., J. E., J., J., J. E., J. E., J.E., J., J.E., J.E., J.E., J., J., J.E., J.E.</given-name>
+		</preferred-name>
+		<document-count>302</document-count>
+		<subject-area>388 MEDI | 5 NEUR | 1 MULT</subject-area>
+		<name-variant>John E. Lennard-Jones | John Lennard-Jones | J. E. Lennard -Jones</name-variant>
+		<affiliation-current>
+			<affiliation-name>St. Mark's Hospital and Academic Institute</affiliation-name>
+			<affiliation-id>60022734</affiliation-id>
+			<affiliation-city/>
+			<affiliation-country>United Kingdom</affiliation-country>
+		</affiliation-current>
+		<dc:identifier>7102104770</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/author_id:26037427300" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:author?auid(26037427300)" ref="search"/>
+		<link href="http://www.scopus.com/author/citedby.url?origin=bkapi&amp;citedAuthorId=26037427300" ref="scopus-citedby"/>
+		<link href="http://www.scopus.com/authid/detail.url?authorId=26037427300" ref="scopus-author"/>
+		<preferred-name>
+			<surname>Jones, Jones, Jones, Jones, Jones, Jones, Jones, Jones, Jones</surname>
+			<given-name>Phil D., P.D., P. J., Phillip, Phil J., P., Phil I., P. D., Phil, Philip, P.J., P., P.J., P., P.I., P.D., P., P.</given-name>
+		</preferred-name>
+		<document-count>196</document-count>
+		<subject-area>54 AGRI | 31 ENGI | 33 EART</subject-area>
+		<name-variant>P. J. Jones | Phillip Jones | Phil J. Jones</name-variant>
+		<affiliation-current>
+			<affiliation-name>University of East Anglia</affiliation-name>
+			<affiliation-id>60000112</affiliation-id>
+			<affiliation-city>Norwich</affiliation-city>
+			<affiliation-country>United Kingdom</affiliation-country>
+		</affiliation-current>
+		<dc:identifier>26037427300</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/author_id:34975077500" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:author?auid(34975077500)" ref="search"/>
+		<link href="http://www.scopus.com/author/citedby.url?origin=bkapi&amp;citedAuthorId=34975077500" ref="scopus-citedby"/>
+		<link href="http://www.scopus.com/authid/detail.url?authorId=34975077500" ref="scopus-author"/>
+		<preferred-name>
+			<surname>Jones, Jones, Jones, Jones, Jones, Jones, Jones, Jones, Jones</surname>
+			<given-name>Kenneth Lyons, K.L., Kenneth L., Kenneth Lyon, Kenneth Lee, Kenneth, K. L., Ken Lyons, Kristen L., K., K.L., K.L., K.L., K., K.L., K.L., K.L., K.</given-name>
+		</preferred-name>
+		<document-count>303</document-count>
+		<subject-area>1 COMP | 2 MULT | 19 NEUR</subject-area>
+		<name-variant>Kenneth L. Jones | Kenneth Lyon Jones | Kenneth Lee Jones</name-variant>
+		<affiliation-current>
+			<affiliation-name>Kansas State University at Manhattan</affiliation-name>
+			<affiliation-id>60000689</affiliation-id>
+			<affiliation-city>Manhattan</affiliation-city>
+			<affiliation-country>United States</affiliation-country>
+		</affiliation-current>
+		<dc:identifier>34975077500</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/author_id:7501541653" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:author?auid(7501541653)" ref="search"/>
+		<link href="http://www.scopus.com/author/citedby.url?origin=bkapi&amp;citedAuthorId=7501541653" ref="scopus-citedby"/>
+		<link href="http://www.scopus.com/authid/detail.url?authorId=7501541653" ref="scopus-author"/>
+		<preferred-name>
+			<surname>Jones, Jones, Jones, Jones, Jones, Jones, Jones, Jones, Jones</surname>
+			<given-name>Roger W L, R.W.L., R. K., R. W., Roger H., Roger, R. W. L., R. WL, R., Roger K., R.K., R.W., R.H., R., R.W.L., R.W., R., R.K.</given-name>
+		</preferred-name>
+		<document-count>241</document-count>
+		<subject-area>226 PHYS | 62 MEDI | 6 IMMU</subject-area>
+		<name-variant>R. K. Jones | R. W. Jones | Roger H. Jones</name-variant>
+		<affiliation-current>
+			<affiliation-name>Heraklion University Hospital</affiliation-name>
+			<affiliation-id>60011303</affiliation-id>
+			<affiliation-city>Heraklion (Iraklion)</affiliation-city>
+			<affiliation-country>Greece</affiliation-country>
+		</affiliation-current>
+		<dc:identifier>7501541653</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/author_id:7406578602" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:author?auid(7406578602)" ref="search"/>
+		<link href="http://www.scopus.com/author/citedby.url?origin=bkapi&amp;citedAuthorId=7406578602" ref="scopus-citedby"/>
+		<link href="http://www.scopus.com/authid/detail.url?authorId=7406578602" ref="scopus-author"/>
+		<preferred-name>
+			<surname>Jones, Jones, Jones, Jones, Jones, Jones, Jones, Jones</surname>
+			<given-name>David T L, D.T.L., D., D. T., David T., D. R., D. T. L., David R., David, D., D.T., D.T., D.R., D.T.L., D.R., D.</given-name>
+		</preferred-name>
+		<document-count>64</document-count>
+		<subject-area>29 MEDI | 39 BIOC | 2 PHAR</subject-area>
+		<name-variant>D. Jones | D. T. Jones | David T. Jones</name-variant>
+		<affiliation-current>
+			<affiliation-name>UCL</affiliation-name>
+			<affiliation-id>60022148</affiliation-id>
+			<affiliation-city>London</affiliation-city>
+			<affiliation-country>United Kingdom</affiliation-country>
+		</affiliation-current>
+		<dc:identifier>7406578602</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/author_id:7404294220" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:author?auid(7404294220)" ref="search"/>
+		<link href="http://www.scopus.com/author/citedby.url?origin=bkapi&amp;citedAuthorId=7404294220" ref="scopus-citedby"/>
+		<link href="http://www.scopus.com/authid/detail.url?authorId=7404294220" ref="scopus-author"/>
+		<preferred-name>
+			<surname>Jones, Jones, Jones, Jones, Jones, Jones, Jones, Jones</surname>
+			<given-name>Tim Peter, T.P., T. P., Tim, Tim P., Timothy Peter, T., Timothy P., Timothy, T.P., T., T.P., T.P., T., T.P., T.</given-name>
+		</preferred-name>
+		<document-count>63</document-count>
+		<subject-area>3 CHEM | 67 EART | 1 MATH</subject-area>
+		<name-variant>T. P. Jones | Tim Jones | Tim P. Jones</name-variant>
+		<affiliation-current>
+			<affiliation-name>Cardiff University</affiliation-name>
+			<affiliation-id>60023998</affiliation-id>
+			<affiliation-city>Cardiff</affiliation-city>
+			<affiliation-country>United Kingdom</affiliation-country>
+		</affiliation-current>
+		<dc:identifier>7404294220</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/author_id:6603998292" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:author?auid(6603998292)" ref="search"/>
+		<link href="http://www.scopus.com/author/citedby.url?origin=bkapi&amp;citedAuthorId=6603998292" ref="scopus-citedby"/>
+		<link href="http://www.scopus.com/authid/detail.url?authorId=6603998292" ref="scopus-author"/>
+		<preferred-name>
+			<surname>Vaughan Jones, Vaughan Jones, Vaughan-Jones, Vaughan-Jones, Vaughan-Jones, Vaughan Jones, Vaughan Jones, Vaughan Jones</surname>
+			<given-name>Samantha A V, S.A.V., Samantha, S. A., S., Samantha A., S. A. V., S. A., S., S., S.A., S., S.A., S.A.V., S.A., S.</given-name>
+		</preferred-name>
+		<document-count>25</document-count>
+		<subject-area>29 MEDI</subject-area>
+		<name-variant>Samantha Vaughan Jones | S. A. Vaughan-Jones | S. Vaughan-Jones</name-variant>
+		<affiliation-current>
+			<affiliation-name>St Thomas' Hospital</affiliation-name>
+			<affiliation-id>60004111</affiliation-id>
+			<affiliation-city>London</affiliation-city>
+			<affiliation-country>United Kingdom</affiliation-country>
+		</affiliation-current>
+		<dc:identifier>6603998292</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/author_id:24773242600" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:author?auid(24773242600)" ref="search"/>
+		<link href="http://www.scopus.com/author/citedby.url?origin=bkapi&amp;citedAuthorId=24773242600" ref="scopus-citedby"/>
+		<link href="http://www.scopus.com/authid/detail.url?authorId=24773242600" ref="scopus-author"/>
+		<preferred-name>
+			<surname>Jones, Jones, Jones, Jones, Jones, Jones, Jones, Jones</surname>
+			<given-name>Christopher D W, C.D.W., Christopher D., Christopher, Chris, Christopher R., C. D., C. D. W., C., C.D., C., C., C.R., C.D., C.D.W., C.</given-name>
+		</preferred-name>
+		<document-count>105</document-count>
+		<subject-area>31 MATE | 9 COMP | 128 PHYS</subject-area>
+		<name-variant>Christopher D. Jones | Christopher Jones | Chris Jones</name-variant>
+		<affiliation-current>
+			<affiliation-name>NOAA Fisheries Service</affiliation-name>
+			<affiliation-id>60003171</affiliation-id>
+			<affiliation-city>Silver Spring</affiliation-city>
+			<affiliation-country>United States</affiliation-country>
+		</affiliation-current>
+		<dc:identifier>24773242600</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/author_id:7405936988" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:author?auid(7405936988)" ref="search"/>
+		<link href="http://www.scopus.com/author/citedby.url?origin=bkapi&amp;citedAuthorId=7405936988" ref="scopus-citedby"/>
+		<link href="http://www.scopus.com/authid/detail.url?authorId=7405936988" ref="scopus-author"/>
+		<preferred-name>
+			<surname>Jones, Jones, Jones, Jones, Jones, Jones, Jones, Jones</surname>
+			<given-name>S. E., S.E., S., Steven, Steven E., Steve, Stephen E., Suzanne, Stephen, S., S., S.E., S., S.E., S., S.</given-name>
+		</preferred-name>
+		<document-count>161</document-count>
+		<subject-area>164 MEDI | 1 NURS | 2 ENGI</subject-area>
+		<name-variant>S. Jones | Steven Jones | Steven E. Jones</name-variant>
+		<affiliation-current>
+			<affiliation-name>US Oncology, Inc.</affiliation-name>
+			<affiliation-id>60091773</affiliation-id>
+			<affiliation-city>Houston</affiliation-city>
+			<affiliation-country>United States</affiliation-country>
+		</affiliation-current>
+		<dc:identifier>7405936988</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/author_id:26121204500" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:author?auid(26121204500)" ref="search"/>
+		<link href="http://www.scopus.com/author/citedby.url?origin=bkapi&amp;citedAuthorId=26121204500" ref="scopus-citedby"/>
+		<link href="http://www.scopus.com/authid/detail.url?authorId=26121204500" ref="scopus-author"/>
+		<preferred-name>
+			<surname>Jones, Jones, Jones, Jones, Jones, Jones, Jones, Jones</surname>
+			<given-name>Paul Wyn, P.W., Paul, P. J., P., Paul E., P. W., Peter, Paul W., P., P.J., P., P.E., P.W., P., P.W.</given-name>
+		</preferred-name>
+		<document-count>278</document-count>
+		<subject-area>29 ENVI | 9 PHYS | 5 CHEM</subject-area>
+		<name-variant>Paul Jones | P. J. Jones | P. Jones</name-variant>
+		<affiliation-current>
+			<affiliation-name>Woolcock Institute of Medical Research</affiliation-name>
+			<affiliation-id>60019158</affiliation-id>
+			<affiliation-city>Sydney</affiliation-city>
+			<affiliation-country>Australia</affiliation-country>
+		</affiliation-current>
+		<dc:identifier>26121204500</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/author_id:9739601700" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:author?auid(9739601700)" ref="search"/>
+		<link href="http://www.scopus.com/author/citedby.url?origin=bkapi&amp;citedAuthorId=9739601700" ref="scopus-citedby"/>
+		<link href="http://www.scopus.com/authid/detail.url?authorId=9739601700" ref="scopus-author"/>
+		<preferred-name>
+			<surname>Jones, Jones, Jones, Jones, Jones, Jones, Jones, Jones</surname>
+			<given-name>Anthony K P, A.K.P., A. K., A. K. P., A., Alex K., Alex, Anthony K., Anthony, A.K., A.K.P., A., A.K., A., A.K., A.</given-name>
+		</preferred-name>
+		<document-count>82</document-count>
+		<subject-area>44 MEDI | 2 NURS | 1 CENG</subject-area>
+		<name-variant>A. K. Jones | A. K. P. Jones | A. Jones</name-variant>
+		<affiliation-current>
+			<affiliation-name>Hope Hospital</affiliation-name>
+			<affiliation-id>60002063</affiliation-id>
+			<affiliation-city>Salford</affiliation-city>
+			<affiliation-country>United Kingdom</affiliation-country>
+		</affiliation-current>
+		<dc:identifier>9739601700</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/author_id:7404726914" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:author?auid(7404726914)" ref="search"/>
+		<link href="http://www.scopus.com/author/citedby.url?origin=bkapi&amp;citedAuthorId=7404726914" ref="scopus-citedby"/>
+		<link href="http://www.scopus.com/authid/detail.url?authorId=7404726914" ref="scopus-author"/>
+		<preferred-name>
+			<surname>Jones, Jones, Jones, Jones, Jones, Jones, Jones, Jones</surname>
+			<given-name>Kathy L., K.L., Kathy, Kathryn, K. L., Kirsten L., K., Kathryn L., Kathy Y., K., K., K.L., K.L., K., K.L., K.Y.</given-name>
+		</preferred-name>
+		<document-count>103</document-count>
+		<subject-area>87 PHYS | 8 IMMU | 34 MEDI</subject-area>
+		<name-variant>Kathy Jones | Kathryn Jones | K. L. Jones</name-variant>
+		<affiliation-current>
+			<affiliation-name>University of Adelaide</affiliation-name>
+			<affiliation-id>60009512</affiliation-id>
+			<affiliation-city>Adelaide</affiliation-city>
+			<affiliation-country>Australia</affiliation-country>
+		</affiliation-current>
+		<dc:identifier>7404726914</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/author_id:26034018600" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:author?auid(26034018600)" ref="search"/>
+		<link href="http://www.scopus.com/author/citedby.url?origin=bkapi&amp;citedAuthorId=26034018600" ref="scopus-citedby"/>
+		<link href="http://www.scopus.com/authid/detail.url?authorId=26034018600" ref="scopus-author"/>
+		<preferred-name>
+			<surname>Jones, Jones, Jones, Jones, Jones, Jones, Jones, Jones</surname>
+			<given-name>Jason B., J.B., Jason N., J. W., Jason R., Jason, Jason W., Jason D., Jason C., J.N., J.W., J.R., J., J.W., J.D., J.C.</given-name>
+		</preferred-name>
+		<document-count>57</document-count>
+		<subject-area>1 VETE | 16 PHYS | 7 PSYC</subject-area>
+		<name-variant>Jason N. Jones | J. W. Jones | Jason R. Jones</name-variant>
+		<affiliation-current>
+			<affiliation-name>University of Texas Health Science Center at San Antonio</affiliation-name>
+			<affiliation-id>60018573</affiliation-id>
+			<affiliation-city>San Antonio</affiliation-city>
+			<affiliation-country>United States</affiliation-country>
+		</affiliation-current>
+		<dc:identifier>26034018600</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/author_id:7005620906" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:author?auid(7005620906)" ref="search"/>
+		<link href="http://www.scopus.com/author/citedby.url?origin=bkapi&amp;citedAuthorId=7005620906" ref="scopus-citedby"/>
+		<link href="http://www.scopus.com/authid/detail.url?authorId=7005620906" ref="scopus-author"/>
+		<preferred-name>
+			<surname>Gruffydd-Jones, Gruffydd-Jones, Gruffydd-Jones, Gruffydd Jones, Gruffydd-Jones, Gruffydd-Jones, Gruffydd-Jones, Gruffydd-Jones</surname>
+			<given-name>Timothy John, T.J., Timothy J., T., Timothy J., Tim J., Timothy, T. J., Tim, T.J., T., T.J., T.J., T., T.J., T.</given-name>
+		</preferred-name>
+		<document-count>175</document-count>
+		<subject-area>30 MEDI | 168 VETE | 61 IMMU</subject-area>
+		<name-variant>Timothy J. Gruffydd-Jones | T. Gruffydd-Jones | Timothy J. Gruffydd Jones</name-variant>
+		<affiliation-current>
+			<affiliation-name>University of Bristol</affiliation-name>
+			<affiliation-id>60020650</affiliation-id>
+			<affiliation-city>Bristol</affiliation-city>
+			<affiliation-country>United Kingdom</affiliation-country>
+		</affiliation-current>
+		<dc:identifier>7005620906</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/author_id:7404290983" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:author?auid(7404290983)" ref="search"/>
+		<link href="http://www.scopus.com/author/citedby.url?origin=bkapi&amp;citedAuthorId=7404290983" ref="scopus-citedby"/>
+		<link href="http://www.scopus.com/authid/detail.url?authorId=7404290983" ref="scopus-author"/>
+		<preferred-name>
+			<surname>Jones, Jones, Jones, Jones', Jones, Jones, Jones, Jones</surname>
+			<given-name>Timothy G J, T.G.J., Timothy G. J., T. G., T. G. J., T. G. J., T. T. G., T., Timothy, T.G.J., T.G., T.G.J., T.G.J., T.T.G., T., T.</given-name>
+		</preferred-name>
+		<document-count>97</document-count>
+		<subject-area>10 ENER | 15 PHYS | 6 EART</subject-area>
+		<name-variant>Timothy G. J. Jones | T. G. Jones | T. G. J. Jones'</name-variant>
+		<affiliation-current>
+			<affiliation-name>Schlumberger Cambridge Research</affiliation-name>
+			<affiliation-id>60017318</affiliation-id>
+			<affiliation-city>Cambridge</affiliation-city>
+			<affiliation-country>United Kingdom</affiliation-country>
+		</affiliation-current>
+		<dc:identifier>7404290983</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/author_id:34769844600" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:author?auid(34769844600)" ref="search"/>
+		<link href="http://www.scopus.com/author/citedby.url?origin=bkapi&amp;citedAuthorId=34769844600" ref="scopus-citedby"/>
+		<link href="http://www.scopus.com/authid/detail.url?authorId=34769844600" ref="scopus-author"/>
+		<preferred-name>
+			<surname>Jones, Jones, Jones, Jones, Jones, Jones, Jones, Jones</surname>
+			<given-name>Peter Watts, P.W., P., Peter B., Peter, P. W., Peter W., Paul W., P. H., P., P.B., P., P.W., P.W., P.W., P.H.</given-name>
+		</preferred-name>
+		<document-count>276</document-count>
+		<subject-area>190 MEDI | 5 HEAL | 136 BIOC</subject-area>
+		<name-variant>P. Jones | Peter B. Jones | Peter Jones</name-variant>
+		<affiliation-current>
+			<affiliation-name>Yale University</affiliation-name>
+			<affiliation-id>60005455</affiliation-id>
+			<affiliation-city>New Haven</affiliation-city>
+			<affiliation-country>United States</affiliation-country>
+		</affiliation-current>
+		<dc:identifier>34769844600</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/author_id:7403398836" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:author?auid(7403398836)" ref="search"/>
+		<link href="http://www.scopus.com/author/citedby.url?origin=bkapi&amp;citedAuthorId=7403398836" ref="scopus-citedby"/>
+		<link href="http://www.scopus.com/authid/detail.url?authorId=7403398836" ref="scopus-author"/>
+		<preferred-name>
+			<surname>Jones, Jones, Jones, Jones, Jones, Jones, Jones, Jones</surname>
+			<given-name>Nick Spencer, N.S., Nicholas Spencer, Nick, Nicholas S., N., N. S., Nick S., Nicholas, N.S., N., N.S., N., N.S., N.S., N.</given-name>
+		</preferred-name>
+		<document-count>239</document-count>
+		<subject-area>239 MEDI | 21 PHYS | 6 NEUR</subject-area>
+		<name-variant>Nicholas Spencer Jones | Nick Jones | Nicholas S. Jones</name-variant>
+		<affiliation-current>
+			<affiliation-name>University of Nottingham</affiliation-name>
+			<affiliation-id>60015138</affiliation-id>
+			<affiliation-city>Nottingham</affiliation-city>
+			<affiliation-country>United Kingdom</affiliation-country>
+		</affiliation-current>
+		<dc:identifier>7403398836</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/author_id:7404958517" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:author?auid(7404958517)" ref="search"/>
+		<link href="http://www.scopus.com/author/citedby.url?origin=bkapi&amp;citedAuthorId=7404958517" ref="scopus-citedby"/>
+		<link href="http://www.scopus.com/authid/detail.url?authorId=7404958517" ref="scopus-author"/>
+		<preferred-name>
+			<surname>Jones, Jones, Jones, Jones, Jones, Jones, Jones</surname>
+			<given-name>Benedict C N M, B.C.N.M., B. C., B. C. N. M., B., Ben C., Benedict C., Benedict Christopher, B.C., B.C.N.M., B., B.C., B.C., B.C.</given-name>
+		</preferred-name>
+		<document-count>92</document-count>
+		<subject-area>4 ENVI | 11 SOCI | 38 PSYC</subject-area>
+		<name-variant>B. C. Jones | B. C. N. M. Jones | B. Jones</name-variant>
+		<affiliation-current>
+			<affiliation-name>University of Aberdeen</affiliation-name>
+			<affiliation-id>60015875</affiliation-id>
+			<affiliation-city>Aberdeen</affiliation-city>
+			<affiliation-country>United Kingdom</affiliation-country>
+		</affiliation-current>
+		<dc:identifier>7404958517</dc:identifier>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/author/author_id:34769942400" ref="self"/>
+		<link href="http://api.elsevier.com/content/search/index:author?auid(34769942400)" ref="search"/>
+		<link href="http://www.scopus.com/author/citedby.url?origin=bkapi&amp;citedAuthorId=34769942400" ref="scopus-citedby"/>
+		<link href="http://www.scopus.com/authid/detail.url?authorId=34769942400" ref="scopus-author"/>
+		<preferred-name>
+			<surname>Jones, Jones, Jones, Jones, Jones, Jones, Jones</surname>
+			<given-name>Edward Gomer, E.G., Edward G., E. Grant, Edward, E. G., Edward Q., E., E.G., E.G., E., E.G., E.Q., E.</given-name>
+		</preferred-name>
+		<document-count>369</document-count>
+		<subject-area>30 AGRI | 97 BIOC | 5 ARTS</subject-area>
+		<name-variant>Edward G. Jones | E. Grant Jones | Edward Jones</name-variant>
+		<affiliation-current>
+			<affiliation-name>National University of Ireland, Galway</affiliation-name>
+			<affiliation-id>60008539</affiliation-id>
+			<affiliation-city>Galway</affiliation-city>
+			<affiliation-country>Ireland</affiliation-country>
+		</affiliation-current>
+		<dc:identifier>34769942400</dc:identifier>
+	</entry>
+</feed>

@@ -1,0 +1,566 @@
+<?xml version="1.0"?>
+<feed>
+    <original-search>http://l7-appl-dev:8080/content/search/index:SCOPUS?query=TITLE-ABS-KEY(brain)%20AND%20DOCTYPE(ar%20OR%20re)</original-search>
+
+	<title xmlns="http://www.w3.org/2005/Atom">SCOPUS Search Results:</title>
+	<updated xmlns="http://www.w3.org/2005/Atom">2010-05-14T13:35:44.060Z</updated>
+	<author xmlns="http://www.w3.org/2005/Atom">
+		<name>Elsevier, Inc.</name>
+	</author>
+	<id xmlns="http://www.w3.org/2005/Atom">http://api.elsevier.com/content/search</id>
+	<opensearch:totalResults xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">1037473</opensearch:totalResults>
+	<opensearch:startIndex xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">1</opensearch:startIndex>
+	<opensearch:itemsPerPage xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">25</opensearch:itemsPerPage>
+	<link xmlns="http://www.w3.org/2005/Atom" ref="self" href="http://api.elsevier.com/content/search/index:SCOPUS?query=&amp;start=1&amp;count=25" type="application/atom+xml"/>
+	<link xmlns="http://www.w3.org/2005/Atom" ref="first" href="http://api.elsevier.com/content/search/index:SCOPUS?query=&amp;start=1&amp;count=25" type="application/atom+xml"/>
+	<link xmlns="http://www.w3.org/2005/Atom" ref="next" href="http://api.elsevier.com/content/search/index:SCOPUS?query=&amp;start=26&amp;count=25" type="application/atom+xml"/>
+	<link xmlns="http://www.w3.org/2005/Atom" ref="last" href="http://api.elsevier.com/content/search/index:SCOPUS?query=&amp;start=1037448&amp;count=25" type="application/atom+xml"/>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<link ref="self" href="http://api.elsevier.com/content/abstract/SCOPUS_ID:0036861639"/>
+		<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=bkapi&amp;scp=0036861639"/>
+		<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=bkapi&amp;scp=0036861639"/>
+		<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Brain iron homeostasis</dc:title>
+		<prism:aggregationType xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Journal</prism:aggregationType>
+		<citedby-count>24</citedby-count>
+		<prism:publicationName xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Danish Medical Bulletin</prism:publicationName>
+		<prism:issn xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">09078916</prism:issn>
+		<prism:volume xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">49</prism:volume>
+		<prism:issueIdentifier xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">4</prism:issueIdentifier>
+		<prism:pageRange xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">279-301</prism:pageRange>
+		<prism:coverDate xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">November 2002</prism:coverDate>
+		<dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">0036861639</dc:identifier>
+		<affiliation>
+			<afid>60017344</afid>
+		</affiliation>
+		<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Moos, T.</dc:creator>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<link ref="self" href="http://api.elsevier.com/content/abstract/SCOPUS_ID:0029661879"/>
+		<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=bkapi&amp;scp=0029661879"/>
+		<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=bkapi&amp;scp=0029661879"/>
+		<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Brain parenchyma PO2, PCO2, and pH during and after hypoxic, ischemic brain insult in dogs</dc:title>
+		<prism:aggregationType xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Journal</prism:aggregationType>
+		<citedby-count>28</citedby-count>
+		<prism:publicationName xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Critical Care Medicine</prism:publicationName>
+		<prism:issn xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">00903493</prism:issn>
+		<prism:volume xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">24</prism:volume>
+		<prism:issueIdentifier xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">11</prism:issueIdentifier>
+		<prism:pageRange xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">1858-1868</prism:pageRange>
+		<prism:coverDate xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">November 1996</prism:coverDate>
+		<dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">0029661879</dc:identifier>
+		<prism:doi xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">10.1097/00003246-199611000-00016</prism:doi>
+		<affiliation>
+			<afid>60021568</afid>
+		</affiliation>
+		<affiliation>
+			<afid>60021568</afid>
+		</affiliation>
+		<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">McKinley, B.A.</dc:creator>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<link ref="self" href="http://api.elsevier.com/content/abstract/SCOPUS_ID:23944500881"/>
+		<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=bkapi&amp;scp=23944500881"/>
+		<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=bkapi&amp;scp=23944500881"/>
+		<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Brain angiotensin II: New developments, unanswered questions and therapeutic opportunities</dc:title>
+		<prism:aggregationType xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Journal</prism:aggregationType>
+		<citedby-count>82</citedby-count>
+		<prism:publicationName xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Cellular and Molecular Neurobiology</prism:publicationName>
+		<prism:issn xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">02724340</prism:issn>
+		<prism:volume xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">25</prism:volume>
+		<prism:issueIdentifier xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">3-4</prism:issueIdentifier>
+		<prism:pageRange xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">485-512</prism:pageRange>
+		<prism:coverDate xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">June 2005</prism:coverDate>
+		<dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">23944500881</dc:identifier>
+		<prism:doi xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">10.1007/s10571-005-4011-5</prism:doi>
+		<affiliation>
+			<afid>60003158</afid>
+		</affiliation>
+		<affiliation>
+			<afid>60003158</afid>
+		</affiliation>
+		<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Saavedra, J.M.</dc:creator>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<link ref="self" href="http://api.elsevier.com/content/abstract/SCOPUS_ID:0014487988"/>
+		<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=bkapi&amp;scp=0014487988"/>
+		<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=bkapi&amp;scp=0014487988"/>
+		<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Brain barbital levels and anesthesia as influenced by physostigmine and epinephrine</dc:title>
+		<prism:aggregationType xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Journal</prism:aggregationType>
+		<citedby-count>0</citedby-count>
+		<prism:publicationName xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Biochemical Pharmacology</prism:publicationName>
+		<prism:issn xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">00062952</prism:issn>
+		<prism:volume xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">18</prism:volume>
+		<prism:issueIdentifier xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">3</prism:issueIdentifier>
+		<prism:pageRange xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">579-586</prism:pageRange>
+		<prism:coverDate xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">March 1969</prism:coverDate>
+		<dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">0014487988</dc:identifier>
+		<affiliation>
+			<afid>60003915</afid>
+		</affiliation>
+		<affiliation>
+			<afid>60003088</afid>
+		</affiliation>
+		<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mazel, P.</dc:creator>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<link ref="self" href="http://api.elsevier.com/content/abstract/SCOPUS_ID:54449091151"/>
+		<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=bkapi&amp;scp=54449091151"/>
+		<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=bkapi&amp;scp=54449091151"/>
+		<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Brain cell volume regulation in hyponatremia: Role of sex, age, vasopressin, and hypoxia</dc:title>
+		<prism:aggregationType xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Journal</prism:aggregationType>
+		<citedby-count>10</citedby-count>
+		<prism:publicationName xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">American Journal of Physiology - Renal Physiology</prism:publicationName>
+		<prism:issn xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">03636127 15221466</prism:issn>
+		<prism:volume xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">295</prism:volume>
+		<prism:issueIdentifier xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">3</prism:issueIdentifier>
+		<prism:pageRange xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">F619-F624</prism:pageRange>
+		<prism:coverDate xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">September 2008</prism:coverDate>
+		<dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">54449091151</dc:identifier>
+		<prism:doi xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">10.1152/ajprenal.00502.2007</prism:doi>
+		<affiliation>
+			<afid>100700674</afid>
+		</affiliation>
+		<affiliation>
+			<afid>100515646</afid>
+		</affiliation>
+		<affiliation>
+			<afid>60031970</afid>
+		</affiliation>
+		<affiliation>
+			<afid>100700674</afid>
+		</affiliation>
+		<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ayus, J.C.</dc:creator>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<link ref="self" href="http://api.elsevier.com/content/abstract/SCOPUS_ID:67349086917"/>
+		<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=bkapi&amp;scp=67349086917"/>
+		<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=bkapi&amp;scp=67349086917"/>
+		<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Brain edema associated with unruptured brain arteriovenous malformations</dc:title>
+		<prism:aggregationType xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Journal</prism:aggregationType>
+		<citedby-count>1</citedby-count>
+		<prism:publicationName xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Neuroradiology</prism:publicationName>
+		<prism:issn xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">00283940</prism:issn>
+		<prism:volume xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">51</prism:volume>
+		<prism:issueIdentifier xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">5</prism:issueIdentifier>
+		<prism:pageRange xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">327-335</prism:pageRange>
+		<prism:coverDate xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">May 2009</prism:coverDate>
+		<dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">67349086917</dc:identifier>
+		<prism:doi xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">10.1007/s00234-009-0500-4</prism:doi>
+		<affiliation>
+			<afid>60003087</afid>
+		</affiliation>
+		<affiliation>
+			<afid>60031828</afid>
+		</affiliation>
+		<affiliation>
+			<afid>60021157</afid>
+		</affiliation>
+		<affiliation>
+			<afid>60016849</afid>
+		</affiliation>
+		<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kim, B.-S.</dc:creator>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<link ref="self" href="http://api.elsevier.com/content/abstract/SCOPUS_ID:0034756894"/>
+		<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=bkapi&amp;scp=0034756894"/>
+		<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=bkapi&amp;scp=0034756894"/>
+		<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Brain drug targeting and gene technologies</dc:title>
+		<prism:aggregationType xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Journal</prism:aggregationType>
+		<citedby-count>18</citedby-count>
+		<prism:publicationName xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Japanese Journal of Pharmacology</prism:publicationName>
+		<prism:issn xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">00215198</prism:issn>
+		<prism:volume xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">87</prism:volume>
+		<prism:issueIdentifier xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">2</prism:issueIdentifier>
+		<prism:pageRange xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">97-103</prism:pageRange>
+		<prism:coverDate xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">2001</prism:coverDate>
+		<dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">0034756894</dc:identifier>
+		<prism:doi xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">10.1254/jjp.87.97</prism:doi>
+		<affiliation>
+			<afid>60027550</afid>
+		</affiliation>
+		<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pardridge, W.M.</dc:creator>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<link ref="self" href="http://api.elsevier.com/content/abstract/SCOPUS_ID:0033052043"/>
+		<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=bkapi&amp;scp=0033052043"/>
+		<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=bkapi&amp;scp=0033052043"/>
+		<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Brain edema: A review of current ideas</dc:title>
+		<prism:aggregationType xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Journal</prism:aggregationType>
+		<citedby-count>2</citedby-count>
+		<prism:publicationName xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Neurosurgery Quarterly</prism:publicationName>
+		<prism:issn xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">10506438</prism:issn>
+		<prism:volume xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">9</prism:volume>
+		<prism:issueIdentifier xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">2</prism:issueIdentifier>
+		<prism:pageRange xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">120-137</prism:pageRange>
+		<prism:coverDate xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">June 1999</prism:coverDate>
+		<dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">0033052043</dc:identifier>
+		<affiliation>
+			<afid>60005248</afid>
+		</affiliation>
+		<affiliation>
+			<afid>60005248</afid>
+		</affiliation>
+		<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Samdani, A.F.</dc:creator>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<link ref="self" href="http://api.elsevier.com/content/abstract/SCOPUS_ID:0029885918"/>
+		<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=bkapi&amp;scp=0029885918"/>
+		<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=bkapi&amp;scp=0029885918"/>
+		<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Brain death diagnosed by forensic analysis of drug distribution in human tissues-II - Distribution of caffeine in brain dead patients</dc:title>
+		<prism:aggregationType xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Journal</prism:aggregationType>
+		<citedby-count>6</citedby-count>
+		<prism:publicationName xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Japanese Journal of Legal Medicine</prism:publicationName>
+		<prism:issn xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">00471887</prism:issn>
+		<prism:volume xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">50</prism:volume>
+		<prism:issueIdentifier xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">2</prism:issueIdentifier>
+		<prism:pageRange xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">72-77</prism:pageRange>
+		<prism:coverDate xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">1996</prism:coverDate>
+		<dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">0029885918</dc:identifier>
+		<affiliation>
+			<afid>60011047</afid>
+		</affiliation>
+		<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jitsufuchi, N.</dc:creator>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<link ref="self" href="http://api.elsevier.com/content/abstract/SCOPUS_ID:0028885522"/>
+		<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=bkapi&amp;scp=0028885522"/>
+		<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=bkapi&amp;scp=0028885522"/>
+		<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Brain oxygen, CO2, pH, and temperature monitoring: Evaluation in the feline brain</dc:title>
+		<prism:aggregationType xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Journal</prism:aggregationType>
+		<citedby-count>113</citedby-count>
+		<prism:publicationName xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Neurosurgery</prism:publicationName>
+		<prism:issn xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">0148396X</prism:issn>
+		<prism:volume xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">37</prism:volume>
+		<prism:issueIdentifier xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">6</prism:issueIdentifier>
+		<prism:pageRange xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">1168-1177</prism:pageRange>
+		<prism:coverDate xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">1995</prism:coverDate>
+		<dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">0028885522</dc:identifier>
+		<affiliation>
+			<afid>60010374</afid>
+		</affiliation>
+		<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Zauner, A.</dc:creator>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<link ref="self" href="http://api.elsevier.com/content/abstract/SCOPUS_ID:0035085813"/>
+		<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=bkapi&amp;scp=0035085813"/>
+		<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=bkapi&amp;scp=0035085813"/>
+		<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Brain abscess and ventriculitis associated with entrapment of the lateral ventricle appearing more like remarkable brain edema than ventricular dilatation - A case report -</dc:title>
+		<prism:aggregationType xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Journal</prism:aggregationType>
+		<citedby-count>1</citedby-count>
+		<prism:publicationName xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Neurological Surgery</prism:publicationName>
+		<prism:issn xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">03012603</prism:issn>
+		<prism:volume xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">29</prism:volume>
+		<prism:issueIdentifier xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">2</prism:issueIdentifier>
+		<prism:pageRange xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">151-156</prism:pageRange>
+		<prism:coverDate xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">2001</prism:coverDate>
+		<dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">0035085813</dc:identifier>
+		<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Yasuhara, T.</dc:creator>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<link ref="self" href="http://api.elsevier.com/content/abstract/SCOPUS_ID:63849204050"/>
+		<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=bkapi&amp;scp=63849204050"/>
+		<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=bkapi&amp;scp=63849204050"/>
+		<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Brain edema after intracerebral hemorrhage in rats: The role of iron overload and aquaporin 4 - Laboratory investigation</dc:title>
+		<prism:aggregationType xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Journal</prism:aggregationType>
+		<citedby-count>1</citedby-count>
+		<prism:publicationName xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Journal of Neurosurgery</prism:publicationName>
+		<prism:issn xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">00223085 19330693</prism:issn>
+		<prism:volume xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">110</prism:volume>
+		<prism:issueIdentifier xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">3</prism:issueIdentifier>
+		<prism:pageRange xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">462-468</prism:pageRange>
+		<prism:coverDate xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">March 2009</prism:coverDate>
+		<dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">63849204050</dc:identifier>
+		<prism:doi xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">10.3171/2008.4.JNS17512</prism:doi>
+		<affiliation>
+			<afid>60082821</afid>
+		</affiliation>
+		<affiliation>
+			<afid>60000338</afid>
+		</affiliation>
+		<affiliation>
+			<afid>60000338</afid>
+		</affiliation>
+		<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Wang, G.Q.</dc:creator>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<link ref="self" href="http://api.elsevier.com/content/abstract/SCOPUS_ID:0030610750"/>
+		<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=bkapi&amp;scp=0030610750"/>
+		<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=bkapi&amp;scp=0030610750"/>
+		<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Brain tissue pO2-monitoring in comatose patients: Implications for therapy</dc:title>
+		<prism:aggregationType xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Journal</prism:aggregationType>
+		<citedby-count>114</citedby-count>
+		<prism:publicationName xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Neurological Research</prism:publicationName>
+		<prism:issn xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">01616412</prism:issn>
+		<prism:volume xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">19</prism:volume>
+		<prism:issueIdentifier xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">3</prism:issueIdentifier>
+		<prism:pageRange xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">233-240</prism:pageRange>
+		<prism:coverDate xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">1997</prism:coverDate>
+		<dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">0030610750</dc:identifier>
+		<affiliation>
+			<afid>60000762</afid>
+		</affiliation>
+		<affiliation>
+			<afid>60000762</afid>
+		</affiliation>
+		<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kiening, K.L.</dc:creator>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<link ref="self" href="http://api.elsevier.com/content/abstract/SCOPUS_ID:1242276259"/>
+		<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=bkapi&amp;scp=1242276259"/>
+		<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=bkapi&amp;scp=1242276259"/>
+		<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">The brain and mind attractions, BRAMA; the brain internal language organization, BILO; the consciousness</dc:title>
+		<prism:aggregationType xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Journal</prism:aggregationType>
+		<citedby-count>5</citedby-count>
+		<prism:publicationName xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Periodicum Biologorum</prism:publicationName>
+		<prism:issn xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">00315362</prism:issn>
+		<prism:volume xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">105</prism:volume>
+		<prism:issueIdentifier xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">3</prism:issueIdentifier>
+		<prism:pageRange xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">207-214</prism:pageRange>
+		<prism:coverDate xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">September 2003</prism:coverDate>
+		<dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1242276259</dc:identifier>
+		<affiliation>
+			<afid>100370092</afid>
+		</affiliation>
+		<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sou?ek, B.</dc:creator>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<link ref="self" href="http://api.elsevier.com/content/abstract/SCOPUS_ID:0031851592"/>
+		<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=bkapi&amp;scp=0031851592"/>
+		<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=bkapi&amp;scp=0031851592"/>
+		<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Brain-behaviour relationships. Some models and related statistical procedures for the study of brain-damaged patients</dc:title>
+		<prism:aggregationType xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Journal</prism:aggregationType>
+		<citedby-count>23</citedby-count>
+		<prism:publicationName xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Brain</prism:publicationName>
+		<prism:issn xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">00068950</prism:issn>
+		<prism:volume xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">121</prism:volume>
+		<prism:issueIdentifier xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">8</prism:issueIdentifier>
+		<prism:pageRange xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">1545-1556</prism:pageRange>
+		<prism:coverDate xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">1998</prism:coverDate>
+		<dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">0031851592</dc:identifier>
+		<prism:doi xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">10.1093/brain/121.8.1545</prism:doi>
+		<affiliation>
+			<afid>60000245</afid>
+		</affiliation>
+		<affiliation>
+			<afid>60000245</afid>
+		</affiliation>
+		<affiliation>
+			<afid>60000245</afid>
+		</affiliation>
+		<affiliation>
+			<afid>60017173</afid>
+		</affiliation>
+		<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Godefroy, O.</dc:creator>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<link ref="self" href="http://api.elsevier.com/content/abstract/SCOPUS_ID:0035201221"/>
+		<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=bkapi&amp;scp=0035201221"/>
+		<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=bkapi&amp;scp=0035201221"/>
+		<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">"Brain-paradox" and "embeddment" - Do we need a "philosophy of the brain"?</dc:title>
+		<prism:aggregationType xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Journal</prism:aggregationType>
+		<citedby-count>5</citedby-count>
+		<prism:publicationName xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Brain and Mind</prism:publicationName>
+		<prism:issn xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">13891987</prism:issn>
+		<prism:volume xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">2</prism:volume>
+		<prism:issueIdentifier xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">2</prism:issueIdentifier>
+		<prism:pageRange xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">195-211</prism:pageRange>
+		<prism:coverDate xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">2001</prism:coverDate>
+		<dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">0035201221</dc:identifier>
+		<prism:doi xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">10.1023/A:1012402104790</prism:doi>
+		<affiliation>
+			<afid>60009982</afid>
+		</affiliation>
+		<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Northoff, G.</dc:creator>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<link ref="self" href="http://api.elsevier.com/content/abstract/SCOPUS_ID:0037663744"/>
+		<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=bkapi&amp;scp=0037663744"/>
+		<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=bkapi&amp;scp=0037663744"/>
+		<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Brain edema - A new classification</dc:title>
+		<prism:aggregationType xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Journal</prism:aggregationType>
+		<citedby-count>4</citedby-count>
+		<prism:publicationName xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Medical Hypotheses</prism:publicationName>
+		<prism:issn xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">03069877</prism:issn>
+		<prism:volume xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">61</prism:volume>
+		<prism:issueIdentifier xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">1</prism:issueIdentifier>
+		<prism:pageRange xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">106-109</prism:pageRange>
+		<prism:coverDate xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">1 July 2003</prism:coverDate>
+		<dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">0037663744</dc:identifier>
+		<prism:doi xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">10.1016/S0306-9877(03)00127-0</prism:doi>
+		<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Iencean, S.M.</dc:creator>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<link ref="self" href="http://api.elsevier.com/content/abstract/SCOPUS_ID:3142736887"/>
+		<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=bkapi&amp;scp=3142736887"/>
+		<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=bkapi&amp;scp=3142736887"/>
+		<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Brain hyperthermia during physiological and pathological conditions: causes, mechanisms, and functional implications.</dc:title>
+		<prism:aggregationType xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Journal</prism:aggregationType>
+		<citedby-count>18</citedby-count>
+		<prism:publicationName xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Curr Neurovasc Res</prism:publicationName>
+		<prism:issn xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">15672026</prism:issn>
+		<prism:volume xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">1</prism:volume>
+		<prism:issueIdentifier xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">1</prism:issueIdentifier>
+		<prism:pageRange xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">77-90</prism:pageRange>
+		<prism:coverDate xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">January 2004</prism:coverDate>
+		<dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3142736887</dc:identifier>
+		<affiliation>
+			<afid>60020468</afid>
+		</affiliation>
+		<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kiyatkin, E.A.</dc:creator>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<link ref="self" href="http://api.elsevier.com/content/abstract/SCOPUS_ID:0036172198"/>
+		<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=bkapi&amp;scp=0036172198"/>
+		<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=bkapi&amp;scp=0036172198"/>
+		<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Brain death assessment using instant spectral analysis of heart rate variability</dc:title>
+		<prism:aggregationType xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Journal</prism:aggregationType>
+		<citedby-count>24</citedby-count>
+		<prism:publicationName xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Critical Care Medicine</prism:publicationName>
+		<prism:issn xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">00903493</prism:issn>
+		<prism:volume xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">30</prism:volume>
+		<prism:issueIdentifier xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">2</prism:issueIdentifier>
+		<prism:pageRange xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">306-310</prism:pageRange>
+		<prism:coverDate xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">2002</prism:coverDate>
+		<dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">0036172198</dc:identifier>
+		<affiliation>
+			<afid>60021374</afid>
+		</affiliation>
+		<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Baillard, C.</dc:creator>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<link ref="self" href="http://api.elsevier.com/content/abstract/SCOPUS_ID:0023261406"/>
+		<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=bkapi&amp;scp=0023261406"/>
+		<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=bkapi&amp;scp=0023261406"/>
+		<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Brain metabolism and intracellular pH during ischemia and hypoxia: An in vivo 31P and 1H nuclear magnetic resonance study in the lamb</dc:title>
+		<prism:aggregationType xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Journal</prism:aggregationType>
+		<citedby-count>24</citedby-count>
+		<prism:publicationName xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Journal of Neurochemistry</prism:publicationName>
+		<prism:issn xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">00223042</prism:issn>
+		<prism:volume xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">49</prism:volume>
+		<prism:issueIdentifier xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">1</prism:issueIdentifier>
+		<prism:pageRange xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">75-82</prism:pageRange>
+		<prism:coverDate xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">1987</prism:coverDate>
+		<dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">0023261406</dc:identifier>
+		<affiliation>
+			<afid>60022148</afid>
+		</affiliation>
+		<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Hope, P.L.</dc:creator>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<link ref="self" href="http://api.elsevier.com/content/abstract/SCOPUS_ID:48949119301"/>
+		<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=bkapi&amp;scp=48949119301"/>
+		<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=bkapi&amp;scp=48949119301"/>
+		<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Brain hyperthermia after traumatic brain injury does not reduce brain oxygen</dc:title>
+		<prism:aggregationType xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Journal</prism:aggregationType>
+		<citedby-count>3</citedby-count>
+		<prism:publicationName xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Neurosurgery</prism:publicationName>
+		<prism:issn xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">0148396X</prism:issn>
+		<prism:volume xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">62</prism:volume>
+		<prism:issueIdentifier xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">4</prism:issueIdentifier>
+		<prism:pageRange xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">864-872</prism:pageRange>
+		<prism:coverDate xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">April 2008</prism:coverDate>
+		<dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">48949119301</dc:identifier>
+		<prism:doi xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">10.1227/01.neu.0000316900.63124.ce</prism:doi>
+		<affiliation>
+			<afid>60003711</afid>
+		</affiliation>
+		<affiliation>
+			<afid>60003711</afid>
+		</affiliation>
+		<affiliation>
+			<afid>60006297</afid>
+		</affiliation>
+		<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Spiotta, A.M.</dc:creator>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<link ref="self" href="http://api.elsevier.com/content/abstract/SCOPUS_ID:56049113060"/>
+		<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=bkapi&amp;scp=56049113060"/>
+		<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=bkapi&amp;scp=56049113060"/>
+		<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Brain single photon emission computed tomography: Technological aspects and clinical applications</dc:title>
+		<prism:aggregationType xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Journal</prism:aggregationType>
+		<citedby-count>1</citedby-count>
+		<prism:publicationName xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Seminars in Neurology</prism:publicationName>
+		<prism:issn xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">02718235 10989021</prism:issn>
+		<prism:volume xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">28</prism:volume>
+		<prism:issueIdentifier xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">4</prism:issueIdentifier>
+		<prism:pageRange xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">423-434</prism:pageRange>
+		<prism:coverDate xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">September 2008</prism:coverDate>
+		<dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">56049113060</dc:identifier>
+		<prism:doi xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">10.1055/s-0028-1083683</prism:doi>
+		<affiliation>
+			<afid>60020930</afid>
+		</affiliation>
+		<affiliation>
+			<afid>60020930</afid>
+		</affiliation>
+		<affiliation>
+			<afid>60033320</afid>
+		</affiliation>
+		<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Masdeu, J.C.</dc:creator>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<link ref="self" href="http://api.elsevier.com/content/abstract/SCOPUS_ID:0021249459"/>
+		<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=bkapi&amp;scp=0021249459"/>
+		<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=bkapi&amp;scp=0021249459"/>
+		<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Brain death in a neurosurgical unit in Japan</dc:title>
+		<prism:aggregationType xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Journal</prism:aggregationType>
+		<citedby-count>0</citedby-count>
+		<prism:publicationName xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Brain and Nerve</prism:publicationName>
+		<prism:issn xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">00068969</prism:issn>
+		<prism:volume xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">36</prism:volume>
+		<prism:issueIdentifier xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">8</prism:issueIdentifier>
+		<prism:pageRange xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">781-787</prism:pageRange>
+		<prism:coverDate xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">1984</prism:coverDate>
+		<dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">0021249459</dc:identifier>
+		<affiliation>
+			<afid>60019092</afid>
+		</affiliation>
+		<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Shiogai, T.</dc:creator>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<link ref="self" href="http://api.elsevier.com/content/abstract/SCOPUS_ID:67349147051"/>
+		<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=bkapi&amp;scp=67349147051"/>
+		<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=bkapi&amp;scp=67349147051"/>
+		<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Brain death | Hirntod</dc:title>
+		<prism:aggregationType xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Journal</prism:aggregationType>
+		<citedby-count>0</citedby-count>
+		<prism:publicationName xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Neurophysiologie-Labor</prism:publicationName>
+		<prism:issn xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">14394847</prism:issn>
+		<prism:volume xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">31</prism:volume>
+		<prism:issueIdentifier xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">2</prism:issueIdentifier>
+		<prism:pageRange xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">101-118</prism:pageRange>
+		<prism:coverDate xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">June 2009</prism:coverDate>
+		<dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">67349147051</dc:identifier>
+		<prism:doi xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">10.1016/j.neulab.2009.02.003</prism:doi>
+		<affiliation>
+			<afid>60011475</afid>
+		</affiliation>
+		<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Klingelhöfer, J.</dc:creator>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<link ref="self" href="http://api.elsevier.com/content/abstract/SCOPUS_ID:74049155883"/>
+		<link ref="scopus" href="http://www.scopus.com/inward/record.url?partnerID=bkapi&amp;scp=74049155883"/>
+		<link ref="scopus-citedby" href="http://www.scopus.com/inward/citedby.url?partnerID=bkapi&amp;scp=74049155883"/>
+		<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Brain damage from anticancer treatments in adults</dc:title>
+		<prism:aggregationType xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Journal</prism:aggregationType>
+		<citedby-count>0</citedby-count>
+		<prism:publicationName xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">Current Opinion in Oncology</prism:publicationName>
+		<prism:issn xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">10408746</prism:issn>
+		<prism:volume xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">21</prism:volume>
+		<prism:issueIdentifier xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">6</prism:issueIdentifier>
+		<prism:pageRange xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">559-565</prism:pageRange>
+		<prism:coverDate xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">November 2009</prism:coverDate>
+		<dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">74049155883</dc:identifier>
+		<prism:doi xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">10.1097/CCO.0b013e328330c669</prism:doi>
+		<affiliation>
+			<afid>60030800</afid>
+		</affiliation>
+		<affiliation>
+			<afid>60000905</afid>
+		</affiliation>
+		<affiliation>
+			<afid>60005368</afid>
+		</affiliation>
+		<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ricard, D.</dc:creator>
+	</entry>
+</feed>

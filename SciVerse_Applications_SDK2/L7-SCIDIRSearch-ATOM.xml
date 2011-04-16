@@ -1,0 +1,491 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">
+	<title>SCIDIR Search Results: blood guts</title>
+	<updated>2010-07-07T15:57:11.660Z</updated>
+	<author>
+		<name>Elsevier, Inc.</name>
+	</author>
+	<id>http://l7-appl-dev:8080/content/search/index:SCIDIR?query=blood guts&amp;count=25&amp;start=0&amp;view=COMPLETE</id>
+	<opensearch:totalResults>107268</opensearch:totalResults>
+	<opensearch:startIndex>0</opensearch:startIndex>
+	<opensearch:itemsPerPage>25</opensearch:itemsPerPage>
+	<link href="http://l7-appl-dev:8080/content/search/index:SCIDIR?query=blood guts&amp;start=0&amp;count=25&amp;view=COMPLETE" ref="self" type="application/atom+xml"/>
+	<link href="http://l7-appl-dev:8080/content/search/index:SCIDIR?query=blood guts&amp;start=0&amp;count=25&amp;view=COMPLETE" ref="first" type="application/atom+xml"/>
+	<link href="http://l7-appl-dev:8080/content/search/index:SCIDIR?query=blood guts&amp;start=25&amp;count=25&amp;view=COMPLETE" ref="next" type="application/atom+xml"/>
+	<link href="http://l7-appl-dev:8080/content/search/index:SCIDIR?query=blood guts&amp;start=107243&amp;count=25&amp;view=COMPLETE" ref="last" type="application/atom+xml"/>
+	<entry>
+		<link href="http://api.elsevier.com/content/article/DOI:10.1016/j.physbeh.2006.07.004" ref="self"/>
+		<dc:title>The blood?brain barrier as a regulatory interface in the gut?brain axes</dc:title>
+		<prism:publicationName>Physiology &amp;amp; Behavior</prism:publicationName>
+		<prism:issn>00319384</prism:issn>
+		<prism:volume>89</prism:volume>
+		<volumeTitle>Volume 89</volumeTitle>
+		<prism:issue>4</prism:issue>
+		<issueTitle>Issue 4</issueTitle>
+		<prism:coverDate>11/30/2006</prism:coverDate>
+		<prism:startingPage>472</prism:startingPage>
+		<dc:creator>&lt;lnsm:p&gt;&lt;lnsm:aug&gt;&lt;lnsm:au&gt;William A.&lt;lnsm:snm&gt; Banks&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;refpt id="bcor1"/&gt;&lt;lk refid="cor1"&gt;&lt;sup&gt;[REcor]&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;lk refid="implicit0"&gt;&lt;sup&gt;a&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;lk key="bankswa@slu.edu" type="email"&gt;&lt;sup&gt;[REemail]&lt;/sup&gt;&lt;/lk&gt;&lt;/lnsm:aug&gt;&lt;/lnsm:p&gt;</dc:creator>
+		<prism:doi>DOI: 10.1016/j.physbeh.2006.07.004</prism:doi>
+		<dc:identifier>PII: S0031-9384(06)00293-9</dc:identifier>
+		<pii>PII: S0031-9384(06)00293-9</pii>
+		<dc:description>&lt;lnsm:optionhead&gt;&lt;h l="1"&gt;Abstract&lt;/h&gt;&lt;/lnsm:optionhead&gt;&lt;lnsm:abs&gt;&lt;lnsm:view type="all"&gt;&lt;p&gt;The blood?brain barrier (BBB) prevents the unrestricted movement of peptides and proteins between the brain and blood. However, some peptides and regulatory proteins can cross the BBB by saturable and non-saturable mechanisms. Leptin and insulin each cross the BBB by their own transporters. Impaired transport of leptin occurs in obesity and accounts for peripheral resistance; that is, the condition wherein an obese animal loses weight when given leptin directly into the brain but not when given leptin peripherally. Leptin transport is also inhibited in starvation and by hypertriglyceridemia. Since hypertriglyceridemia occurs in both starvation and obesity, we have postulated that the peripheral resistance induced by hypertriglyceridemia may have evolved as an adaptive mechanism in response to starvation. Insulin transport is also regulated. For example, treatment of mice with lipopolysaccharide (LPS) increases insulin transport across the BBB by about threefold. Since many of the actions of CNS insulin oppose those of peripheral insulin and since LPS releases proinflammatory cytokines, enhanced transport of insulin across the BBB could be a mechanism which promotes insulin resistance in sepsis. The brain endothelial cells which comprise the BBB secrete many substances including cytokines. Such secretion can be stimulated from one side of the BBB with release into the other side. For example, it appears that adiponectin can inhibit release of interleukin-6 from brain endothelial cells. Overall, the BBB represents an important interface in mediating gut?brain axes.&lt;/p&gt;&lt;/lnsm:view&gt;&lt;/lnsm:abs&gt;</dc:description>
+		<prism:aggregationType>Article</prism:aggregationType>
+		<prism:copyright>Copyright © 2006 Elsevier Inc. All rights reserved.</prism:copyright>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/article/DOI:10.1016/j.regpep.2007.08.027" ref="self"/>
+		<dc:title>The blood-brain barrier: Connecting the gut and the brain</dc:title>
+		<prism:publicationName>Regulatory Peptides</prism:publicationName>
+		<prism:issn>01670115</prism:issn>
+		<prism:volume>149</prism:volume>
+		<volumeTitle>Volume 149</volumeTitle>
+		<prism:issue>1-3</prism:issue>
+		<issueTitle>Issues 1-3</issueTitle>
+		<prism:coverDate>08/07/2008</prism:coverDate>
+		<prism:startingPage>11</prism:startingPage>
+		<dc:creator>&lt;lnsm:p&gt;&lt;lnsm:aug&gt;&lt;lnsm:au&gt;William A.&lt;lnsm:snm&gt; Banks&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;refpt id="bcor1"/&gt;&lt;lk refid="cor1"&gt;&lt;sup&gt;[REcor]&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;lk refid="implicit0"&gt;&lt;sup&gt;a&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;lk key="bankswa@slu.edu" type="email"&gt;&lt;sup&gt;[REemail]&lt;/sup&gt;&lt;/lk&gt;&lt;/lnsm:aug&gt;&lt;/lnsm:p&gt;</dc:creator>
+		<prism:doi>DOI: 10.1016/j.regpep.2007.08.027</prism:doi>
+		<dc:identifier>PII: S0167-0115(08)00061-X</dc:identifier>
+		<pii>PII: S0167-0115(08)00061-X</pii>
+		<dc:description>&lt;lnsm:optionhead&gt;&lt;h l="1"&gt;Abstract&lt;/h&gt;&lt;/lnsm:optionhead&gt;&lt;lnsm:abs&gt;&lt;lnsm:view type="all"&gt;&lt;p&gt;The BBB prevents the unrestricted exchange of substances between the central nervous system (CNS) and the blood. The blood-brain barrier (BBB) also conveys information between the CNS and the gastrointestinal (GI) tract through several mechanisms. Here, we review three of those mechanisms. First, the BBB selectively transports some peptides and regulatory proteins in the blood-to-brain or the brain-to-blood direction. The ability of GI hormones to affect functions of the BBB, as illustrated by the ability of insulin to alter the BBB transport of amino acids and drugs, represents a second mechanism. A third mechanism is the ability of GI hormones to affect the secretion by the BBB of substances that themselves affect feeding and appetite, such as nitric oxide and cytokines. By these and other mechanisms, the BBB regulates communications between the CNS and GI tract.&lt;/p&gt;&lt;/lnsm:view&gt;&lt;/lnsm:abs&gt;</dc:description>
+		<prism:aggregationType>Article</prism:aggregationType>
+		<prism:copyright>Published by Elsevier B.V.</prism:copyright>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/article/DOI:10.1016/j.autneu.2006.01.004" ref="self"/>
+		<dc:title>Efferent-like roles of afferent neurons in the gut: Blood flow regulation and tissue protection</dc:title>
+		<prism:publicationName>Autonomic Neuroscience</prism:publicationName>
+		<prism:issn>15660702</prism:issn>
+		<prism:volume>125</prism:volume>
+		<volumeTitle>Volume 125</volumeTitle>
+		<prism:issue>1-2</prism:issue>
+		<issueTitle>Issues 1-2</issueTitle>
+		<prism:coverDate>04/30/2006</prism:coverDate>
+		<prism:startingPage>70</prism:startingPage>
+		<dc:creator>&lt;lnsm:p&gt;&lt;lnsm:aug&gt;&lt;lnsm:au&gt;Peter&lt;lnsm:snm&gt; Holzer&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;refpt id="bcor1"/&gt;&lt;lk refid="cor1"&gt;&lt;sup&gt;[REcor]&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;lk key="peter.holzer@meduni-graz.at" type="email"&gt;&lt;sup&gt;[REemail]&lt;/sup&gt;&lt;/lk&gt;&lt;/lnsm:aug&gt;&lt;/lnsm:p&gt;</dc:creator>
+		<prism:doi>DOI: 10.1016/j.autneu.2006.01.004</prism:doi>
+		<dc:identifier>PII: S1566-0702(06)00007-5</dc:identifier>
+		<pii>PII: S1566-0702(06)00007-5</pii>
+		<dc:description>&lt;lnsm:optionhead&gt;&lt;h l="1"&gt;Abstract&lt;/h&gt;&lt;/lnsm:optionhead&gt;&lt;lnsm:abs&gt;&lt;lnsm:view type="all"&gt;&lt;p&gt;The maintenance of gastrointestinal mucosal integrity depends on the rapid alarm of protective mechanisms in the face of pending injury. To this end, the gastric mucosa is innervated by intrinsic sensory neurons and two populations of extrinsic sensory neurons: vagal and spinal afferents. Extrinsic afferent neurons constitute an emergency system that is called into operation when the gastrointestinal mucosa is endangered by noxious chemicals. The function of these chemoceptive afferents can selectively be manipulated and explored with the use of capsaicin which acts via a cation channel termed TRPV1. Many of the homeostatic actions of spinal afferents are brought about by transmitter release from their peripheral endings. When stimulated by noxious chemicals, these afferents enhance gastrointestinal blood flow and activate hyperaemia-dependent and hyperaemia-independent mechanisms of protection and repair. In the rodent foregut these local regulatory roles of sensory neurons are mediated by calcitonin gene-related peptide and nitric oxide. The pathophysiological potential of the neural emergency system is best portrayed by the gastric hyperaemic response to acid back-diffusion, which is governed by spinal afferent nerve fibres. This mechanism limits damage to the surface of the mucosa and creates favourable conditions for rapid restitution and healing of the wounded mucosa. Other extrinsic afferent neurons, particularly in the vagus nerve, subserve gastrointestinal homeostasis by signalling noxious events in the foregut to the central nervous system and eliciting autonomic, emotional-affective and neuroendocrine reactions. Under conditions of inflammation and injury, chemoceptive afferents are sensitized to peripheral stimuli and in this functional state contribute to the hyperalgesia associated with functional dyspepsia and irritable bowel syndrome. Thus, if GI pain is to be treated by sensory neuron-directed drugs it needs to be considered that these drugs do not inhibit nociception at the expense of GI mucosal vulnerability.&lt;/p&gt;&lt;/lnsm:view&gt;&lt;/lnsm:abs&gt;</dc:description>
+		<prism:aggregationType>Article</prism:aggregationType>
+		<prism:copyright>Copyright © 2006 Elsevier B.V. All rights reserved.</prism:copyright>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/article/DOI:10.1016/0165-2478(86)90076-3" ref="self"/>
+		<dc:title>Presence of interferon in venous blood draining from gut-associated lymphoid tissue&lt;refpt id="bafn1"/&gt;&lt;lk refid="afn1"&gt;&lt;sup&gt;?&lt;/sup&gt;&lt;/lk&gt;</dc:title>
+		<prism:publicationName>Immunology Letters</prism:publicationName>
+		<prism:issn>01652478</prism:issn>
+		<prism:volume>12</prism:volume>
+		<volumeTitle>Volume 12</volumeTitle>
+		<prism:issue>1</prism:issue>
+		<issueTitle>Issue 1</issueTitle>
+		<prism:coverDate>01/31/1986</prism:coverDate>
+		<prism:startingPage>25</prism:startingPage>
+		<dc:creator>&lt;lnsm:p&gt;&lt;lnsm:aug&gt;&lt;lnsm:au&gt;V.&lt;lnsm:snm&gt; Bocci&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff1"&gt;&lt;sup loc="post"&gt;1&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;L.&lt;lnsm:snm&gt; Paulesu&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff1"&gt;&lt;sup loc="post"&gt;1&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;M.&lt;lnsm:snm&gt; Muscettola&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff1"&gt;&lt;sup loc="post"&gt;1&lt;/sup&gt;&lt;/lk&gt; and &lt;lnsm:au&gt;L.&lt;lnsm:snm&gt; Vanni&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff2"&gt;&lt;sup loc="post"&gt;2&lt;/sup&gt;&lt;/lk&gt;&lt;/lnsm:aug&gt;&lt;/lnsm:p&gt;</dc:creator>
+		<prism:doi>DOI: 10.1016/0165-2478(86)90076-3</prism:doi>
+		<dc:identifier>PII: 0165-2478(86)90076-3</dc:identifier>
+		<pii>PII: 0165-2478(86)90076-3</pii>
+		<dc:description>&lt;lnsm:optionhead&gt;&lt;h l="1"&gt;Abstract&lt;/h&gt;&lt;/lnsm:optionhead&gt;&lt;lnsm:abs&gt;&lt;lnsm:view type="all"&gt;&lt;p&gt;The question has been examined of whether interferon (IFN), produced in the microenvironment of the gut-associated lymphoid tissue (GALT) during the physiological response, is consumed locally, or whether some spills over and is drained into the general circulation. Plasma IFN levels were measured in venous blood draining from abdominal organs that are normally in contact with exogenous and endogenous interferon inducers. The results obtained from three rodent species indicate the presence of a venous-arterial and GALT venous-peripheral venous gradient, suggesting that at least some of the IFN produced in the GALT and spleen is absorbed via blood capillaries and detectable in the regional vessels. Owing to the rapid turnover of IFN, arterial or peripheral venous blood showed a basal level. The antiviral activity (AA) in rat and mouse blood appears to be attributable to IFN-?.&lt;/p&gt;&lt;/lnsm:view&gt;&lt;/lnsm:abs&gt;</dc:description>
+		<prism:aggregationType>YOAS</prism:aggregationType>
+		<prism:copyright>Copyright © 1986 Published by Elsevier B.V.</prism:copyright>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/article/DOI:10.1016/0014-5793(87)80707-X" ref="self"/>
+		<dc:title>Effects of protein-free diet in amino acid homeostatis of rat blood plasma and gut contents</dc:title>
+		<prism:publicationName>FEBS Letters</prism:publicationName>
+		<prism:issn>00145793</prism:issn>
+		<prism:volume>216</prism:volume>
+		<volumeTitle>Volume 216</volumeTitle>
+		<prism:issue>2</prism:issue>
+		<issueTitle>Issue 2</issueTitle>
+		<prism:coverDate>06/01/1987</prism:coverDate>
+		<prism:startingPage>287</prism:startingPage>
+		<dc:creator>&lt;lnsm:p&gt;&lt;lnsm:aug&gt;&lt;lnsm:au&gt;Slavica&lt;lnsm:snm&gt; Suzi?&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;refpt id="bcor1"/&gt;&lt;lk refid="cor1"&gt;&lt;sup&gt;[REcor]&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;lk refid="implicit0"&gt;&lt;sup&gt;a&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;Ljubinka&lt;lnsm:snm&gt; Radunovi?&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="implicit0"&gt;&lt;sup&gt;a&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;Violeta&lt;lnsm:snm&gt; Jankovi?&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="implicit0"&gt;&lt;sup&gt;a&lt;/sup&gt;&lt;/lk&gt; and &lt;lnsm:au&gt;Radmila&lt;lnsm:snm&gt; S?egovi?&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="implicit0"&gt;&lt;sup&gt;a&lt;/sup&gt;&lt;/lk&gt;&lt;/lnsm:aug&gt;&lt;/lnsm:p&gt;</dc:creator>
+		<prism:doi>DOI: 10.1016/0014-5793(87)80707-X</prism:doi>
+		<dc:identifier>PII: 0014-5793(87)80707-X</dc:identifier>
+		<pii>PII: 0014-5793(87)80707-X</pii>
+		<dc:description>&lt;lnsm:optionhead&gt;&lt;h l="1"&gt;Abstract&lt;/h&gt;&lt;/lnsm:optionhead&gt;&lt;lnsm:abs&gt;&lt;lnsm:view type="all"&gt;&lt;p&gt;Amino acids in rat systemic and portal vein plasma and jejunal and ileal gut contents after 7 days of feeding normoprotein (NP) and protein-free diet (PF) are investigated. Amino acid analyses revealed that ingestion of PF diet resulted in unusual amino acid patterns in both plasmas. Thus, while the levels and/or molar ratios of all indispensable amino acids were significantly decreased, those of several gluconeogenetic amino acids, especially of glycine and alanine, were increased in both plasmas, but particularly in portal. By contrast, the molar ratios of the majority of amino acids in jejunal and ileal contents were not changed by PF diet.&lt;/p&gt;&lt;/lnsm:view&gt;&lt;/lnsm:abs&gt;</dc:description>
+		<prism:aggregationType>YOAS</prism:aggregationType>
+		<prism:copyright>Copyright © 1987 Published by Elsevier B.V.</prism:copyright>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/article/DOI:10.1016/S0003-4975(97)00290-7" ref="self"/>
+		<dc:title>Effect of Cardiopulmonary Bypass Perfusion Protocols on Gut Tissue Oxygenation and Blood Flow</dc:title>
+		<prism:publicationName>The Annals of Thoracic Surgery</prism:publicationName>
+		<prism:issn>00034975</prism:issn>
+		<prism:volume>64</prism:volume>
+		<volumeTitle>Volume 64</volumeTitle>
+		<prism:issue>1</prism:issue>
+		<issueTitle>Issue 1</issueTitle>
+		<prism:coverDate>07/31/1997</prism:coverDate>
+		<prism:startingPage>163</prism:startingPage>
+		<dc:creator>&lt;lnsm:au&gt;Sunil K. &lt;lnsm:snm&gt;Ohri&lt;/lnsm:snm&gt; FRCS&lt;/lnsm:au&gt;&lt;lk refid="orfA"&gt;&lt;sup&gt;A&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;refpt id="bcor*"/&gt;&lt;lk refid="cor*"&gt;&lt;sup&gt;*&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;Christopher W. &lt;lnsm:snm&gt;Bowles&lt;/lnsm:snm&gt; PhD&lt;/lnsm:au&gt;&lt;lk refid="orfA"&gt;&lt;sup&gt;A&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;lk refid="orfB"&gt;&lt;sup&gt;B&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;Robert T. &lt;lnsm:snm&gt;Mathie&lt;/lnsm:snm&gt; PhD&lt;/lnsm:au&gt;&lt;lk refid="orfB"&gt;&lt;sup&gt;B&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;David R. &lt;lnsm:snm&gt;Lawrence&lt;/lnsm:snm&gt; FRCS&lt;/lnsm:au&gt;&lt;lk refid="orfA"&gt;&lt;sup&gt;A&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;Bruce E. &lt;lnsm:snm&gt;Keogh&lt;/lnsm:snm&gt; FRCS&lt;/lnsm:au&gt;&lt;lk refid="orfA"&gt;&lt;sup&gt;A&lt;/sup&gt;&lt;/lk&gt; and &lt;lnsm:au&gt;Kenneth M. &lt;lnsm:snm&gt;Taylor&lt;/lnsm:snm&gt; FRCS&lt;/lnsm:au&gt;&lt;lk refid="orfA"&gt;&lt;sup&gt;A&lt;/sup&gt;&lt;/lk&gt;</dc:creator>
+		<prism:doi>DOI: 10.1016/S0003-4975(97)00290-7</prism:doi>
+		<dc:identifier>PII: S0003-4975(97)00290-7</dc:identifier>
+		<pii>PII: S0003-4975(97)00290-7</pii>
+		<dc:description>&lt;lnsm:optionhead&gt;&lt;h l="1"&gt;Abstract&lt;/h&gt;&lt;/lnsm:optionhead&gt;&lt;lnsm:abs&gt;&lt;p&gt;&lt;emph typestyle="it"&gt;Background&lt;/emph&gt;. Previous studies in patients undergoing cardiopulmonary bypass (CPB) have documented gastric mucosal hypoperfusion and hypoxia. This study examines the influence of the CPB protocol on the adequacy of gut blood flow and oxygenation.&lt;/p&gt;&lt;p&gt;&lt;emph typestyle="it"&gt;Methods&lt;/emph&gt;. Twenty-four patients were prospectively randomized into one of four CPB groups: nonpulsatile hypothermic (NP 28); pulsatile hypothermic (P 28); nonpulsatile normothermic (NP 37); and pulsatile normothermic (P 37). Gastric wall blood flow was assessed using laser Doppler flow measurement and gastric mucosal oxygenation (intramucosal pH), using tonometry.&lt;/p&gt;&lt;p&gt;&lt;emph typestyle="it"&gt;Results&lt;/emph&gt;. After 10 minutes of CPB, the NP 28 group had the greatest reduction in gastric wall blood flow (?60.6% ± 3.8%) compared with baseline (&lt;emph typestyle="it"&gt;p&lt;/emph&gt; &amp;lt; 0.05). Thirty minutes into CPB, the P 37 group had less gastric mucosal hypoperfusion (?9.7% ± 10.3%) than the NP 28 patients (?53.0% ± 8.6%; &lt;emph typestyle="it"&gt;p&lt;/emph&gt; &amp;lt; 0.05). All groups showed a hyperemic response immediately after CPB. No significant differences between the four groups were found for gastric mucosal oxygenation during or after CPB. A progressive decline occurred in this variable during the period 3 to 4 hours after CPB. At this time, total-body oxygen consumption and extraction were at their maximum.&lt;/p&gt;&lt;p&gt;&lt;emph typestyle="it"&gt;Conclusions&lt;/emph&gt;. This study found that perfusion protocol can influence mucosal blood flow, but other overriding factors that operate during and after CPB act to cause mucosal hypoxia. These findings, particularly the timing of mucosal hypoxia, may have implications for centers contemplating early extubation or ?fast tracking? of patients after CPB.&lt;/p&gt;&lt;/lnsm:abs&gt;</dc:description>
+		<prism:aggregationType>Article</prism:aggregationType>
+		<prism:copyright>Copyright © 1997 The Society of Thoracic Surgeons. Published by Elsevier Science Inc.</prism:copyright>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/article/DOI:10.1016/S0965-1748(97)00093-3" ref="self"/>
+		<dc:title>Rapid Induction by a Blood Meal of a Carboxypeptidase Gene in the Gut of the Mosquito &lt;emph typestyle="it"&gt;Anopheles gambiae&lt;/emph&gt;</dc:title>
+		<prism:publicationName>Insect Biochemistry and Molecular Biology</prism:publicationName>
+		<prism:issn>09651748</prism:issn>
+		<prism:volume>27</prism:volume>
+		<volumeTitle>Volume 27</volumeTitle>
+		<prism:issue>12</prism:issue>
+		<issueTitle>Issue 12</issueTitle>
+		<prism:coverDate>12/31/1997</prism:coverDate>
+		<prism:startingPage>1063</prism:startingPage>
+		<dc:creator>&lt;lnsm:au&gt;Marten J. &lt;lnsm:snm&gt;Edwards&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="orfa"&gt;&lt;sup&gt;a&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;refpt id="bcor*"/&gt;&lt;lk refid="cor*"&gt;&lt;sup&gt;*&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;Francisco J. &lt;lnsm:snm&gt;A. Lemos&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="orfb"&gt;&lt;sup&gt;b&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;Marilyn &lt;lnsm:snm&gt;Donnelly-Doman&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="orfa"&gt;&lt;sup&gt;a&lt;/sup&gt;&lt;/lk&gt; and &lt;lnsm:au&gt;Marcelo &lt;lnsm:snm&gt;Jacobs-Lorena&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="orfa"&gt;&lt;sup&gt;a&lt;/sup&gt;&lt;/lk&gt;</dc:creator>
+		<prism:doi>DOI: 10.1016/S0965-1748(97)00093-3</prism:doi>
+		<dc:identifier>PII: S0965-1748(97)00093-3</dc:identifier>
+		<pii>PII: S0965-1748(97)00093-3</pii>
+		<dc:description>&lt;lnsm:optionhead&gt;&lt;h l="1"&gt;Abstract&lt;/h&gt;&lt;/lnsm:optionhead&gt;&lt;lnsm:abs&gt;&lt;p&gt;A search for genes induced rapidly (&amp;lt;3&lt;lnsm:hsp sp="0.25"/&gt;h) after a blood meal in the gut of the human malaria vector &lt;emph typestyle="it"&gt;Anopheles gambiae&lt;/emph&gt; led to the identification of a carboxypeptidase gene (&lt;emph typestyle="it"&gt;AgCP&lt;/emph&gt;). We report the sequence of the 1302&lt;lnsm:hsp sp="0.25"/&gt;nt &lt;emph typestyle="it"&gt;AgCP&lt;/emph&gt; transcribed sequence, 710&lt;lnsm:hsp sp="0.25"/&gt;nt of upstream and 585&lt;lnsm:hsp sp="0.25"/&gt;nt of downstream DNA. The &lt;emph typestyle="it"&gt;AgCP&lt;/emph&gt; open reading frame is 60.4% identical at the nucleotide level to a blackfly, &lt;emph typestyle="it"&gt;Simulium vittatum&lt;/emph&gt;, carboxypeptidase gene. The transcriptional start site of &lt;emph typestyle="it"&gt;AgCP&lt;/emph&gt; was determined by primer extension. Expression of &lt;emph typestyle="it"&gt;AgCP&lt;/emph&gt; mRNA is detectable in the guts of pupae and sugar-fed adult female mosquitoes and is induced (?10-fold) within 3&lt;lnsm:hsp sp="0.25"/&gt;h of a blood meal. By 24&lt;lnsm:hsp sp="0.25"/&gt;h after a blood meal, mRNA abundance returns to a level close to that present before a blood meal. Whole-mount &lt;emph typestyle="it"&gt;in situ&lt;/emph&gt; hybridization shows that &lt;emph typestyle="it"&gt;AgCP&lt;/emph&gt; mRNA expression is restricted to most or all cells of the posterior midgut. Expression of the &lt;emph typestyle="it"&gt;AgCP&lt;/emph&gt; and trypsin genes were compared and shown to differ in two fundamental ways: (1) the peak of &lt;emph typestyle="it"&gt;AgCP&lt;/emph&gt; expression after a blood meal occurs approximately 20&lt;lnsm:hsp sp="0.25"/&gt;h before that of trypsin; and (2) induction of the &lt;emph typestyle="it"&gt;AgCP&lt;/emph&gt; gene is independent of the composition of the ingested meal whereas trypsin induction requires the presence of protein. The potential use of the &lt;emph typestyle="it"&gt;AgCP&lt;/emph&gt; promoter for driving the expression of genes that hinder the development of parasites in the mosquito gut is discussed.&lt;/p&gt;&lt;/lnsm:abs&gt;</dc:description>
+		<prism:aggregationType>Article</prism:aggregationType>
+		<prism:copyright>Copyright © 1997 Elsevier Science Ltd. All rights reserved.</prism:copyright>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/article/DOI:10.1016/S1095-6433(00)00335-4" ref="self"/>
+		<dc:title>Gut blood flow in fish during exercise and severe hypercapnia</dc:title>
+		<prism:publicationName>Comparative Biochemistry and Physiology - Part A: Molecular &amp;amp; Integrative Physiology</prism:publicationName>
+		<prism:issn>10956433</prism:issn>
+		<prism:volume>128</prism:volume>
+		<volumeTitle>Volume 128</volumeTitle>
+		<prism:issue>3</prism:issue>
+		<issueTitle>Issue 3</issueTitle>
+		<prism:coverDate>03/31/2001</prism:coverDate>
+		<prism:startingPage>549</prism:startingPage>
+		<dc:creator>&lt;lnsm:au&gt;Anthony P. &lt;lnsm:snm&gt;Farrell&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;refpt id="m4.bcor*"/&gt;&lt;lk refid="m4.cor*"&gt;&lt;sup&gt;[REcor]&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;lk key="farrell@sfu.ca" type="email"&gt;&lt;sup&gt;[REemail]&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;lk refid="aff1"&gt;&lt;sup&gt;a&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;Helgi &lt;lnsm:snm&gt;Thorarensen&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff2"&gt;&lt;sup&gt;b&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;Michael &lt;lnsm:snm&gt;Axelsson&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff3"&gt;&lt;sup&gt;c&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;Carlos E. &lt;lnsm:snm&gt;Crocker&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff4"&gt;&lt;sup&gt;d&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;A. Kurt &lt;lnsm:snm&gt;Gamperl&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff5"&gt;&lt;sup&gt;e&lt;/sup&gt;&lt;/lk&gt; and &lt;lnsm:au&gt;Joseph J. &lt;lnsm:snm&gt;Cech&lt;/lnsm:snm&gt;Jr. &lt;/lnsm:au&gt;&lt;lk refid="aff6"&gt;&lt;sup&gt;f&lt;/sup&gt;&lt;/lk&gt;</dc:creator>
+		<prism:doi>DOI: 10.1016/S1095-6433(00)00335-4</prism:doi>
+		<dc:identifier>PII: S1095-6433(00)00335-4</dc:identifier>
+		<pii>PII: S1095-6433(00)00335-4</pii>
+		<dc:description>&lt;lnsm:optionhead&gt;&lt;h l="1"&gt;Abstract&lt;/h&gt;&lt;/lnsm:optionhead&gt;&lt;lnsm:abs&gt;&lt;p&gt;This paper reviews the effects of exercise and hypercapnia on blood flow to the splanchnic circulation. Brief struggling behaviours are known to decrease blood flow to the gut (GBF). Likewise, prolonged swimming in unfed fish has been shown to reduce GBF in proportion to the increased oxygen uptake. Therefore, the normal postprandial increase in GBF theoretically should be impaired whenever fish are active. However, indirect evidence suggests that GBF is spared to some degree when fed fish swim continuously but at a cost (10?15%) to their critical swimming speed. Severe respiratory acidosis can be created by the new intensive aquaculture settings that use oxygen injection into re-circulated water. The only study so far to examine the effects of severe hypercapnia on GBF and its regulation showed that routine GBF and ?-adrenergic control of GBF remained normal in unfed white sturgeon (&lt;emph typestyle="it"&gt;Acipenser transmontanus&lt;/emph&gt;). However, severe hypercapnia produced a hyperactive state and increased sensitivity of GBF to struggling. As a result, routine GBF was maintained for a short period of time. Thus, environmental changes such as severe hypercapnia can indirectly impact GBF through altered struggling behaviour, but the implications of the overall reduction in GBF to food assimilation have yet to be established.&lt;/p&gt;&lt;/lnsm:abs&gt;</dc:description>
+		<prism:aggregationType>Article</prism:aggregationType>
+		<prism:copyright>Copyright © 2001 Elsevier Science Inc. All rights reserved.</prism:copyright>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/article/DOI:10.1016/0014-2999(91)90327-M" ref="self"/>
+		<dc:title>Halof hane markedly reduces mesenteric blood flow but does not impair gut mucosal oxygenation in pigs&lt;refpt id="bm4.1"/&gt;&lt;lk refid="m4.1"&gt;&lt;sup&gt;*1&lt;/sup&gt;&lt;/lk&gt;</dc:title>
+		<prism:publicationName>European Journal of Pharmacology</prism:publicationName>
+		<prism:issn>00142999</prism:issn>
+		<prism:volume>201</prism:volume>
+		<volumeTitle>Volume 201</volumeTitle>
+		<prism:issue>1</prism:issue>
+		<issueTitle>Issue 1</issueTitle>
+		<prism:coverDate>08/16/1991</prism:coverDate>
+		<prism:startingPage>91</prism:startingPage>
+		<dc:creator>&lt;lnsm:au&gt;Heinz M. &lt;lnsm:snm&gt;Loick&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;refpt id="m4.bcor*"/&gt;&lt;lk refid="m4.cor*"&gt;&lt;sup&gt;[REcor]&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;Rifat &lt;lnsm:snm&gt;Tokyay&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;, &lt;lnsm:au&gt;Salahadin &lt;lnsm:snm&gt;Abdi&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;, &lt;lnsm:au&gt;Daniel L. &lt;lnsm:snm&gt;Traber&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;, &lt;lnsm:au&gt;R. J. &lt;lnsm:snm&gt;Nichols&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt; and &lt;lnsm:au&gt;David L. &lt;lnsm:snm&gt;Herndon&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;</dc:creator>
+		<prism:doi>DOI: 10.1016/0014-2999(91)90327-M</prism:doi>
+		<dc:identifier>PII: 0014-2999(91)90327-M</dc:identifier>
+		<pii>PII: 0014-2999(91)90327-M</pii>
+		<dc:description>&lt;lnsm:optionhead&gt;&lt;h l="1"&gt;Abstract&lt;/h&gt;&lt;/lnsm:optionhead&gt;&lt;lnsm:abs&gt;&lt;p&gt;We investigated the effect of halothane on in mesenteric blood flow and gut mucosal oxygenation. Pittman-Moore mini-pigs (n = 6) were chronically instrumented with aortic, pulmonary arterial (Swan-Ganz), and mesenteric venous catheters and an intestinal tonometer. Blood flow in the superior mesenteric artery was measured with an ultrasonic flow probe. On the day of the experiment, data were obtained before and during halothane administration (1.5% end-tidal). Halothane caused a marked decrease in mesenteric blood flow, associated with an increase in mesenteric vascular resistance. Likewise mesenteric oxygen delivery and consumption were significantly decreased under halothane, while the oxygen extraction rate of the intestine was not significantly changed. There was no significant change in intramucosal gut pH after halothane administration, which indicates that an adequate mucosal tissue oxygenation was maintained. We conclude that the marked halothane-induced reduction in mesenteric blood flow did not seem to impair the oxygenation of the gut mucosa in our experimental model.&lt;/p&gt;&lt;/lnsm:abs&gt;</dc:description>
+		<prism:aggregationType>YOAS</prism:aggregationType>
+		<prism:copyright>Copyright © 1991 Published by Elsevier Science B.V.</prism:copyright>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/article/DOI:10.1016/0020-1790(88)90091-1" ref="self"/>
+		<dc:title>Sugar specificities of anti-human ABO(H) blood group erythrocyte agglutinins (lectins) and haemolytic activity in the haemolymph and gut extracts of three &lt;emph typestyle="it"&gt;Glossina&lt;/emph&gt; species</dc:title>
+		<prism:publicationName>Insect Biochemistry</prism:publicationName>
+		<prism:issn>00201790</prism:issn>
+		<prism:volume>18</prism:volume>
+		<volumeTitle>Volume 18</volumeTitle>
+		<prism:issue>3</prism:issue>
+		<issueTitle>Issue 3</issueTitle>
+		<prism:coverDate>12/31/1988</prism:coverDate>
+		<prism:startingPage>269</prism:startingPage>
+		<dc:creator>&lt;lnsm:p&gt;&lt;lnsm:aug&gt;&lt;lnsm:au&gt;George A.&lt;lnsm:snm&gt; Ingram&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="implicit0"&gt;&lt;sup&gt;a&lt;/sup&gt;&lt;/lk&gt; and &lt;lnsm:au&gt;David H.&lt;lnsm:snm&gt; Molyneux&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="implicit0"&gt;&lt;sup&gt;a&lt;/sup&gt;&lt;/lk&gt;&lt;/lnsm:aug&gt;&lt;/lnsm:p&gt;</dc:creator>
+		<prism:doi>DOI: 10.1016/0020-1790(88)90091-1</prism:doi>
+		<dc:identifier>PII: 0020-1790(88)90091-1</dc:identifier>
+		<pii>PII: 0020-1790(88)90091-1</pii>
+		<dc:description>&lt;lnsm:optionhead&gt;&lt;h l="1"&gt;Abstract&lt;/h&gt;&lt;/lnsm:optionhead&gt;&lt;lnsm:abs&gt;&lt;lnsm:view type="all"&gt;&lt;p&gt;Relatively heat-labile, human ABO(H) blood group non-specific lectins or lectin-like agglutinins, titre range 2&lt;sup loc="post"&gt;?9&lt;/sup&gt;?2&lt;sup loc="post"&gt;?16&lt;/sup&gt;, were detected in &lt;emph typestyle="it"&gt;Glossina morsitans morsitans, Glossina palpalis gambiensis&lt;/emph&gt; and &lt;emph typestyle="it"&gt;Glossina tachinoides&lt;/emph&gt; haemolymph. The haemagglutinins exhibited wide specificities for carbohydrate residues on the surface of human erythrocytes, indicative of heterogeneity, which varied according to the tsetse species examined and the type of erythrocyte used. Haemolymph agglutinin reactivities were directed mainly towards sorbose, trehalose, glucose, 2-deoxygalactose and to a lesser extent the deoxy, [1?4]- and/or [1?6]-linked derivatives of glucose. Occasionally fructose, mannose, sucrose, turanose, stachyose and melezitose minimally inhibited agglutination. Midgut haemagglutinins, titres 2&lt;sup loc="post"&gt;?6&lt;/sup&gt; or 2&lt;sup loc="post"&gt;?7&lt;/sup&gt;, were only found in &lt;emph typestyle="it"&gt;G. m. morsitans&lt;/emph&gt; exclusively against ?AB? erthrocytes whilst hindgut extracts in all threee &lt;emph typestyle="it"&gt;Glossina&lt;/emph&gt; species caused agglutination (titres 2&lt;sup loc="post"&gt;?1&lt;/sup&gt;?2&lt;sup loc="post"&gt;?7&lt;/sup&gt;) of most erythrocyte types. Heat-labile, possibly protease but not trypsin, haemolytic molecules were present in most gut preparations. Conversely, a non-proteolytic, partially thermostable haemolysin(s) was detected in &lt;emph typestyle="it"&gt;G. m. morsitans&lt;/emph&gt; midgut samples. Gut haemagglutinin specificities were less diverse than those of haemolymph and effective agglutination inhibitors were glucose, galactose or mannose and their deoxy, aminated and &lt;emph typestyle="it"&gt;N&lt;/emph&gt;-acetylated derivatives. Additionally sorbose, sucrose, turanose, gluconic acid and methyl glucoside inhibited in &lt;emph typestyle="it"&gt;G. m. morsitans&lt;/emph&gt;. Both agglutinin and lytic activities were either negated or reduced following freezing and thawing treatments of gut extracts and haemolymph.&lt;/p&gt;&lt;/lnsm:view&gt;&lt;/lnsm:abs&gt;</dc:description>
+		<prism:aggregationType>YOAS</prism:aggregationType>
+		<prism:copyright>Copyright © 1988 Published by Elsevier Ltd.</prism:copyright>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/article/DOI:10.1016/j.ijpara.2008.06.012" ref="self"/>
+		<dc:title>Legumains from the hard tick &lt;emph typestyle="it"&gt;Haemaphysalis&lt;/emph&gt; &lt;emph typestyle="it"&gt;longicornis&lt;/emph&gt; play modulatory roles in blood feeding and gut cellular remodelling and impact on embryogenesis</dc:title>
+		<prism:publicationName>International Journal for Parasitology</prism:publicationName>
+		<prism:issn>00207519</prism:issn>
+		<prism:volume>39</prism:volume>
+		<volumeTitle>Volume 39</volumeTitle>
+		<prism:issue>1</prism:issue>
+		<issueTitle>Issue 1</issueTitle>
+		<prism:coverDate>01/31/2009</prism:coverDate>
+		<prism:startingPage>97</prism:startingPage>
+		<dc:creator>&lt;lnsm:p&gt;&lt;lnsm:aug&gt;&lt;lnsm:au&gt;M. Abdul&lt;lnsm:snm&gt; Alim&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff1"&gt;&lt;sup loc="post"&gt;a&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;Naotoshi&lt;lnsm:snm&gt; Tsuji&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff1"&gt;&lt;sup loc="post"&gt;a&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;refpt id="bcor1"/&gt;&lt;lk refid="cor1"&gt;&lt;sup&gt;[REcor]&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;lk key="tsujin@affrc.go.jp" type="email"&gt;&lt;sup&gt;[REemail]&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;Takeharu&lt;lnsm:snm&gt; Miyoshi&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff1"&gt;&lt;sup loc="post"&gt;a&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;M. Khyrul&lt;lnsm:snm&gt; Islam&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff1"&gt;&lt;sup loc="post"&gt;a&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;Takeshi&lt;lnsm:snm&gt; Hatta&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff1"&gt;&lt;sup loc="post"&gt;a&lt;/sup&gt;&lt;/lk&gt; and &lt;lnsm:au&gt;Kozo&lt;lnsm:snm&gt; Fujisaki&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff2"&gt;&lt;sup loc="post"&gt;b&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;lk refid="aff3"&gt;&lt;sup loc="post"&gt;c&lt;/sup&gt;&lt;/lk&gt;&lt;/lnsm:aug&gt;&lt;/lnsm:p&gt;</dc:creator>
+		<prism:doi>DOI: 10.1016/j.ijpara.2008.06.012</prism:doi>
+		<dc:identifier>PII: S0020-7519(08)00262-2</dc:identifier>
+		<pii>PII: S0020-7519(08)00262-2</pii>
+		<dc:description>&lt;lnsm:optionhead&gt;&lt;h l="1"&gt;Abstract&lt;/h&gt;&lt;/lnsm:optionhead&gt;&lt;lnsm:abs&gt;&lt;lnsm:view type="all"&gt;&lt;p&gt;The biology and vectorial capacity of haematophagous ticks are directly related to effective blood feeding and digestion. The midgut-associated proteases in ticks are involved in the blood (Hb) digestion cascade, the molecular mechanisms of which are yet poorly understood. Our previous studies indicated that &lt;emph typestyle="it"&gt;Haemaphysalis&lt;/emph&gt; &lt;emph typestyle="it"&gt;longicornis&lt;/emph&gt; midgut-specific asparaginyl endopeptidases/legumains, HlLgm and HlLgm2, act in the Hb digestion cascade. Here, we investigated the potential of these enzymes in blood feeding and digestion, midgut remodelling and reproduction of ticks by employing RNA interference (RNAi) techniques. Injection of &lt;emph typestyle="it"&gt;HlLgm-&lt;/emph&gt; and &lt;emph typestyle="it"&gt;HlLgm2&lt;/emph&gt; gene-specific double-stranded RNAs into unfed adult female &lt;emph typestyle="it"&gt;H&lt;/emph&gt;. &lt;emph typestyle="it"&gt;longicornis&lt;/emph&gt; caused gene-specific transcriptional and translational disruptions. RNAi impacted on tick blood feeding leading to death of the feeding ticks, failure of ticks to reach repletion and significant reductions in engorged tick body weight. Histological examination revealed that deletion of legumains resulted in damage to the midgut tissues and disruption of normal cellular remodelling during feeding. Gene knock-down also caused significantly delayed onset of oviposition, reduced number of eggs and, most strikingly, structurally deformed eggs that failed to hatch suggesting imperfect embryogenesis. Synergistic impacts of RNAi were reflected on all parameters evaluated when &lt;emph typestyle="it"&gt;HlLgm&lt;/emph&gt; and &lt;emph typestyle="it"&gt;HlLgm2&lt;/emph&gt; were silenced together. These findings suggest that legumains may play modulatory roles in blood feeding and digestion, midgut cellular remodelling and embryogenesis in &lt;emph typestyle="it"&gt;H&lt;/emph&gt;. &lt;emph typestyle="it"&gt;longicornis&lt;/emph&gt;. Deletion of legumains in &lt;emph typestyle="it"&gt;H&lt;/emph&gt;. &lt;emph typestyle="it"&gt;longicornis&lt;/emph&gt; would help in controlling the tick population and thereby transmission of diseases to their hosts.&lt;/p&gt;&lt;/lnsm:view&gt;&lt;/lnsm:abs&gt;</dc:description>
+		<prism:aggregationType>Article</prism:aggregationType>
+		<prism:copyright>Copyright © 2008 Australian Society for Parasitology Inc. Published by Elsevier Ltd.</prism:copyright>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/article/DOI:10.1016/j.cccn.2004.09.023" ref="self"/>
+		<dc:title>Dual sugar gut-permeability testing on blood drop in animal models</dc:title>
+		<prism:publicationName>Clinica Chimica Acta</prism:publicationName>
+		<prism:issn>00098981</prism:issn>
+		<prism:volume>352</prism:volume>
+		<volumeTitle>Volume 352</volumeTitle>
+		<prism:issue>1-2</prism:issue>
+		<issueTitle>Issues 1-2</issueTitle>
+		<prism:coverDate>02/01/2005</prism:coverDate>
+		<prism:startingPage>191</prism:startingPage>
+		<dc:creator>&lt;lnsm:p&gt;&lt;lnsm:aug&gt;&lt;lnsm:au&gt;Fourogh&lt;lnsm:snm&gt; Katouzian&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff1"&gt;&lt;sup loc="post"&gt;a&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;Daniele&lt;lnsm:snm&gt; Sblattero&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff2"&gt;&lt;sup loc="post"&gt;b&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;Tarcisio&lt;lnsm:snm&gt; Not&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff1"&gt;&lt;sup loc="post"&gt;a&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;refpt id="bcor1"/&gt;&lt;lk refid="cor1"&gt;&lt;sup&gt;[REcor]&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;lk key="not@burlo.trieste.it" type="email"&gt;&lt;sup&gt;[REemail]&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;Alberto&lt;lnsm:snm&gt; Tommasini&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff1"&gt;&lt;sup loc="post"&gt;a&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;Elena&lt;lnsm:snm&gt; Giusto&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff1"&gt;&lt;sup loc="post"&gt;a&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;Daniela&lt;lnsm:snm&gt; Meiacco&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff1"&gt;&lt;sup loc="post"&gt;a&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;Marco&lt;lnsm:snm&gt; Stebel&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff3"&gt;&lt;sup loc="post"&gt;c&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;Roberto&lt;lnsm:snm&gt; Marzari&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff2"&gt;&lt;sup loc="post"&gt;b&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;Alessio&lt;lnsm:snm&gt; Fasano&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff4"&gt;&lt;sup loc="post"&gt;d&lt;/sup&gt;&lt;/lk&gt; and &lt;lnsm:au&gt;Alessandro&lt;lnsm:snm&gt; Ventura&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff1"&gt;&lt;sup loc="post"&gt;a&lt;/sup&gt;&lt;/lk&gt;&lt;/lnsm:aug&gt;&lt;/lnsm:p&gt;</dc:creator>
+		<prism:doi>DOI: 10.1016/j.cccn.2004.09.023</prism:doi>
+		<dc:identifier>PII: S0009-8981(04)00477-2</dc:identifier>
+		<pii>PII: S0009-8981(04)00477-2</pii>
+		<dc:description>&lt;lnsm:optionhead&gt;&lt;h l="1"&gt;Abstract&lt;/h&gt;&lt;/lnsm:optionhead&gt;&lt;lnsm:abs&gt;&lt;lnsm:optionhead&gt;&lt;h l="2"&gt;Background&lt;/h&gt;&lt;/lnsm:optionhead&gt;&lt;lnsm:view type="all"&gt;&lt;p&gt;Intestinal permeability is determined by measuring nonmetabolized sugars. In animals, intestinal permeability is determined in urine, using cumbersome and expensive metabolic cages. We developed an HPLC method for determining concentrations of lactulose (L) and &lt;lnsm:typestyle value="smcaps"&gt;L&lt;/lnsm:typestyle&gt;-rhamnose (R) in blood-drop of rabbits and mice, and we compared these results with the procedure based on sugars excreted in urine. We measured the intestinal permeability induced by a fragment (?G) of the zonula occludens toxin which opens the paracellular pathway.&lt;/p&gt;&lt;/lnsm:view&gt;&lt;lnsm:optionhead&gt;&lt;h l="2"&gt;Methods&lt;/h&gt;&lt;/lnsm:optionhead&gt;&lt;lnsm:view type="all"&gt;&lt;p&gt;The animals received sugar solution and later received the same solution+?G. Five-hour urine collection and timed blood tests were performed after ingestion of sugars. Sugars were measured with HPLC, and the percentage of recovered sugars was expressed as L/R ratio.&lt;/p&gt;&lt;/lnsm:view&gt;&lt;lnsm:optionhead&gt;&lt;h l="2"&gt;Results&lt;/h&gt;&lt;/lnsm:optionhead&gt;&lt;lnsm:view type="all"&gt;&lt;p&gt;At 60 min after administration of sugars, the mean L/R ratio for rabbits and mice was 0.026 and 0.052, respectively. At 60 min after administration of sugars+?G, the mean L/R ratio for rabbits and mice was 0.22 and 0.53. The mean L/R ratio in the urine was 0.023 at basal condition and 0.25 after ?G ingestion.&lt;/p&gt;&lt;/lnsm:view&gt;&lt;lnsm:optionhead&gt;&lt;h l="2"&gt;Conclusions&lt;/h&gt;&lt;/lnsm:optionhead&gt;&lt;lnsm:view type="all"&gt;&lt;p&gt;Testing small serum samples for sugar permeability is effective for monitoring changes in permeability of the gut in animals. This cheap simple method allows us to measure in vivo the biological activity of other molecules which modulate the paracellular pathway.&lt;/p&gt;&lt;/lnsm:view&gt;&lt;/lnsm:abs&gt;</dc:description>
+		<prism:aggregationType>Article</prism:aggregationType>
+		<prism:copyright>Copyright © 2004 Elsevier B.V. All rights reserved.</prism:copyright>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/article/DOI:10.1016/S0022-5223(95)70116-8" ref="self"/>
+		<dc:title>Gut mucosal ischemia during normothermic cardiopulmonary bypass results from blood flow redistribution and increased oxygen demand&lt;refpt id="bafn1"/&gt;&lt;lk refid="afn1"&gt;&lt;sup&gt;?&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;refpt id="bafn2"/&gt;&lt;lk refid="afn2"&gt;&lt;sup&gt;??&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;refpt id="bafn3"/&gt;&lt;lk refid="afn3"&gt;&lt;sup&gt;?&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;refpt id="bafn4"/&gt;&lt;lk refid="afn4"&gt;&lt;sup&gt;??&lt;/sup&gt;&lt;/lk&gt;</dc:title>
+		<prism:publicationName>The Journal of Thoracic and Cardiovascular Surgery</prism:publicationName>
+		<prism:issn>00225223</prism:issn>
+		<prism:volume>110</prism:volume>
+		<volumeTitle>Volume 110</volumeTitle>
+		<prism:issue>3</prism:issue>
+		<issueTitle>Issue 3</issueTitle>
+		<prism:coverDate>09/30/1995</prism:coverDate>
+		<prism:startingPage>819</prism:startingPage>
+		<dc:creator>&lt;lnsm:p&gt;&lt;lnsm:aug&gt;&lt;lnsm:au&gt;Weike&lt;lnsm:snm&gt; Tao&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lnsm:degs&gt; MD&lt;sup loc="post"&gt;a&lt;/sup&gt;&lt;/lnsm:degs&gt;, &lt;lnsm:au&gt;Joseph B.&lt;lnsm:snm&gt; Zwischenberger&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lnsm:degs&gt; MD&lt;sup loc="post"&gt;a&lt;/sup&gt;&lt;/lnsm:degs&gt;, &lt;lnsm:au&gt;Thuan T.&lt;lnsm:snm&gt; Nguyen&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lnsm:degs&gt; MD&lt;sup loc="post"&gt;a&lt;/sup&gt;&lt;/lnsm:degs&gt;, &lt;lnsm:au&gt;Roger A.&lt;lnsm:snm&gt; Vertrees&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lnsm:degs&gt; CCP&lt;sup loc="post"&gt;a&lt;/sup&gt;&lt;/lnsm:degs&gt;, &lt;lnsm:au&gt;Laura B.&lt;lnsm:snm&gt; McDaniel&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lnsm:degs&gt; MD&lt;sup loc="post"&gt;b&lt;/sup&gt;&lt;/lnsm:degs&gt;, &lt;lnsm:au&gt;Leta K.&lt;lnsm:snm&gt; Nutt&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lnsm:degs&gt; BS&lt;sup loc="post"&gt;b&lt;/sup&gt;&lt;/lnsm:degs&gt;, &lt;lnsm:au&gt;David N.&lt;lnsm:snm&gt; Herndon&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lnsm:degs&gt; MD&lt;sup loc="post"&gt;a&lt;/sup&gt;&lt;/lnsm:degs&gt; and &lt;lnsm:au&gt;George C.&lt;lnsm:snm&gt; Kramer&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lnsm:degs&gt; PhD&lt;sup loc="post"&gt;b&lt;/sup&gt;&lt;/lnsm:degs&gt;&lt;/lnsm:aug&gt;&lt;/lnsm:p&gt;</dc:creator>
+		<prism:doi>DOI: 10.1016/S0022-5223(95)70116-8</prism:doi>
+		<dc:identifier>PII: S0022-5223(95)70116-8</dc:identifier>
+		<pii>PII: S0022-5223(95)70116-8</pii>
+		<dc:description>&lt;lnsm:optionhead&gt;&lt;h l="1"&gt;Abstract&lt;/h&gt;&lt;/lnsm:optionhead&gt;&lt;lnsm:abs&gt;&lt;lnsm:view type="all"&gt;&lt;p&gt;Impaired gut mucosal perfusion has been reported during cardiopulmonary bypass. To better define the adequacy of gut blood flow and oxygenation during cardiopulmonary bypass, we measured overall gut blood flow and ileal mucosal flow and their relationship to mucosal pH, mesenteric oxygen delivery and oxygen consumption in immature pigs (&lt;emph typestyle="it"&gt;n&lt;/emph&gt; = 8). Normothermic, noncrossclamped, right atrium?to?aorta cardiopulmonary bypass was maintained at 100 ml/kg per minute for 120 minutes. Animals were instrumented with an ultrasonic Doppler flow probe on the superior mesenteric artery, a mucosal laser Doppler flow probe in the ileum, and pH tonometers in the stomach, ileum, and rectum. Radioactive microspheres were injected before and at 5, 60, and 120 minutes of cardiopulmonary bypass for tissue blood flow measurements. Overall gut blood flow significantly increased during cardiopulmonary bypass as evidenced by increases in superior mesenteric arterial flow to 134.1% ± 8.0%, 137.1% ± 7.5%, 130.3% ± 11.2%, and 130.2% ± 12.7% of baseline values at 30, 60, 90, and 120 minutes of bypass, respectively. Conversely, ileal mucosal blood flow significantly decreased to 53.6% ± 6.4%, 49.5% ± 6.8%, 58.9% ± 11.6%, and 47.8% ± 10.0% of baseline values, respectively. Blood flow measured with microspheres was significantly increased to proximal portions of the gut, duodenum and jejunum, during cardiopulmonary bypass, whereas blood flow to distal portions, ileum and colon, was unchanged. Gut mucosal pH decreased progressively during cardiopulmonary bypass and paralleled the decrease in ileal mucosal blood flow. Mesenteric oxygen delivery decreased significantly from 67.0 ± 10.0 ml/min per square meter at baseline to 42.4 ± 4.6, 44.9 ± 3.5, 46.0 ± 3.6, and 42.9 ± 3.9 ml/min per square meter at 30, 60, 90, and 120 minutes of bypass. Despite the decrease in mesenteric oxygen delivery, mesenteric oxygen consumption increased progressively from 10.8 ± 1.4 ml/min per square meter at baseline to 13.4 ± 1.2, 15.9 ± 1.2, 16.7 ± 1.4, and 16.6 ± 1.54 ml/min per square meter, respectively. We conclude that gut mucosal ischemia during normothermic cardiopulmonary bypass results from a combination of redistribution of blood flow away from mucosa and an increased oxygen demand. (J T&lt;lnsm:typestyle value="smcaps"&gt;HORAC&lt;/lnsm:typestyle&gt; C&lt;lnsm:typestyle value="smcaps"&gt;ARDIOVASC&lt;/lnsm:typestyle&gt; S&lt;lnsm:typestyle value="smcaps"&gt;URG&lt;/lnsm:typestyle&gt; 1995;110:819-28)&lt;/p&gt;&lt;/lnsm:view&gt;&lt;/lnsm:abs&gt;</dc:description>
+		<prism:aggregationType>Article</prism:aggregationType>
+		<prism:copyright>Copyright © 1995 Mosby, Inc. All rights reserved.</prism:copyright>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/article/DOI:10.1016/j.lab.2004.05.017" ref="self"/>
+		<dc:title>Effects of recombinant-hemoglobin solutions rHb2.0 and rHb1.1 on blood pressure, intestinal blood flow, and gut oxygenation in a rat model of hemorrhagic shock</dc:title>
+		<prism:publicationName>Journal of Laboratory and Clinical Medicine</prism:publicationName>
+		<prism:issn>00222143</prism:issn>
+		<prism:volume>145</prism:volume>
+		<volumeTitle>Volume 145</volumeTitle>
+		<prism:issue>1</prism:issue>
+		<issueTitle>Issue 1</issueTitle>
+		<prism:coverDate>01/01/2005</prism:coverDate>
+		<prism:startingPage>21</prism:startingPage>
+		<dc:creator>&lt;lnsm:p&gt;&lt;lnsm:aug&gt;&lt;lnsm:au&gt;Nicolaas J.H.&lt;lnsm:snm&gt; Raat&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff1"&gt;&lt;sup loc="post"&gt;a&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;refpt id="bcor1"/&gt;&lt;lk refid="cor1"&gt;&lt;sup&gt;[REcor]&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;lk key="n.j.raat@amc.uva.nl" type="email"&gt;&lt;sup&gt;[REemail]&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;Jing-Feng&lt;lnsm:snm&gt; Liu&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff3"&gt;&lt;sup loc="post"&gt;c&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;Michael P.&lt;lnsm:snm&gt; Doyle&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff4"&gt;&lt;sup loc="post"&gt;d&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;Kenneth E.&lt;lnsm:snm&gt; Burhop&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff4"&gt;&lt;sup loc="post"&gt;d&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;Jan&lt;lnsm:snm&gt; Klein&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff2"&gt;&lt;sup loc="post"&gt;b&lt;/sup&gt;&lt;/lk&gt; and &lt;lnsm:au&gt;Can&lt;lnsm:snm&gt; Ince&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff1"&gt;&lt;sup loc="post"&gt;a&lt;/sup&gt;&lt;/lk&gt;&lt;/lnsm:aug&gt;&lt;/lnsm:p&gt;</dc:creator>
+		<prism:doi>DOI: 10.1016/j.lab.2004.05.017</prism:doi>
+		<dc:identifier>PII: S0022-2143(04)00288-4</dc:identifier>
+		<pii>PII: S0022-2143(04)00288-4</pii>
+		<dc:description>&lt;lnsm:abs&gt;&lt;lnsm:view type="all"&gt;&lt;p&gt;The vasoconstriction induced by hemoglobin-based oxygen carriers (HBOCs), mainly a result of nitric oxide (NO) scavenging, until now has limited the application of HBOCs as resuscitation fluids. In this study, we tested the hypothesis that the new modified recombinant-hemoglobin solution rHb2.0, with a 20 to 30 times lesser NO-scavenging rate, would minimize vasoconstriction without adverse effects on microvascular oxygenation. Responses were compared with those to rHb1.1, a recombinant-hemoglobin solution with a wild-type NO-scavenging rate, as well as an oncotically matched albumin solution. In a fixed-pressure (40 mm Hg) rat model of hemorrhagic shock and resuscitation, rHb2.0 and albumin both restored mean arterial pressure (MAP) to baseline values, whereas rHb1.1 increased MAP to 27% above the baseline value. Mesenteric vascular resistance after resuscitation with rHb2.0 was 57% less than that with rHb1.1. rHb2.0 was found to have 55% greater intestinal oxygen delivery (D&lt;lnsm:typestyle value="smcaps"&gt;o&lt;/lnsm:typestyle&gt;&lt;sub loc="post"&gt;2int&lt;/sub&gt;) and resulted in a 27% lower oxygen-extraction rate than did rHb1.1 after resuscitation. Intestinal microvascular P&lt;lnsm:typestyle value="smcaps"&gt;o&lt;/lnsm:typestyle&gt;&lt;sub loc="post"&gt;2&lt;/sub&gt;, determined on the basis of oxygen-dependent quenching of palladium-porphyrin phosphorescence, revealed no difference between rHb2.0 and rHb1.1. The findings of this study confirm that the well-known pressure effect of HBOCs is caused by their effect on the NO-scavenging rate; recombinant modification of this rate did not increase MAP during resuscitation compared with baseline values. Although systemic vasoconstriction was absent, intestinal vasoconstriction almost negligible, and D&lt;lnsm:typestyle value="smcaps"&gt;o&lt;/lnsm:typestyle&gt;&lt;sub loc="post"&gt;2int&lt;/sub&gt; greater after resuscitation with rHb2.0, the effect of rHb2.0 on pH, base-excess and microvascular P&lt;lnsm:typestyle value="smcaps"&gt;o&lt;/lnsm:typestyle&gt;&lt;sub loc="post"&gt;2&lt;/sub&gt; levels after resuscitation were comparable to those achieved with the use of the albumin solution.&lt;/p&gt;&lt;/lnsm:view&gt;&lt;/lnsm:abs&gt;</dc:description>
+		<prism:aggregationType>Article</prism:aggregationType>
+		<prism:copyright>Copyright © 2005 Elsevier Inc. All rights reserved.</prism:copyright>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/article/DOI:10.1016/0896-8411(95)90008-X" ref="self"/>
+		<dc:title>Lack of proliferative response by gluten-specific T cells in the blood and gut of patients with dermatitis herpetiformis</dc:title>
+		<prism:publicationName>Journal of Autoimmunity</prism:publicationName>
+		<prism:issn>08968411</prism:issn>
+		<prism:volume>8</prism:volume>
+		<volumeTitle>Volume 8</volumeTitle>
+		<prism:issue>4</prism:issue>
+		<issueTitle>Issue 4</issueTitle>
+		<prism:coverDate>08/31/1995</prism:coverDate>
+		<prism:startingPage>561</prism:startingPage>
+		<dc:creator>&lt;lnsm:au&gt;Barbara S. &lt;lnsm:snm&gt;Baker&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;refpt id="m4.bcor*"/&gt;&lt;lk refid="m4.cor*"&gt;&lt;sup&gt;[REcor]&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;lk refid="aff1"&gt;&lt;sup&gt;a&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;refpt id="m4.bcor*"/&gt;&lt;lk refid="m4.cor*"&gt;&lt;sup&gt;[REcor]&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;Jennifer J. &lt;lnsm:snm&gt;Garioch&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff1"&gt;&lt;sup&gt;a&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;Senur &lt;lnsm:snm&gt;Bokth&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff1"&gt;&lt;sup&gt;a&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;Hew &lt;lnsm:snm&gt;Thomas&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff2"&gt;&lt;sup&gt;b&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;Marjorie M. &lt;lnsm:snm&gt;Walker&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff3"&gt;&lt;sup&gt;c&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;Jonathan N. &lt;lnsm:snm&gt;Leonard&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff1"&gt;&lt;sup&gt;a&lt;/sup&gt;&lt;/lk&gt; and &lt;lnsm:au&gt;Lionel &lt;lnsm:snm&gt;Fry&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff1"&gt;&lt;sup&gt;a&lt;/sup&gt;&lt;/lk&gt;</dc:creator>
+		<prism:doi>DOI: 10.1016/0896-8411(95)90008-X</prism:doi>
+		<dc:identifier>PII: 0896-8411(95)90008-X</dc:identifier>
+		<pii>PII: 0896-8411(95)90008-X</pii>
+		<dc:description>&lt;lnsm:optionhead&gt;&lt;h l="1"&gt;Abstract&lt;/h&gt;&lt;/lnsm:optionhead&gt;&lt;lnsm:abs&gt;&lt;p&gt;The majority of patients with Dermatitis Herpetiformis (DH) have a gluten-sensitive enteropathy which may be triggered by a T cell-mediated immune response to gluten. Using a proliferative assay, the responses to gluten fraction III, recall antigens and mitogens of peripheral blood mononuclear cells (PBMC) and gut T cell lines (TCL) isolated from patients with Dermatitis Herpetiformis (DH) and normal controls were studied. In most cases, neither PBMC nor gut T cell lines (which were predominantly CD3&lt;sup&gt;+&lt;/sup&gt;, CD4&lt;sup&gt;+&lt;/sup&gt;, TCR ??&lt;sup&gt;+&lt;/sup&gt;) from either controls or patients proliferated in response to gluten fraction III alone. However, the addition of 10 U/ml IL-2 to PBMC cultures containing gluten fraction III resulted in a marked increase in proliferation in 9/19 DH patients and 7/11 controls compared to IL-2 alone. Furthermore, gluten-induced upregulation of IL-2 receptor (CD25) expression was demonstrated on PBMC from 4/4 patients with DH and 2/3 controls after 7 days' culture with antigen. A similar effect by exogenous IL-2, or the same concentration of IL-4, was observed in 8/11 (&lt;emph typestyle="it"&gt;P&lt;/emph&gt;=0.02) and 5/6 respectively DH, and 3/4 normal gut T cell lines.&lt;/p&gt;&lt;p&gt;No difference was observed in the response of DH and control PBMC to Tetanus toxin, Candida albicans and PPD; both normal and DH gut T cell lines were unresponsive to these antigens. However, the addition of IL-2 increased the response to Candida albicans by DH gut T cell lines. Moreover, the response of DH gut T cell lines to PHA (&lt;emph typestyle="it"&gt;P&lt;/emph&gt;&amp;lt;0.001), Concanavalin A and anti-CD3 were markedly reduced compared to PBMC from the same patients.&lt;/p&gt;&lt;p&gt;These findings suggest that gluten-specific T cells present in the blood and gut of normal and DH individuals are activated by but do not proliferate in response to specific antigen.&lt;/p&gt;&lt;/lnsm:abs&gt;</dc:description>
+		<prism:aggregationType>YOAS</prism:aggregationType>
+		<prism:copyright>Copyright © 1995 Published by Elsevier Ltd.</prism:copyright>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/article/DOI:10.1016/S0002-9610(05)80424-6" ref="self"/>
+		<dc:title>Continuous duodenal feeding restores gut blood flow and increases gut oxygen utilization during PEEP ventilation for lung injury&lt;refpt id="bafn1"/&gt;&lt;lk refid="afn1"&gt;&lt;sup&gt;*&lt;/sup&gt;&lt;/lk&gt;</dc:title>
+		<prism:publicationName>The American Journal of Surgery</prism:publicationName>
+		<prism:issn>00029610</prism:issn>
+		<prism:volume>165</prism:volume>
+		<volumeTitle>Volume 165</volumeTitle>
+		<prism:issue>1</prism:issue>
+		<issueTitle>Issue 1</issueTitle>
+		<prism:coverDate>01/31/1993</prism:coverDate>
+		<prism:startingPage>188</prism:startingPage>
+		<dc:creator>&lt;lnsm:p&gt;&lt;lnsm:aug&gt;&lt;lnsm:degs&gt;MD &lt;/lnsm:degs&gt;&lt;lnsm:au&gt;Peter N.&lt;lnsm:snm&gt; Purcell&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;refpt id="bfn1"/&gt;&lt;lk refid="fn1"&gt;&lt;sup loc="post"&gt;1&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;refpt id="bcor1"/&gt;&lt;lk refid="cor1"&gt;&lt;sup&gt;[REcor]&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;lk refid="implicit0"&gt;&lt;sup&gt;a&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:degs&gt;MD &lt;/lnsm:degs&gt;&lt;lnsm:au&gt;Kenneth&lt;lnsm:snm&gt; Davis Jr.&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;refpt id="bfn1"/&gt;&lt;lk refid="fn1"&gt;&lt;sup loc="post"&gt;1&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;lk refid="implicit0"&gt;&lt;sup&gt;a&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:degs&gt;RRT &lt;/lnsm:degs&gt;&lt;lnsm:au&gt;Richard D.&lt;lnsm:snm&gt; Branson&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;refpt id="bfn1"/&gt;&lt;lk refid="fn1"&gt;&lt;sup loc="post"&gt;1&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;lk refid="implicit0"&gt;&lt;sup&gt;a&lt;/sup&gt;&lt;/lk&gt; and &lt;lnsm:degs&gt;MD &lt;/lnsm:degs&gt;&lt;lnsm:au&gt;Daniel J.&lt;lnsm:snm&gt; Johnson&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;refpt id="bfn1"/&gt;&lt;lk refid="fn1"&gt;&lt;sup loc="post"&gt;1&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;lk refid="implicit0"&gt;&lt;sup&gt;a&lt;/sup&gt;&lt;/lk&gt;&lt;/lnsm:aug&gt;&lt;/lnsm:p&gt;</dc:creator>
+		<prism:doi>DOI: 10.1016/S0002-9610(05)80424-6</prism:doi>
+		<dc:identifier>PII: S0002-9610(05)80424-6</dc:identifier>
+		<pii>PII: S0002-9610(05)80424-6</pii>
+		<dc:description>&lt;refpt id="ab1"/&gt;&lt;lnsm:abs language="en"&gt;&lt;lnsm:view type="all"&gt;&lt;p&gt;Positive end-expiratory pressure (PEEP) improves oxygenation but, at moderate levels, limits portal blood flow (PBF) and may cause relative splanchnic ischemia. Under these conditions, methods of supporting gut physiology may prevent the sequelae of gut ischemic damage. Enteral feeding is known to cause splanchnic hyperemia in uninjured animals. In order to study the effects of continuous enteral feeding on gut hemodynamics in a flow-limited environment, six dogs underwent the insertion of arterial, pulmonary artery, and portal and hepatic vein catheters. Splenectomy and duodenostomy were performed, and the hepatic artery and portal vein were encircled with flow probes. Lung injury (LI) was undertaken with intravenous oleic acid (0.08 mL/kg), followed by incremental additions of PEEP totaling 10 cm H&lt;sub loc="post"&gt;2&lt;/sub&gt;O to correct shunt. Continuous elemental feeding (1 kcal/mL, 3 mL/kg/hr) was started through the duodenostomy. Cardiac index (CI), PBF, and gut oxygen delivery and consumption (GO&lt;sub loc="post"&gt;2&lt;/sub&gt;D, GO&lt;sub loc="post"&gt;2&lt;/sub&gt;C) were measured at baseline (T0), 1 hour after LI and PEEP (T1), and 1 hour after drip feeding was begun (T2). Lung injury and PEEP significantly decreased CI, PBF, and GO&lt;sub loc="post"&gt;2&lt;/sub&gt;D without changing GO&lt;sub loc="post"&gt;2&lt;/sub&gt;C. Feeding returned PBF and GO&lt;sub loc="post"&gt;2&lt;/sub&gt;D to baseline levels without changing CI. GO&lt;sub loc="post"&gt;2&lt;/sub&gt;C increased significantly compared with baseline levels. Based on prior studies, these changes do not represent recovery of the injured model. Continuous enteral feeding, therefore, redistributed CI to the portal circulation. The improved gut hemodynamics documented in this model may preserve splanchnic integrity and prevent gut-derived complications.&lt;/p&gt;&lt;/lnsm:view&gt;&lt;/lnsm:abs&gt;</dc:description>
+		<prism:aggregationType>YOAS</prism:aggregationType>
+		<prism:copyright>Copyright © 1993 Published by Elsevier Inc.</prism:copyright>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/article/DOI:10.1016/j.vetmic.2007.02.007" ref="self"/>
+		<dc:title>The age-dependent expression of the F18&lt;sup loc="post"&gt;+&lt;/sup&gt; &lt;emph typestyle="it"&gt;E. coli&lt;/emph&gt; receptor on porcine gut epithelial cells is positively correlated with the presence of histo-blood group antigens</dc:title>
+		<prism:publicationName>Veterinary Microbiology</prism:publicationName>
+		<prism:issn>03781135</prism:issn>
+		<prism:volume>122</prism:volume>
+		<volumeTitle>Volume 122</volumeTitle>
+		<prism:issue>3-4</prism:issue>
+		<issueTitle>Issues 3-4</issueTitle>
+		<prism:coverDate>06/21/2007</prism:coverDate>
+		<prism:startingPage>332</prism:startingPage>
+		<dc:creator>&lt;lnsm:p&gt;&lt;lnsm:aug&gt;&lt;lnsm:au&gt;A.&lt;lnsm:snm&gt; Coddens&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff1"&gt;&lt;sup loc="post"&gt;a&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;F.&lt;lnsm:snm&gt; Verdonck&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff1"&gt;&lt;sup loc="post"&gt;a&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;P.&lt;lnsm:snm&gt; Tiels&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff1"&gt;&lt;sup loc="post"&gt;a&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;K.&lt;lnsm:snm&gt; Rasschaert&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff1"&gt;&lt;sup loc="post"&gt;a&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;B.M.&lt;lnsm:snm&gt; Goddeeris&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff1"&gt;&lt;sup loc="post"&gt;a&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;lk refid="aff2"&gt;&lt;sup loc="post"&gt;b&lt;/sup&gt;&lt;/lk&gt; and &lt;lnsm:au&gt;E.&lt;lnsm:snm&gt; Cox&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff1"&gt;&lt;sup loc="post"&gt;a&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;refpt id="bcor1"/&gt;&lt;lk refid="cor1"&gt;&lt;sup&gt;[REcor]&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;lk key="Eric.Cox@UGent.be" type="email"&gt;&lt;sup&gt;[REemail]&lt;/sup&gt;&lt;/lk&gt;&lt;/lnsm:aug&gt;&lt;/lnsm:p&gt;</dc:creator>
+		<prism:doi>DOI: 10.1016/j.vetmic.2007.02.007</prism:doi>
+		<dc:identifier>PII: S0378-1135(07)00070-3</dc:identifier>
+		<pii>PII: S0378-1135(07)00070-3</pii>
+		<dc:description>&lt;lnsm:optionhead&gt;&lt;h l="1"&gt;Abstract&lt;/h&gt;&lt;/lnsm:optionhead&gt;&lt;lnsm:abs&gt;&lt;lnsm:view type="all"&gt;&lt;p&gt;F18&lt;sup loc="post"&gt;+&lt;/sup&gt; &lt;emph typestyle="it"&gt;Escherichia coli&lt;/emph&gt; have the ability to colonize the gut and cause oedema disease or post-weaning diarrhoea by adhering to specific F18 receptors (F18R) on the porcine epithelium. Although it is well established that a DNA polymorphism on base pair 307 of the &lt;emph typestyle="it"&gt;FUT1&lt;/emph&gt; gene, encoding an ?(1,2)fucosyltransferase, accounts for the F18R phenotype, the F18R nature is not elucidated yet. The aim of the present study was to investigate the correlation between the presence of H-2 histo-blood group antigens (HBGAs) or its derivative A-2 HBGAs on the porcine gut epithelium and F18&lt;sup loc="post"&gt;+&lt;/sup&gt; &lt;emph typestyle="it"&gt;E. coli&lt;/emph&gt; adherence. A significant positive correlation was found between expression of both the H-2 (&lt;emph typestyle="it"&gt;r&lt;/emph&gt;&lt;lnsm:hsp sp="0.25"/&gt;=&lt;lnsm:hsp sp="0.25"/&gt;0.586, &lt;emph typestyle="it"&gt;P&lt;/emph&gt;&lt;lnsm:hsp sp="0.25"/&gt;&amp;lt;&lt;lnsm:hsp sp="0.25"/&gt;0.01) and A-2 (&lt;emph typestyle="it"&gt;r&lt;/emph&gt;&lt;lnsm:hsp sp="0.25"/&gt;=&lt;lnsm:hsp sp="0.25"/&gt;0.775, &lt;emph typestyle="it"&gt;P&lt;/emph&gt;&lt;lnsm:hsp sp="0.25"/&gt;&amp;lt;&lt;lnsm:hsp sp="0.25"/&gt;0.01) HBGAs and F18&lt;sup loc="post"&gt;+&lt;/sup&gt; &lt;emph typestyle="it"&gt;E. coli&lt;/emph&gt; adherence after examination of 74 pigs aged from 0 to 23 weeks. The majority of the genetically resistant pigs (&lt;emph typestyle="it"&gt;FUT1M307&lt;/emph&gt;&lt;sup loc="post"&gt;&lt;emph typestyle="it"&gt;A&lt;/emph&gt;/&lt;emph typestyle="it"&gt;A&lt;/emph&gt;&lt;/sup&gt;) showed no HBGA expression (91.7%) and no F18&lt;sup loc="post"&gt;+&lt;/sup&gt; &lt;emph typestyle="it"&gt;E. coli&lt;/emph&gt; adherence (83.3%). In addition, it was found that F18R expression levels rise with increasing age during the first 3 weeks after birth and that F18R expression is maintained in older pigs (3?23 weeks old). Taken together, these data suggest that, apart from H-2 HBGAs, A-2 HBGAs might be involved in F18&lt;sup loc="post"&gt;+&lt;/sup&gt; &lt;emph typestyle="it"&gt;E. coli&lt;/emph&gt; adherence.&lt;/p&gt;&lt;/lnsm:view&gt;&lt;/lnsm:abs&gt;</dc:description>
+		<prism:aggregationType>Article</prism:aggregationType>
+		<prism:copyright>Copyright © 2007 Elsevier B.V. All rights reserved.</prism:copyright>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/article/DOI:10.1016/j.pt.2004.03.004" ref="self"/>
+		<dc:title>Blood ?n? guts: an update on schistosome digestive peptidases</dc:title>
+		<prism:publicationName>Trends in Parasitology</prism:publicationName>
+		<prism:issn>14714922</prism:issn>
+		<prism:volume>20</prism:volume>
+		<volumeTitle>Volume 20</volumeTitle>
+		<prism:issue>5</prism:issue>
+		<issueTitle>Issue 5</issueTitle>
+		<prism:coverDate>05/01/2004</prism:coverDate>
+		<prism:startingPage>241</prism:startingPage>
+		<dc:creator>&lt;lnsm:au&gt;Conor R. &lt;lnsm:snm&gt;Caffrey&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk key="caffrey@cgl.ucsf.edu" type="email"&gt;&lt;sup&gt;[REemail]&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;James H. &lt;lnsm:snm&gt;McKerrow&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;, &lt;lnsm:au&gt;Jason P. &lt;lnsm:snm&gt;Salter&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt; and &lt;lnsm:au&gt;Mohammed &lt;lnsm:snm&gt;Sajid&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;</dc:creator>
+		<prism:doi>DOI: 10.1016/j.pt.2004.03.004</prism:doi>
+		<dc:identifier>PII: S1471-4922(04)00077-7</dc:identifier>
+		<pii>PII: S1471-4922(04)00077-7</pii>
+		<dc:description>&lt;lnsm:optionhead&gt;&lt;h l="1"&gt;Abstract&lt;/h&gt;&lt;/lnsm:optionhead&gt;&lt;lnsm:abs&gt;&lt;p&gt;Peptidases (proteolytic enzymes) found in the gut of schistosomes digest host blood proteins and facilitate the maintenance of optimal nutritional and reproductive status. We review the latest information regarding these peptidases, including their individual biochemical and biophysical characteristics, and their possible interactions &lt;emph typestyle="it"&gt;in vivo&lt;/emph&gt;. The crucial issues of functional redundancy and suitability as drug targets are also discussed with respect to recent advances in genetic and chemical technologies.&lt;/p&gt;&lt;/lnsm:abs&gt;</dc:description>
+		<prism:aggregationType>Article</prism:aggregationType>
+		<prism:copyright>Copyright © 2004 Elsevier Ltd. All rights reserved.</prism:copyright>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/article/DOI:10.1016/S0300-9629(76)80010-2" ref="self"/>
+		<dc:title>Osmotic interrelationship between blood and gut fluid in the isopod &lt;emph typestyle="it"&gt;Porcellio scaber&lt;/emph&gt; Latr. (crustacea)</dc:title>
+		<prism:publicationName>Comparative Biochemistry and Physiology Part A: Physiology</prism:publicationName>
+		<prism:issn>03009629</prism:issn>
+		<prism:volume>53</prism:volume>
+		<volumeTitle>Volume 53</volumeTitle>
+		<prism:issue>1</prism:issue>
+		<issueTitle>Issue 1</issueTitle>
+		<prism:coverDate>12/31/1976</prism:coverDate>
+		<prism:startingPage>57</prism:startingPage>
+		<dc:creator>&lt;lnsm:p&gt;&lt;lnsm:aug&gt;&lt;lnsm:au&gt;Ossi V.&lt;lnsm:snm&gt; Lindqvist&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="fn1"&gt;&lt;sup loc="post"&gt;*&lt;/sup&gt;&lt;/lk&gt; and &lt;lnsm:au&gt;Gregory&lt;lnsm:snm&gt; Fitzgerald&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="fn2"&gt;&lt;sup loc="post"&gt;?&lt;/sup&gt;&lt;/lk&gt;&lt;/lnsm:aug&gt;&lt;/lnsm:p&gt;</dc:creator>
+		<prism:doi>DOI: 10.1016/S0300-9629(76)80010-2</prism:doi>
+		<dc:identifier>PII: S0300-9629(76)80010-2</dc:identifier>
+		<pii>PII: S0300-9629(76)80010-2</pii>
+		<dc:description>&lt;refpt id="ab1"/&gt;&lt;lnsm:abs&gt;&lt;lnsm:view type="all"&gt;&lt;p&gt;Abstract&lt;l/&gt;&lt;li/&gt;&lt;lnsm:view type="all"/&gt;&lt;/p&gt;&lt;p&gt;1. The osmotic interrelationship between the blood and the gut fluid (as obtained from the mouth) on desiccation was investigated in the terrestrial isopod &lt;emph typestyle="it"&gt;Porcellio scaber&lt;/emph&gt; Latr.&lt;/p&gt;&lt;/lnsm:view&gt;&lt;li&gt;&lt;lnsm:view type="all"&gt;&lt;p&gt;2. In normal, undesiccated animals the concentration of the oral fluid is 244·5 ± 6·1 mM NaCl/l and that of the blood 313·1 ± 3·3 mM NaCl/l (N = 45).&lt;/p&gt;&lt;/lnsm:view&gt;&lt;/li&gt;&lt;li&gt;&lt;lnsm:view type="all"&gt;&lt;p&gt;3. On desiccation the blood osmotic concentration remains fairly unchanged up to a 10% loss of body weight, while that of the oral fluid increases rapidly and reaches the maximum of 500 mM NaCl/l in about 90 min in dry air. After a severe desiccation the two compartments come to an osmotic equilibrium.&lt;/p&gt;&lt;/lnsm:view&gt;&lt;/li&gt;&lt;li&gt;&lt;lnsm:view type="all"&gt;&lt;p&gt;4. It is suggested that the main reason for the osmotic changes is related to withdrawal of water from the gut lumen into the blood, though on severe desiccation also volume changes in the two compartments may come into play.&lt;/p&gt;&lt;/lnsm:view&gt;&lt;/li&gt;&lt;/lnsm:abs&gt;</dc:description>
+		<prism:aggregationType>YOAS</prism:aggregationType>
+		<prism:copyright>Copyright © 1976 Published by Elsevier Inc.</prism:copyright>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/article/DOI:10.1016/0022-4804(84)90185-9" ref="self"/>
+		<dc:title>The radiolabeled microsphere technique in gut blood flow measurement?Current practice</dc:title>
+		<prism:publicationName>Journal of Surgical Research</prism:publicationName>
+		<prism:issn>00224804</prism:issn>
+		<prism:volume>37</prism:volume>
+		<volumeTitle>Volume 37</volumeTitle>
+		<prism:issue>3</prism:issue>
+		<issueTitle>Issue 3</issueTitle>
+		<prism:coverDate>09/30/1984</prism:coverDate>
+		<prism:startingPage>241</prism:startingPage>
+		<dc:creator>&lt;lnsm:p&gt;&lt;lnsm:aug&gt;&lt;lnsm:au&gt;Barry A.&lt;lnsm:snm&gt; Levine&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lnsm:degs&gt; M.D.&lt;/lnsm:degs&gt;&lt;lk refid="aff1"&gt;&lt;sup loc="post"&gt;?&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;Kenneth R.&lt;lnsm:snm&gt; Sirinek&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lnsm:degs&gt; M.D., Ph.D.&lt;/lnsm:degs&gt;&lt;lk refid="aff1"&gt;&lt;sup loc="post"&gt;?&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;lk refid="aff2"&gt;&lt;sup loc="post"&gt;?&lt;/sup&gt;&lt;/lk&gt; and &lt;lnsm:au&gt;Harold V.&lt;lnsm:snm&gt; Gaskill III&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lnsm:degs&gt; M.D.&lt;/lnsm:degs&gt;&lt;lk refid="aff3"&gt;&lt;sup loc="post"&gt;??&lt;/sup&gt;&lt;/lk&gt;&lt;/lnsm:aug&gt;&lt;/lnsm:p&gt;</dc:creator>
+		<prism:doi>DOI: 10.1016/0022-4804(84)90185-9</prism:doi>
+		<dc:identifier>PII: 0022-4804(84)90185-9</dc:identifier>
+		<pii>PII: 0022-4804(84)90185-9</pii>
+		<dc:description>&lt;lnsm:optionhead&gt;&lt;h l="1"&gt;Abstract&lt;/h&gt;&lt;/lnsm:optionhead&gt;&lt;lnsm:abs&gt;&lt;lnsm:view type="all"&gt;&lt;p&gt;Measurement of blood flow to the gut has become an integral part of the physiologic study of the gastrointestinal tract. While many methods have been utilized in measuring tissue blood flow, the one most often practiced today is dependent on injection of radioactively labeled microspheres. The theoretical basis of the microsphere technique is analogous to that of the indicator-dilution method. A bolus of microspheres suspended in a suitable vehicle is injected into the left atrium or left ventricle where they mix uniformly with the oxygenated blood. They are then distributed via aortic blood flow to the capillary beds within each organ in proportion to the volume of microsphere-containing blood. Technical aspects of tissue processing, gamma energy detection, and gamma spectrum analysis are reviewed. Sources of experimental error and techniques for their reduction are also discussed.&lt;/p&gt;&lt;/lnsm:view&gt;&lt;/lnsm:abs&gt;</dc:description>
+		<prism:aggregationType>YOAS</prism:aggregationType>
+		<prism:copyright>Copyright © 1984 Published by Elsevier Inc.</prism:copyright>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/article/DOI:10.1016/0145-305X(94)90254-2" ref="self"/>
+		<dc:title>IgG transport across the gut of the suckling opposum (&lt;emph typestyle="it"&gt;Monodelphis domestica&lt;/emph&gt;)</dc:title>
+		<prism:publicationName>Developmental &amp;amp; Comparative Immunology</prism:publicationName>
+		<prism:issn>0145305X</prism:issn>
+		<prism:volume>18</prism:volume>
+		<volumeTitle>Volume 18</volumeTitle>
+		<prism:issue>1</prism:issue>
+		<issueTitle>Issue 1</issueTitle>
+		<prism:coverDate>02/28/1994</prism:coverDate>
+		<prism:startingPage>75</prism:startingPage>
+		<dc:creator>&lt;lnsm:p&gt;&lt;lnsm:aug&gt;&lt;lnsm:au&gt;Arthur E.&lt;lnsm:snm&gt; Wild&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;refpt id="bcor1"/&gt;&lt;lk refid="cor1"&gt;&lt;sup&gt;[REcor]&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;lk refid="implicit0"&gt;&lt;sup&gt;a&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;Tanya D.&lt;lnsm:snm&gt; Burrows&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="implicit0"&gt;&lt;sup&gt;a&lt;/sup&gt;&lt;/lk&gt; and &lt;lnsm:au&gt;Julia&lt;lnsm:snm&gt; Brand&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="implicit0"&gt;&lt;sup&gt;a&lt;/sup&gt;&lt;/lk&gt;&lt;/lnsm:aug&gt;&lt;/lnsm:p&gt;</dc:creator>
+		<prism:doi>DOI: 10.1016/0145-305X(94)90254-2</prism:doi>
+		<dc:identifier>PII: 0145-305X(94)90254-2</dc:identifier>
+		<pii>PII: 0145-305X(94)90254-2</pii>
+		<dc:description>&lt;lnsm:optionhead&gt;&lt;h l="1"&gt;Abstract&lt;/h&gt;&lt;/lnsm:optionhead&gt;&lt;lnsm:abs&gt;&lt;lnsm:view type="all"&gt;&lt;p&gt;We investigated IgG transport across the gut of suckling opossums to see whether it is likely to be Fc?R-mediated. Enterocytes isolated from the proximal and distal regions of the small intestine of sucklings aged 12?52 days, and reacted with indicator SRBC at pH 6.0 or 7.2, bound opossum IgG in rosette assays. Considerable overall variation was observed in the numbers of enterocytes forming rosettes. No binding was seen with rabbit IgG at these ages, or with opossum and rabbit IgG when enterocytes were obtained from opossums aged 55?73 days. Opossum anti-SRBC antibody (IgG) fed to sucklings at 52 days and earlier (but not later) could subsequently be detected in the serum. However, rabbit anti-SRBC antibody (IgG) could not be detected in the blood serum when fed to sucklings of any age. Fluorescent tracing of FITC-labelled opossum and rabbit IgG fed to suckling opossums, and of endogenous opossum IgG, pointed to transport of the homologous IgG occurring across gut enterocytes of the proximal region. These results suggest that IgG is recognised and transcytosed by specific Fc?Rs present on opossum enterocytes prior to weaning.&lt;/p&gt;&lt;/lnsm:view&gt;&lt;/lnsm:abs&gt;</dc:description>
+		<prism:aggregationType>YOAS</prism:aggregationType>
+		<prism:copyright>Copyright © 1994 Published by Elsevier Ltd.</prism:copyright>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/article/DOI:10.1016/S0047-6374(00)00106-8" ref="self"/>
+		<dc:title>Immunohistochemical analysis of ageing human B and T cell populations reveals an age-related decline of CD8 T cells in spleen but not gut-associated lymphoid tissue (GALT)</dc:title>
+		<prism:publicationName>Mechanisms of Ageing and Development</prism:publicationName>
+		<prism:issn>00476374</prism:issn>
+		<prism:volume>115</prism:volume>
+		<volumeTitle>Volume 115</volumeTitle>
+		<prism:issue>1-2</prism:issue>
+		<issueTitle>Issues 1-2</issueTitle>
+		<prism:coverDate>05/17/2000</prism:coverDate>
+		<prism:startingPage>85</prism:startingPage>
+		<dc:creator>&lt;lnsm:au&gt;Monica &lt;lnsm:snm&gt;Banerjee&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff1"&gt;&lt;sup&gt;a&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;Jeremy D. &lt;lnsm:snm&gt;Sanderson&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff2"&gt;&lt;sup&gt;b&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;Jo &lt;lnsm:snm&gt;Spencer&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff1"&gt;&lt;sup&gt;a&lt;/sup&gt;&lt;/lk&gt; and &lt;lnsm:au&gt;Deborah K. &lt;lnsm:snm&gt;Dunn-Walters&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;refpt id="m4.bcor*"/&gt;&lt;lk refid="m4.cor*"&gt;&lt;sup&gt;[REcor]&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;lk key="deborah.dunn-walters@kcl.ac.uk" type="email"&gt;&lt;sup&gt;[REemail]&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;lk refid="aff1"&gt;&lt;sup&gt;a&lt;/sup&gt;&lt;/lk&gt;</dc:creator>
+		<prism:doi>DOI: 10.1016/S0047-6374(00)00106-8</prism:doi>
+		<dc:identifier>PII: S0047-6374(00)00106-8</dc:identifier>
+		<pii>PII: S0047-6374(00)00106-8</pii>
+		<dc:description>&lt;lnsm:optionhead&gt;&lt;h l="1"&gt;Abstract&lt;/h&gt;&lt;/lnsm:optionhead&gt;&lt;lnsm:abs&gt;&lt;p&gt;It is thought that senescence of the immune system is responsible, at least in part, for many health problems associated with ageing. Previous studies on changes in lymphocyte composition have used flow cytometry to study peripheral blood lymphocytes (PBL?s), or cells isolated from rodent tissue, and have yielded conflicting results. We have used immunohistochemistry to determine whether the B and T cells in human tissue from spleen and gut are affected by age. Areas of germinal centre, mantle zone and marginal zone of B cell follicles were measured. In addition, CD4 and CD8 T cells in T cell areas and in B cell follicles were counted. We observed a striking age-related decrease in the proportion of CD8+ T cells in the T cell zones of the spleen. This decrease was not apparent in the T cell population that occupies splenic B cell areas, or in GALT. Further differences, in CD4+ cells, were seen between T cell populations in the T cell zones and those in B cell areas. These findings highlight differences between lymphocyte populations in different lymphoid tissues, and different compartments within each tissue, which may be of importance in future studies of the ageing immune system.&lt;/p&gt;&lt;/lnsm:abs&gt;</dc:description>
+		<prism:aggregationType>Article</prism:aggregationType>
+		<prism:copyright>Copyright © 2000 Elsevier Science Ireland Ltd. All rights reserved.</prism:copyright>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/article/DOI:10.1016/0022-1910(92)90017-8" ref="self"/>
+		<dc:title>Passage of host immunoglobulin across the mid-gut epithelium into the haemolymph of blood-fed buffalo flies &lt;emph typestyle="it"&gt;Haematobia irritans exigua&lt;/emph&gt;</dc:title>
+		<prism:publicationName>Journal of Insect Physiology</prism:publicationName>
+		<prism:issn>00221910</prism:issn>
+		<prism:volume>38</prism:volume>
+		<volumeTitle>Volume 38</volumeTitle>
+		<prism:issue>1</prism:issue>
+		<issueTitle>Issue 1</issueTitle>
+		<prism:coverDate>01/31/1992</prism:coverDate>
+		<prism:startingPage>9</prism:startingPage>
+		<dc:creator>&lt;lnsm:p&gt;&lt;lnsm:aug&gt;&lt;lnsm:au&gt;P.G.&lt;lnsm:snm&gt; Allingham&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;refpt id="bcor1"/&gt;&lt;lk refid="cor1"&gt;&lt;sup&gt;[REcor]&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;lk refid="implicit0"&gt;&lt;sup&gt;a&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;R.L.&lt;lnsm:snm&gt; Kerlin&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="implicit0"&gt;&lt;sup&gt;a&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;R.L.&lt;lnsm:snm&gt; Tellam&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="implicit0"&gt;&lt;sup&gt;a&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;S.J.&lt;lnsm:snm&gt; Briscoe&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="implicit0"&gt;&lt;sup&gt;a&lt;/sup&gt;&lt;/lk&gt; and &lt;lnsm:au&gt;H.A.&lt;lnsm:snm&gt; Standfast&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="implicit0"&gt;&lt;sup&gt;a&lt;/sup&gt;&lt;/lk&gt;&lt;/lnsm:aug&gt;&lt;/lnsm:p&gt;</dc:creator>
+		<prism:doi>DOI: 10.1016/0022-1910(92)90017-8</prism:doi>
+		<dc:identifier>PII: 0022-1910(92)90017-8</dc:identifier>
+		<pii>PII: 0022-1910(92)90017-8</pii>
+		<dc:description>&lt;lnsm:optionhead&gt;&lt;h l="1"&gt;Abstract&lt;/h&gt;&lt;/lnsm:optionhead&gt;&lt;lnsm:abs&gt;&lt;lnsm:view type="all"&gt;&lt;p&gt;Host immunoglobulin G was detected in the haemolymph of blood-fed buffalo flies. Immunoblot analysis of this haemolymph showed that the immunoglobulin was intact by comparison of its molecular weight to that of an affinity purified immunoglobulin G control. The concentrations of total immunoglobulin and anti-myoglobin antibody in the haemolymph were measured using enzyme linked immunosorbent assays (ELISAs). The concentration of total immunoglobulin in pooled haemolymph from flies which had &lt;emph typestyle="it"&gt;ad libitum&lt;/emph&gt; access to blood remained relatively constant over the sampling period (range: 2.1?7.3 ?g/ml). Ninety-four per cent of flies known to have taken a blood meal had detectable levels of immunoglobulin in the haemolymph. Immunoglobulin could be detected in the haemolymph 24 h after flies had fed on a single blood meal. An ingested specific antbody (anti-myoglobin) which passed into the haemolymph retained the capacity to bind antigen. Measurement of antibody concentration in haemolymph is a valuable guide to the feasibility of targeting specific antigens in a vaccine against the buffalo fly.&lt;/p&gt;&lt;/lnsm:view&gt;&lt;/lnsm:abs&gt;</dc:description>
+		<prism:aggregationType>YOAS</prism:aggregationType>
+		<prism:copyright>Copyright © 1992 Published by Elsevier Ltd.</prism:copyright>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/article/DOI:10.1016/j.anifeedsci.2007.07.008" ref="self"/>
+		<dc:title>The effects of xylanase supplementation on performance, characteristics of the gastrointestinal tract, blood parameters and gut microflora in broilers fed on wheat-based diets&lt;refpt id="bafn1"/&gt;&lt;lk refid="afn1"&gt;&lt;sup&gt;?&lt;/sup&gt;&lt;/lk&gt;</dc:title>
+		<prism:publicationName>Animal Feed Science and Technology</prism:publicationName>
+		<prism:issn>03778401</prism:issn>
+		<prism:volume>142</prism:volume>
+		<volumeTitle>Volume 142</volumeTitle>
+		<prism:issue>1-2</prism:issue>
+		<issueTitle>Issues 1-2</issueTitle>
+		<prism:coverDate>04/15/2008</prism:coverDate>
+		<prism:startingPage>173</prism:startingPage>
+		<dc:creator>&lt;lnsm:p&gt;&lt;lnsm:aug&gt;&lt;lnsm:au&gt;F.&lt;lnsm:snm&gt; Gao&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff1"&gt;&lt;sup loc="post"&gt;a&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;refpt id="bcor1"/&gt;&lt;lk refid="cor1"&gt;&lt;sup&gt;[REcor]&lt;/sup&gt;&lt;/lk&gt;&lt;sup&gt;, &lt;/sup&gt;&lt;lk key="gaofeng0629@sina.com" type="email"&gt;&lt;sup&gt;[REemail]&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;Y.&lt;lnsm:snm&gt; Jiang&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff2"&gt;&lt;sup loc="post"&gt;b&lt;/sup&gt;&lt;/lk&gt;, &lt;lnsm:au&gt;G.H.&lt;lnsm:snm&gt; Zhou&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff1"&gt;&lt;sup loc="post"&gt;a&lt;/sup&gt;&lt;/lk&gt; and &lt;lnsm:au&gt;Z.K.&lt;lnsm:snm&gt; Han&lt;/lnsm:snm&gt;&lt;/lnsm:au&gt;&lt;lk refid="aff3"&gt;&lt;sup loc="post"&gt;c&lt;/sup&gt;&lt;/lk&gt;&lt;/lnsm:aug&gt;&lt;/lnsm:p&gt;</dc:creator>
+		<prism:doi>DOI: 10.1016/j.anifeedsci.2007.07.008</prism:doi>
+		<dc:identifier>PII: S0377-8401(07)00319-7</dc:identifier>
+		<pii>PII: S0377-8401(07)00319-7</pii>
+		<dc:description>&lt;lnsm:optionhead&gt;&lt;h l="1"&gt;Abstract&lt;/h&gt;&lt;/lnsm:optionhead&gt;&lt;lnsm:abs&gt;&lt;lnsm:view type="all"&gt;&lt;p&gt;The aim of this study was to investigate the effects of xylanase supplementation on performance, characteristics of the gastrointestinal tract, blood parameters and gut microflora in broilers fed on wheat-based diets. The experimental diets consisted of a wheat-based diet supplemented with 0 or 1&lt;lnsm:hsp sp="0.25"/&gt;g/kg enzyme preparation (xylanase activity was 1218&lt;lnsm:hsp sp="0.25"/&gt;U/g). The diets were fed between 7 and 49 days of age. Enzyme supplementation (ES) improved (P&amp;lt;0.05) growth performance and feed conversion efficiency. The addition of enzyme to a wheat-based diet reduced the relative weights of the duodenum, jejunum, pancreas (P&amp;lt;0.05) and colon (P&amp;lt;0.01) in 21-day-old broiler chickens. Enzyme preparation reduced digesta viscosity in the proventriculus and jejunum of 21-day-old broiler chickens (P&amp;lt;0.05) and in colon of 49-day-old broiler chickens (P&amp;lt;0.05). The pH of the digesta in the crop, duodenum and jejunum was increased (P&amp;lt;0.05) in 21-day-old broiler chickens and was reduced in the caecum of 49-day-old broiler chickens (P&amp;lt;0.05) with enzymes. There was no significant difference between the two experimental groups in counts of lactobacillus and coliform bacteria in the caecum. Enzyme supplementation increased the concentration of blood insulin-like growth factor I (IGF-I) (P&amp;lt;0.01) of 21-day-old broilers, triiodothyronine (T&lt;sub loc="post"&gt;3&lt;/sub&gt;) and insulin (P&amp;lt;0.05) at 49 days. ES reduced the concentrations of blood thyroxine (T&lt;sub loc="post"&gt;4&lt;/sub&gt;) (P&amp;lt;0.01) and uric acid (P&amp;lt;0.05) at 49 days, but had no effect on glucose concentration (P&amp;gt;0.05). In conclusion, ES can improve performance and digestive parameters and can change some blood parameters in broiler chickens fed a wheat-based diet.&lt;/p&gt;&lt;/lnsm:view&gt;&lt;/lnsm:abs&gt;</dc:description>
+		<prism:aggregationType>Article</prism:aggregationType>
+		<prism:copyright>Copyright © 2007 Elsevier B.V. All rights reserved.</prism:copyright>
+	</entry>
+	<entry>
+		<link href="http://api.elsevier.com/content/article/DOI:10.1016/0140-6736(92)92562-T" ref="self"/>
+		<dc:title>Haemoglobin in gut lavage fluid as a measure of gastrointestinal blood loss</dc:title>
+		<prism:publicationName>The Lancet</prism:publicationName>
+		<prism:issn>01406736</prism:issn>
+		<prism:volume>340</prism:volume>
+		<volumeTitle>Volume 340</volumeTitle>
+		<prism:issue>8832</prism:issue>
+		<issueTitle>Issue 8832</issueTitle>
+		<prism:coverDate>12/05/1992</prism:coverDate>
+		<prism:startingPage>1381</prism:startingPage>
+		<dc:creator>&lt;lnsm:au&gt;W. G. &lt;lnsm:snm&gt;Brydon&lt;/lnsm:snm&gt;&lt;lnsm:degs&gt; MRCPath&lt;/lnsm:degs&gt;&lt;/lnsm:au&gt; and &lt;lnsm:au&gt;&lt;lnsm:degs&gt;Prof&lt;/lnsm:degs&gt; A. &lt;lnsm:snm&gt;Ferguson&lt;/lnsm:snm&gt;&lt;lnsm:degs&gt; FRCP&lt;/lnsm:degs&gt;&lt;/lnsm:au&gt;&lt;refpt id="m4.bcor*"/&gt;&lt;lk refid="m4.cor*"&gt;&lt;sup&gt;[REcor]&lt;/sup&gt;&lt;/lk&gt;</dc:creator>
+		<prism:doi>DOI: 10.1016/0140-6736(92)92562-T</prism:doi>
+		<dc:identifier>PII: 0140-6736(92)92562-T</dc:identifier>
+		<pii>PII: 0140-6736(92)92562-T</pii>
+		<dc:description>&lt;lnsm:optionhead&gt;&lt;h l="1"&gt;Abstract&lt;/h&gt;&lt;/lnsm:optionhead&gt;&lt;lnsm:abs&gt;&lt;p&gt;To detect and measure occult gastrointestinal bleeding, we have measured haemoglobin concentrations (by HemoQuant) in the clear fluid obtained after whole-gut lavage. In subjects with healthy gastrointestinal tracts, lavage-fluid haemoglobin concentrations were 0·5-5·1 mg/L, equivalent to daily blood loss of 0·1-1·1 mL. High concentrations were found for patients with colorectal cancer, severe diverticular disease, and rectal varices, in seven of sixteen patients with active inflammatory bowel disease, and in four patients with iron-deficiency anaemia thought to be due to gastrointestinal bleeding. In these four patients, estimated blood loss ranged from 2·6-24·5 mL per day. This method could have various research and clinical applications.&lt;/p&gt;&lt;/lnsm:abs&gt;</dc:description>
+		<prism:aggregationType>YOAS</prism:aggregationType>
+		<prism:copyright>Copyright © 1992 Published by Elsevier Science Ltd.</prism:copyright>
+	</entry>
+</feed>

@@ -1,0 +1,43 @@
+October 28, 2010
+
+1. The "ics" and "bkapi" features have been combined into one feature called "sciverse".
+
+2. Two new features: "hub" and "org.jquery.core-1.4.2"
+
+3. The following are the container APIs supported:
+
+3.1. Feature: 'sciverse' (ex: <Require feature='sciverse'/> in your gadget xml)
+
+3.1.1. gadgets.sciverse.getAllResults(callback) - get all results in a json object, returned as part of the callback
+
+3.1.2. gadgets.sciverse.getResults(resultsRequestedFor, callback) - get results (again a json object) only for the requested items. 'resultsRequestedFor' is an array of result indices
+
+3.1.3. gadgets.sciverse.getContextInfo(callback) - returns the context info (as json) object, has platform specific info
+
+3.1.4. gadgets.sciverse.invokeResultsView(resultIndex, viewParams) - Renders the 'sciverseResultsView' of the gadget under the result specified by 'resultIndex'. viewParams is a json object of name/value pairs of info that you can pass to this view.
+
+3.1.5. gadgets.sciverse.makeContentAPIRequest(url, callback, requestHeaders) - use this to make all content api calls. 
+
+3.1.6. gadgets.sciverse.makeRequest(url, callback, params) - Use this instead of gadgets.io.makeRequest(), which caches the request by default. 
+
+3.1.7. gadgets.sciverse.getArticleContent(callback ) – returns the whole article content as a string (html). Applicable only on the Science Direct article page. Every where else, it returns null
+
+3.1.8 gadgets.sciverse.getPageUrl(callback) – returns the url of the host page you are on ( document.location.href)
+
+3.2. Feature: 'hub'
+
+3.2.1. gadgets.hub.executeSearch(searchQuery) - executes a new Hub search. The page gets refreshed with results of this search.
+
+4. OSDE Plugin changes:
+
+4.1. Options to choose sciverse, hub and jquery features.
+
+4.2. 'profile' view is made required
+
+4.3. Ability to choose Hub home page, Hub results page, SD results page, SD article page and SC record page to test a gadget against.
+
+4.4. Uses Shindig 2.0.0 RC2
+
+5.0. The Hub and Science Direct results are read from HubResults.json and SDResults.json files respectively. You can add/remove/customize results as appropriate.
+
+6.0. Context info can be customized. You can add your own (meaningful) context info name/value pairs in ContextInfo.json file which will be reflected in the getContextInfo() API call.

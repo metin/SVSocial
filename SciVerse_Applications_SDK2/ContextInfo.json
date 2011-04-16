@@ -1,0 +1,8 @@
+/* Make sure this is a valid json object */
+// Lines starting with // are ignored
+// Do NOT use comments (// or /* */) anywhere else other than on separate lines by themselves
+{
+	'accountId':'<account id>',
+	'artNum':'<art num>',
+	'searchQuery': 'heart'
+};

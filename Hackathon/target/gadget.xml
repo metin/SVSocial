@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+    <ModulePrefs
+            title="SV Social"
+            author_email="metiny@gmail.com">
+        <Require feature="sciverse" />
+        <Require feature="hub" />
+        <Require feature="org.jquery.core-1.4.2" />
+        <Require feature="views" />
+        <Require feature="opensocial-0.9" />
+    </ModulePrefs>
+    <UserPref name="secureAuthtoken" datatype="hidden" />
+    <Content type="html" view="canvas"><![CDATA[<!-- The code for Canvas view is here. -->
+        <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN"> 
+  
+        <span style="font-weight:bold;padding:0px;">My Favorites</span>
+        <iframe id="iframe-list" src="" scrolling='no' style="boder:none; width:100%;height:900px;" frameborder="0">
+        
+        </iframe>
+
+        <script type="text/javascript">
+        
+            jQuery.cookie = function(name, value, options) {
+                if (typeof value != 'undefined') { // name and value given, set cookie
+                    options = options || {};
+                    if (value === null) {
+                        value = '';
+                        options.expires = -1;
+                    }
+                    var expires = '';
+                    if (options.expires && (typeof options.expires == 'number' || options.expires.toUTCString)) {
+                        var date;
+                        if (typeof options.expires == 'number') {
+                            date = new Date();
+                            date.setTime(date.getTime() + (options.expires * 24 * 60 * 60 * 1000));
+                        } else {
+                            date = options.expires;
+                        }
+                        expires = '; expires=' + date.toUTCString(); // use expires attribute, max-age is not supported by IE
+                    }
+                    // CAUTION: Needed to parenthesize options.path and options.domain
+                    // in the following expressions, otherwise they evaluate to undefined
+                    // in the packed version for some reason...
+                    var path = options.path ? '; path=' + (options.path) : '';
+                    var domain = options.domain ? '; domain=' + (options.domain) : '';
+                    var secure = options.secure ? '; secure' : '';
+                    document.cookie = [name, '=', encodeURIComponent(value), expires, path, domain, secure].join('');
+                } else { // only name given, get cookie
+                    var cookieValue = null;
+                    if (document.cookie && document.cookie != '') {
+                        var cookies = document.cookie.split(';');
+                        for (var i = 0; i < cookies.length; i++) {
+                            var cookie = jQuery.trim(cookies[i]);
+                            // Does this cookie string begin with the name we want?
+                            if (cookie.substring(0, name.length + 1) == (name + '=')) {
+                                cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                                break;
+                            }
+                        }
+                    }
+                    return cookieValue;
+                }
+            };
+            
+            
+             var uname = $.cookie('auth_data_uname');
+             var pwd = $.cookie('auth_data_pwd');
+            $("#iframe-list").attr('src', 'http://ec2-50-17-252-70.compute-1.amazonaws.com/social.php?email='+uname+'&password='+pwd+'&favoritelist=&cloud=');
+
+         </script>]]></Content>
+    <Content type="html" view="profile"><![CDATA[<!-- The code for Profile view is here. -->
+        <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN"> 
+
+        <script type="text/javascript">
+            jQuery.cookie = function(name, value, options) {
+                if (typeof value != 'undefined') { // name and value given, set cookie
+                    options = options || {};
+                    if (value === null) {
+                        value = '';
+                        options.expires = -1;
+                    }
+                    var expires = '';
+                    if (options.expires && (typeof options.expires == 'number' || options.expires.toUTCString)) {
+                        var date;
+                        if (typeof options.expires == 'number') {
+                            date = new Date();
+                            date.setTime(date.getTime() + (options.expires * 24 * 60 * 60 * 1000));
+                        } else {
+                            date = options.expires;
+                        }
+                        expires = '; expires=' + date.toUTCString(); // use expires attribute, max-age is not supported by IE
+                    }
+                    // CAUTION: Needed to parenthesize options.path and options.domain
+                    // in the following expressions, otherwise they evaluate to undefined
+                    // in the packed version for some reason...
+                    var path = options.path ? '; path=' + (options.path) : '';
+                    var domain = options.domain ? '; domain=' + (options.domain) : '';
+                    var secure = options.secure ? '; secure' : '';
+                    document.cookie = [name, '=', encodeURIComponent(value), expires, path, domain, secure].join('');
+                } else { // only name given, get cookie
+                    var cookieValue = null;
+                    if (document.cookie && document.cookie != '') {
+                        var cookies = document.cookie.split(';');
+                        for (var i = 0; i < cookies.length; i++) {
+                            var cookie = jQuery.trim(cookies[i]);
+                            // Does this cookie string begin with the name we want?
+                            if (cookie.substring(0, name.length + 1) == (name + '=')) {
+                                cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                                break;
+                            }
+                        }
+                    }
+                    return cookieValue;
+                }
+            };
+
+            var session = {
+                login: function(){
+                    checkLogin('auth_data');
+                    $('#uname').attr('innerHTML', $.cookie('auth_data_uname'));
+                    
+                    loadFavorites();
+                },
+                logout: function(){
+                    $('#uname').attr('innerHTML', null); 
+                    $.cookie('auth_data_uname', null);
+                    $.cookie('auth_data_pwd', null);
+                    $('#logout-link').hide();
+                    $('#login-link').show()
+                    loadFavorites();
+                }
+            } 
+
+            function checkLogin(authId)
+            {
+                if($.cookie(authId+'_uname')==null){
+                    var uname = prompt("Enter your email");
+                    $.cookie(authId+'_uname', uname);
+                }
+                if($.cookie(authId+'_pwd')==null){
+                    var pwd = prompt("Enter your password");
+                    $.cookie(authId+'_pwd', pwd);
+                }
+                
+                 if(($.cookie(authId+'_uname')!=null) && ($.cookie(authId+'_pwd')!=null) ){
+                    $('#logout-link').show();
+                    $('#login-link').hide()
+                 }
+                 else
+                 {
+                    $('#logout-link').hide();
+                    $('#login-link').show()
+                 }
+            }
+
+            function loadFavorites()
+            {
+                 var uname = $.cookie('auth_data_uname');
+                 var pwd = $.cookie('auth_data_pwd');
+                $("#iframe-list").attr('src', 'http://ec2-50-17-252-70.compute-1.amazonaws.com/social.php?email='+uname+'&password='+pwd+'&favoritelist');
+            }
+            var pageType = '';
+            var offset = '';
+
+            function contextCallback(contextInfo){
+                // Get context information from the JSON object.
+                var secureAuthtokenVal = contextInfo.secureAuthtoken;
+                var platformVal = contextInfo.platform;
+                var timestampVal = contextInfo.timestamp;
+                var acc_id = contextInfo.accountId;
+                var offset = contextInfo.offset;
+                var rs = JSON.stringify(contextInfo);
+
+                //Format the string for display.
+                rs = rs.replace(/",/g,"\",<br/>");
+                pageType = contextInfo.pageType;
+
+                //Get data from the JSON object 
+                //$("#debuger").html(rs);
+                checkLogin('auth_data');
+                loadFavorites();
+                $("#uname").attr('innerHTML', $.cookie('auth_data_uname'));
+
+                if(pageType=="resultsList")
+                {
+                    gadgets.sciverse.getAllResults(function(results){
+                        for(var i=0; i < results.length; i++)
+                        {
+                            var url = results[i].doi=='' ? results[i].txt10 : ('http://dx.doi.org/'+results[i].doi)
+                            gadgets.sciverse.invokeResultsView(offset+i+1, {"resultNum":i+1, 'url':url, 'title':results[i].itemTitle, 
+                                                                            "teaser":results[i].teaser});
+                        }
+                     });
+                }
+            }
+
+            //Run this function of the page has loaded. 
+            
+            gadgets.util.registerOnLoadHandler(function() {
+                gadgets.sciverse.getContextInfo(contextCallback);
+            });  
+
+        </script>
+        <div>
+            <table width="100%">
+            <tr>
+	            <td align="left">
+	                <span id="uname"></span>
+	            </td>
+                <td align="right">
+                    <a id='logout-link' href="javascript:session.logout();" style="display:none"> 
+                        logout
+                        <img src="http://ec2-50-17-252-70.compute-1.amazonaws.com/close.png" style="display:none">
+                    </a> 
+                    <a id='login-link' href="javascript:session.login();" style="display:none"> 
+                        login
+                        <img src="http://ec2-50-17-252-70.compute-1.amazonaws.com/add.png" style="display:none">
+                    </a> 
+                </td>
+            </tr>
+            </table>
+        </div>
+        <div id="result">
+            <iframe id="iframe-list" src="" scrolling='no' style="boder:none; width:100%;height:1000px" frameborder="0">
+            </iframe>
+        </div>
+        <div id="debuger"></div>
+        
+        <iframe id="caller-iframe" src="" style="display:none">
+        </iframe>]]></Content>
+    <Content type="html" view="sciverseResultsView"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">  
+       
+        <script type="text/javascript">
+
+            jQuery.cookie = function(name, value, options) {
+                if (typeof value != 'undefined') { // name and value given, set cookie
+                    options = options || {};
+                    if (value === null) {
+                        value = '';
+                        options.expires = -1;
+                    }
+                    var expires = '';
+                    if (options.expires && (typeof options.expires == 'number' || options.expires.toUTCString)) {
+                        var date;
+                        if (typeof options.expires == 'number') {
+                            date = new Date();
+                            date.setTime(date.getTime() + (options.expires * 24 * 60 * 60 * 1000));
+                        } else {
+                            date = options.expires;
+                        }
+                        expires = '; expires=' + date.toUTCString(); // use expires attribute, max-age is not supported by IE
+                    }
+                    // CAUTION: Needed to parenthesize options.path and options.domain
+                    // in the following expressions, otherwise they evaluate to undefined
+                    // in the packed version for some reason...
+                    var path = options.path ? '; path=' + (options.path) : '';
+                    var domain = options.domain ? '; domain=' + (options.domain) : '';
+                    var secure = options.secure ? '; secure' : '';
+                    document.cookie = [name, '=', encodeURIComponent(value), expires, path, domain, secure].join('');
+                } else { // only name given, get cookie
+                    var cookieValue = null;
+                    if (document.cookie && document.cookie != '') {
+                        var cookies = document.cookie.split(';');
+                        for (var i = 0; i < cookies.length; i++) {
+                            var cookie = jQuery.trim(cookies[i]);
+                            // Does this cookie string begin with the name we want?
+                            if (cookie.substring(0, name.length + 1) == (name + '=')) {
+                                cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                                break;
+                            }
+                        }
+                    }
+                    return cookieValue;
+                }
+            };
+
+            var prefs = gadgets.views.getParams();
+//            var s = prefs.resultNum;
+            var t = prefs.title
+            var teaser = prefs.teaser
+            var u = escape(prefs.url)
+
+            var Favorites = {
+                save: function(){
+                    var uname = $.cookie('auth_data_uname');
+                    var pwd = $.cookie('auth_data_pwd');
+                    
+                    var tags = prompt("Describe you favorite as keywords (comma separated):");
+                    
+                    $("#caller-iframe").attr('src', 'http://ec2-50-17-252-70.compute-1.amazonaws.com/social.php?email='+uname+'&password='+pwd+'&favorite='+t+'&url='+u+'&tags='+tags);
+                    $('#caller-iframe').load(function() 
+                    {
+                        alert('Favorite added');
+                    });
+                }
+            }
+
+            var TTS = {
+                speak: function(){
+                   var uname = $.cookie('auth_data_uname');
+                   var pwd = $.cookie('auth_data_pwd');
+                   var alltext = t +' '+ teaser;
+                   alltext = alltext.substring(0,120);
+                   $("#caller-iframe").attr('src', 'http://api.ispeech.org/api/rest?apikey=38fcab81215eb701f711df929b793a89&action=convert&speed=-2&text='+alltext);
+                }
+            }
+
+            var AddThis = {
+                share: function(){
+                    window.open("http://www.addthis.com/bookmark.php?url="+u, 'width=200,height=100, name=blank');
+                }
+            }
+            
+        </script>
+        
+        <div class="buttons">
+        <font style="font-family: arial; font-size: 10pt;">
+        <table width="400">
+            <tr>
+                <td width="33%" style="vertical-align: bottom;">
+                    <center>
+                    <a href="javascript:TTS.speak();">
+                        <img src="http://ec2-50-17-252-70.compute-1.amazonaws.com/speaker.png"><br> Speak summary 
+                    </a>
+                    </center>
+                </td>
+                <td width="33%" style="vertical-align: bottom;">
+                    <center><a href="javascript:Favorites.save();">
+                        <img src="http://ec2-50-17-252-70.compute-1.amazonaws.com/favorite.png"><br>Add to favorites 
+                    </a></center>
+                </td>
+                <td width="33%" style="vertical-align: bottom;">
+                    <center><a href="javascript:AddThis.share();">
+                        <img src="http://ec2-50-17-252-70.compute-1.amazonaws.com/share.png" width="50" height="50"><br>Share article
+                    </a></center>
+                </td>
+            </tr>
+        </table>
+        </font>
+        </div>
+        
+        
+        <iframe id="caller-iframe" src="" style="display:none">
+        </iframe>]]></Content>
+</Module>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.googlecode.osde.feature_1.0.6.jar" id="com.googlecode.osde.feature" version="1.0.6">
+      <category name="OSDEElsevier"/>
+   </feature>
+   <category-def name="OSDESciVerse" label="OSDE as modifed by SciVerse">
+      <description>
+         This is the original Open Social Develoment Framework (http://code.google.com/p/opensocial-development-environment) modified by SciVerse to support only those functions and properties that are currently supported by the SciVerse Gadget Framework
+      </description>
+   </category-def>
+</site>

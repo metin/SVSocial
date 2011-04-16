@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+	<ModulePrefs title="Sample Gadget" author_email="id@your.domain">
+		<Require feature="sciverse"/>
+		<Require feature="hub"/>
+		<Require feature="org.jquery.core-1.4.2"/>
+		<Require feature="dynamic-height"/>
+		<Require feature="views"/>
+	</ModulePrefs>
+	<UserPref name="pref1" display_name="Preference 1" default_value="one" datatype="string" />
+	<UserPref name="pref2" display_name="Preference 2" default_value="2" datatype="string" />
+
+	<Content type="html" view="profile">
+		<![CDATA[
+  <script type="text/javascript">
+  	var prefs = new gadgets.Prefs();
+  	var pref1 = prefs.getString('pref1');
+  	var pref2 = prefs.getString('pref2');
+  	  	
+  	function getAllResults(){	
+  		gadgets.sciverse.getAllResults(getAllResultsCallback);
+  	}
+  	function getAllResultsCallback(obj){
+  		if (obj == null) {
+  			alert("No results on this page");
+  			return;
+  		}			
+		for(var doc in obj){
+			var a = '';
+			for (var r in obj[doc]){
+				a += r + " :: " + obj[doc][r] + "\n";
+			}
+			alert(a);
+		}
+  	}
+  	function getContextInfo(){
+  		gadgets.sciverse.getContextInfo(contextCallback);
+  	}
+  	function contextCallback(obj){
+  		var rs = '';
+  		for (var c in obj){
+  			rs += c + " : " + unescape(obj[c]) + "\n";
+  		}
+  		alert(rs);
+  	}
+	function invokeResultsView(divId){
+		gadgets.sciverse.invokeResultsView(divId);
+	}  
+	function getResults(){
+		  var resultsRequestedFor = new Array();
+		  var selObj = document.getElementById('selectResults');
+		  var i;
+		  var count = 0;
+		  for (i=0; i<selObj.options.length; i++) {
+		    if (selObj.options[i].selected) {
+		      resultsRequestedFor[count] = (selObj.options[i].value - 1);
+		      count++;
+		    }
+		  }		
+		  //alert("resultsRequestedFor: " + resultsRequestedFor);
+		  if (resultsRequestedFor.length == 0){
+		  	alert("Please select at least one");
+		  	return;
+		  }
+		  gadgets.sciverse.getResults(resultsRequestedFor, getResultsCallback);
+	}	
+	function getResultsCallback(resultsDocs){
+		if (resultsDocs == null) {
+			alert("No results on this page");
+			return;
+		}
+		for(var doc in resultsDocs){
+			var a = '';
+			for (var r in resultsDocs[doc]){
+				a += r + " :: " + resultsDocs[doc][r] + "\n";
+			}
+			alert(a);
+		}		
+	}
+	function executeSearch(){
+		var search = escape(document.getElementById('searchTerms').value);
+		if (search == '') alert("Please enter search terms");
+		else gadgets.hub.executeSearch(search);
+	}
+	function goToCanvas(){
+		gadgets.views.requestNavigateTo('canvas', {});
+	}
+	function getArticleContent(){
+		gadgets.sciverse.getArticleContent(function(art){
+			alert(art);
+		});
+	}
+	function getPageUrl(){
+		gadgets.sciverse.getPageUrl(function(purl){
+			alert(purl);
+		});
+	}
+  </script>
+
+<div>
+	<p>
+		Pref 1 = <script>document.write(pref1);</script><br>
+		Pref 2 = <script>document.write(pref2);</script>
+	</p>
+	<p><a href="javascript:void(0);" onclick="getAllResults();">Get All Results</a></p>
+	<p>
+		<select id="selectResults" multiple="multiple">
+			<option value="1">Result 1</option>
+			<option value="2">Result 2</option>
+			<option value="3">Result 3</option>
+			<option value="4">Result 4</option>
+			<option value="5">Result 5</option>
+		</select>
+		<a href="javascript:getResults();">Get selected results</a>
+	</p>
+	<p><a href="javascript:void(0);" onclick="getContextInfo();">Get Context Info</a></p>
+	<p>
+		<select id="resultSet">
+			<option value='1'>Result 1</option>
+			<option value='2'>Result 2</option>
+			<option value='3'>Result 3</option>
+			<option value='4'>Result 4</option>
+			<option value='5'>Result 5</option>
+			<option value='6'>Result 6</option>						
+		</select> <a href="javascript:invokeResultsView(resultSet.options[resultSet.selectedIndex].value);">Show gadget</a>
+	</p>	
+	<p>
+		<input type="text" id="searchTerms"> <a href="javascript:executeSearch();">Hub Search</a>
+	</p>
+	<p>
+		<a href="javascript:goToCanvas();">Go To Canvas</href>
+	</p>
+	<p>
+		<a href="javascript:getArticleContent();">Article Content</a>
+	</p>
+	<p>
+		<a href="javascript:getPageUrl();">Get page url</a>
+	</p>
+	<p/>	
+</div>
+<script type="text/JavaScript" language="JavaScript">
+	$(function(){
+		setTimeout('gadgets.window.adjustHeight()', 500);
+		
+	});	
+</script>
+  ]]>
+	</Content>
+
+	<Content type="html" view="canvas">
+		<![CDATA[
+	<div>Canvas view for SampleGadget.</div>
+
+  ]]>
+	</Content>
+	<Content type="html" view="sciverseResultsView">
+		<![CDATA[
+	<div>Results view for SampleGadget.</div>
+
+  ]]>
+	</Content>	
+</Module>

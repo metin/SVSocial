@@ -1,0 +1,3 @@
+SV Social is a gadget that speaks articles, organizes favorites, and shares journal articles through social networking.
+
+This application was created during NJIT Hackathon 2011 (mashup). It uses iSpeech Text To Speech API, SciVerse APIs, and  AddThis social link sharing API.

@@ -1,0 +1,55 @@
+
+This files provides instructions to setup your Gadget Development Kit (GDK) environment.
+
+PRE_REQUISITES:
+
+1. You must have JDK 5.0 or later installed and JAVA_HOME env variable set.
+2. You must have a not-too-old version of Eclipse IDE. You can download it at http://www.eclipse.org/downloads/.
+
+SET UP THE GDK ENVIRONMENT:
+
+1. Unzip/extract the gdk.zip to somewhere on your computer.
+
+2. Install the Elsevier version of the OSDE plugin. If you already have a previous version of the plugin, to update it please follow instructions below in "UPDATING THE OSDE-ELSEVIER PLUGIN" section.
+
+3. In Eclipse, go to Help -> Install New Software 
+
+4. Click "Add" and in the "Name" field, give some meaning ful name such as "osde-elsevier", and in the "Location" field, give the path to folder <path to the extracted GDK zip file>/OSDEElsevier/site.xml". You may want to click on "Local" and navigate to the OSDEElsevier folder in the zip extract. In the end the Location field should look similar to "file:/<path to the extracted zip file>/OSDEElsevier/site.xml". Be sure to include site.xml in the location! Click OK.
+
+5. Select the check box for "OSDE as modified by Reed Elsevier" under the "Name" section, click Next and follow the on screen instructions. You may have to restart Eclipse.
+
+6. Navigate to <path to the extracted GDK zip file> and double click on file named "StartGdk.bat". This starts the jetty server in a command prompt window (Use Ctrl + C to kill it).
+
+7. Start the shindig server in Eclipse. Create and deploy gadget(s) by following instructions at http://sites.google.com/site/opensocialdevenv/user-guide/quick-start. Note that in the Elsevier version, some options might be different. There's also a short video at http://www.youtube.com/watch?v=Hh8r7A3o42g which might be helpful.
+
+
+UPDATING THE OSDE-ELSEVIER PLUGIN
+
+If you already have a version of OSDE plugin follow these instructions to update it to the Elsevier supplied version.
+1. Change the location of the OSDE plugin update to point to the OSDEElsevier folder in <path to the extracted zip file>. One way of doing it is to go to Help -> Install New Software, click on "Available Software Sites", select the OSDE plugin that you already have, then edit the location of it to match "file:/<path to the extracted zip file>/OSDEElsevier/site.xml". Be sure to include site.xml in the location! Click Ok, Ok, and Cancel.
+
+2. Select Help -> Check for Updates. This should recognize the OSDE Elsevier plugin, select the update and follow on screen instructions. You may have to restart Eclipse. 
+
+CONFIGURATION:
+
+1. The <path to the extracted GDK zip file>/gdk.properties file defines two properties: shindig.server and jetty.port. By default, the shindig server runs on port 8123 and the jetty server runs on port 8181. Change these as appropriate if you have ports conflict.
+
+2. The <path to the extracted GDK zip file>/MyGadgets.txt lists the url to a sample gadget. Please add urls to your own gadgets here, one per line (No need to restart the jetty server). Note that you create gadgets using the OSDE plugin in Eclipse.
+
+3. The <path to the extracted GDK zip file>/HubResults.json file (its a javascript file) has sample results for the HUB platform in json format. You can customize those results if you wish to but please conform to the json standards / convention when making changes.
+
+4. The <path to the extracted GDK zip file>/SDResults.json file has sample results for the Science Direct platform. You can add/remove results as necessary for testing.
+
+4. The <path to the extracted GDK zip file>/ContextInfo.json (again a javascript file) contains contextual param-value pairs. Please add more as necessary for testing.
+
+NOTES:
+
+1. The only views we currently support are profile, canvas and sciverseResultsView.
+
+HELPFUL TIPS:
+
+1. A simple way to debug javascript is to include the line "debugger;" in your javascript code. This essentially acts as a break point. When you run the app in the browser, the debugger is started and stops at the above location. Note that the debugger (MS script debugger, FireBug, etc) should be on/open for it to work. Now you can step in or step over or follow any of the debugger supplied operations.
+
+KNOWN ISSUES:
+
+1. While most of the functionality should work in the eclipse built-in browser, we noticed issues with the canvas view (it doesn't render the body) when clicked on the icon in the gadget's title bar. We recommend using a regular browser to test in such cases.

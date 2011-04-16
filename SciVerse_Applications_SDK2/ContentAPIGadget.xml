@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+	<ModulePrefs title="Content API Test Gadget" >
+		<Require feature="sciverse"/>
+	</ModulePrefs>
+	<Content type="html" view="profile">
+		<![CDATA[
+  <script type="text/javascript"> 
+  	function testSearch(searchType){
+		var query = '';
+  		var params = {};
+  		var requestHeaders = {};
+  		requestHeaders['X-ELS-APIKey'] = "12342";
+  		requestHeaders['X-Forwarded-For'] = "10.7.48.233";
+  		requestHeaders['X-ELS-Authtoken'] = "some_value";
+  		requestHeaders['X-ELS-ReqId'] = "some_value";
+  		requestHeaders['X-ELS-ResourceVersion'] = "some_value";
+  		var returnType = getSelectedReturnType();
+  		//alert("returnType: " + returnType);
+  		var accept = "";
+  		var contType = "";
+  		if (returnType == 'json'){
+  		  	requestHeaders['Accept'] = "application/json";  			
+  		} else {
+	  		requestHeaders['Accept'] = 'application/atom+xml';
+	  		//requestHeaders[gadgets.io.RequestParameters.CONTENT_TYPE] = gadgets.io.ContentType.FEED;  		
+  		}  		  				
+  		
+  		var ps = "";
+  		for (var p in requestHeaders){
+  			ps += p + " :: " + requestHeaders[p] + "\n";
+  			if (p == 'HEADERS'){
+  				var headers = requestHeaders[p];
+  				for (var h in headers){
+  					ps += "   " + h + " :: " + headers[h] + "\n";
+  				}
+  			}   			
+  		}
+  		//alert(ps);  		
+		gadgets.sciverse.makeContentApiRequest ("http://localhost:8181/gte/content/search/index:"+searchType+"?query="+query, callback, requestHeaders);
+  	}
+  	
+  	function testRetrieve(){
+  		var requestHeaders = {};
+  		requestHeaders['X-ELS-APIKey'] = "12342";
+  		requestHeaders['X-Forwarded-For'] = "10.7.48.233";
+  		var returnType = getSelectedReturnType();
+  		//alert("returnType: " + returnType);
+  		var accept = "";
+  		var contType = "";
+  		if (returnType == 'json'){
+  		  	requestHeaders['Accept'] = "application/json";  			
+  		} else {
+	  		requestHeaders['Accept'] = 'application/atom+xml';
+	  		//requestHeaders[gadgets.io.RequestParameters.CONTENT_TYPE] = gadgets.io.ContentType.FEED;  		
+  		} 
+  		
+  		gadgets.sciverse.makeContentApiRequest("http://localhost:8181/gte/content/article/PII:S0039914007006340", callback, requestHeaders);  	
+  	}
+  	
+  	function callback(obj){
+  		//alert("response from makeRequest: " + obj);
+  		var ps = "";
+  		/*for (var key  in obj){
+  			alert(key + " :: " + obj[key]);
+  			ps += key + " :: " + obj[key] + "\n\n";
+  		}*/
+  		//ps += "headers :: " + obj['headers'] + "\n";
+  		ps += "errors :: " + obj['errors'] + "\n";
+  		ps += "text :: " + obj['text'] + "\n";
+  		//ps += "data :: " + obj['data'] + "\n";
+  		/*var data = obj['data'];
+  		for (var d in data){
+  			ps += d + " :: " + data[d] + "\n";
+  		} */ 		
+  		alert(ps);
+  		/*var text = obj['text'];
+  		var textJson = gadgets.json.parse(text);
+  		var entries = textJson['search-results']['entry'];
+  		alert("entries = " + gadgets.json.stringify(entries));
+  		for (var i=0; i< entries.length; i++){
+  			var entry = entries[i];
+  			//alert(i + " = " + gadgets.json.stringify(entry));
+  			alert("title = " + entry['dc:title']);
+  		}*/
+
+  	}
+  	
+  	function getSelectedReturnType(){
+  		//var returnType = document.getElementById('returnType');
+		var iobjs = document.getElementsByTagName('input');
+		for (var i=0; i<iobjs.length; i++){
+			if (iobjs[i].type == 'radio'){
+				if (iobjs[i].checked) {
+					return iobjs[i].value;
+				}
+			}
+		}
+		/*alert(returnType.length);
+  		for (var i=0; i< returnType.length; i++){
+  			if (returnType[i].checked) return returnType[i].value;
+  		}*/
+  		return null;   	
+  	}
+  </script>
+
+<div>
+	<p><input type="radio" checked name="returnType" id="returnType" value="json"/> Json <input type="radio" name="returnType" id="returnType" value="atom"/> Atom
+	<p><!--input type="text" id="query" value="" /-->&nbsp;<a href="javascript:testSearch('HUB')">Test Hub Search</a></p>
+	<p><a href="javascript:testSearch('SCIDIR')">Test Science Direct Search</a></p>
+	<p><a href="javascript:testSearch('SCOPUS')">Test Scopus Search</a></p>
+	<p><a href="javascript:testSearch('AUTHOR')">Test Author Search</a></p>
+	<p><a href="javascript:testSearch('AFFILIATION')">Test Affiliation Search</a></p>
+</div>
+
+  ]]>
+	</Content>
+
+	<Content type="html" view="canvas">
+		<![CDATA[
+	<div>Canvas view for Content API Test Gadget.</div>
+
+  ]]>
+	</Content>
+	<Content type="html" view="sciverseResultsView">
+		<![CDATA[
+	<div>Results view for Content API Test Gadget.</div>
+
+  ]]>
+	</Content>	
+</Module>
